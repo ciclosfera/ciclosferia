@@ -31,12 +31,7 @@ span.fit iframe {
 }
 
 #banner:after {
-  background-color: #173b5f;
-}
-
-body.landing #page-wrapper {
-  background-size: 150%;
-  background-position: 55% center;
+  background-color: #415253
 }
 
 @media screen and (max-width: 1000px) {

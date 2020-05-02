@@ -1870,13 +1870,13 @@ input[type="radio"] + label:before {
 
 /* Icon */
 
-.icon {
+.fab {
     text-decoration: none;
     border-bottom: none;
     position: relative;
 }
 
-.icon:before {
+.fab:before {
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
     font-family: FontAwesome;
@@ -1885,11 +1885,11 @@ input[type="radio"] + label:before {
     text-transform: none !important;
 }
 
-.icon > .label {
+.fab > .label {
     display: none;
 }
 
-.icon.major {
+.fab.major {
     -moz-transform: rotate(-45deg);
     -webkit-transform: rotate(-45deg);
     -ms-transform: rotate(-45deg);
@@ -1904,7 +1904,7 @@ input[type="radio"] + label:before {
     width: calc(3em + 2px);
 }
 
-.icon.major:before {
+.fab.major:before {
     -moz-transform: rotate(45deg);
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
@@ -1914,22 +1914,20 @@ input[type="radio"] + label:before {
 }
 
 @media screen and (max-width: 736px) {
-
-    .icon.major {
+    .fab.major {
         font-size: 1em;
     }
-
 }
 
-.icon.style1 {
+.fab.style1 {
     color: #00ffcc;
 }
 
-.icon.style2 {
+.fab.style2 {
     color: #00f0ff;
 }
 
-.icon.style3 {
+.fab.style3 {
     color: #76ddff;
 }
 
@@ -2269,11 +2267,11 @@ button:active,
     background-color: rgba(144, 144, 144, 0.5);
 }
 
-input[type="submit"].icon:before,
-input[type="reset"].icon:before,
-input[type="button"].icon:before,
-button.icon:before,
-.button.icon:before {
+input[type="submit"].fab:before,
+input[type="reset"].fab:before,
+input[type="button"].fab:before,
+button.fab:before,
+.button.fab:before {
     margin-right: 0.5em;
 }
 
@@ -2729,7 +2727,7 @@ button:disabled,
     color: #a6e0db !important;
 }
 
-.wrapper.style1 .icon.major {
+.wrapper.style1 .fab.major {
     border-color: rgba(0, 0, 0, 0.125);
 }
 
@@ -2887,7 +2885,7 @@ button:disabled,
     color: #b9bad3 !important;
 }
 
-.wrapper.style3 .icon.major {
+.wrapper.style3 .fab.major {
     border-color: rgba(0, 0, 0, 0.125);
 }
 
@@ -3045,7 +3043,7 @@ button:disabled,
     color: #8E8892 !important;
 }
 
-.wrapper.style5 .icon.major {
+.wrapper.style5 .fab.major {
     border-color: #dfdfdf;
 }
 

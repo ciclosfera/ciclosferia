@@ -1876,15 +1876,6 @@ input[type="radio"] + label:before {
     position: relative;
 }
 
-.fab:before {
-    -moz-osx-font-smoothing: grayscale;
-    -webkit-font-smoothing: antialiased;
-    font-family: FontAwesome;
-    font-style: normal;
-    font-weight: normal;
-    text-transform: none !important;
-}
-
 .fab > .label {
     display: none;
 }

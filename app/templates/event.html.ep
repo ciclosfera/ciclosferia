@@ -39,10 +39,10 @@
             <div class="inner">
               <section>
                 <header>
-                  <h1><%= $meta->{title} %></h1>
+                  <h2><%= $meta->{title} %></h2>
                   <p><%= $meta->{description} %></p>
                 </header>
-                <%== $body %>
+                <%= $body %>
               </section>
             </div>
           </section>

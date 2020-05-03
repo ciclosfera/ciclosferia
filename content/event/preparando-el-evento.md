@@ -3,7 +3,7 @@ description: Una descripción de este evento que saldrá al compartir y como int
 at: 03/05/2020 19:00
 duration: 45
 peers: Rafa Vidiella, Diego, Laura
-where: https://meet.jit.si/ciclosferia-orgas
+youtube: BzIp_typF3o
 ----
 Una amena charla para hablar sobre como vamos a montar este fregado.
 

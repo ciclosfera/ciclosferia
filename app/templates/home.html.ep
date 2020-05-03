@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Ciclosferia - Festival online de ciclismo urbano</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="/static/css/main.css">
+    <link rel="stylesheet" href="/static/custom.css">
+    <noscript><link rel="stylesheet" href="/static/css/noscript.css" /></noscript>
+    <link rel="shortcut icon" type="image/png" href="/static/img/icon.png">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="og:site_name" content="Ciclosferia">
+    <meta property="og:title" content="Ciclosferia - Festival de ciclismo urbano">
+    <meta property="og:url" content="https://ciclosferia.com">
+    <meta property="og:description" content="Ciclosferia es el primer festival online de ciclismo urbano organizado por ciclosfera.com">
+    <meta property="og:image" content="https://ciclosferia.com/static/img/ciclosferia-cartel.jpg">
+  </head>
+  <body class="landing is-preload">
+    <div id="page-wrapper">
+
+      <header id="header" class="alt">
+        <h1><a href="/">Ciclos<span style="color:red;">Feria</span></a></h1>
+        <nav id="nav">
+          <ul>
+            <li class="special">
+              <a href="#menu" class="menuToggle"><span>Menu</span></a>
+              <div id="menu">
+                <ul>
+                  <li><a href="/">Portada</a></li>
+                  <li><a href="/event/">Eventos</a></li>
+                  <li><a href="/expo/">Sponsors</a></li>
+                </ul>
+              </div>
+            </li>
+          </ul>
+        </nav>
+      </header>
+
+      <section id="banner">
+        <div class="inner">
+          <h2>Ciclos<span style="color:red;">Feria</span></h2>
+          <p>Festival online de ciclismo urbano</p>
+          <ul class="actions special">
+            <li><a href="/event/preparando-el-evento/" class="button primary">En vivo <i class="fas fa-play"></i></a></li>
+          </ul>
+          <h3>11-18 Mayo de 2020</h3>
+        </div>
+      </section>
+
+      <section id="/presentation" class="wrapper style1 special">
+        <div class="inner">
+          <header class="major">
+            <h2>El primer festival online de ciclismo urbano</h2>
+            <p>
+              <b class="block">
+                Nuevos tiempos, nuevas formas de moverse y de vivir.
+                Para ellos nace Ciclosferia, festival online de ciclismo urbano: una semana de aprendizaje, colaboración
+                y herramientas. Entrevistas. Charlas. Debates. Una semana para trabajar juntos y rodar en grupo.
+              </b>
+            </p>
+            <p>
+              <b class="block">
+                Ciclosferia nace de Ciclosfera. De ocho años de revista, redes sociales, amigos y locura. Locura por el ciclismo urbano y cambiar el mundo.
+                Algo que merecía una fiesta. Un festival: ese al que te estamos invitando.
+              </b>
+            </p>
+          </header>
+        </div>
+      </section>
+
+      <section id="/venue" class="wrapper style2 special">
+        <div class="inner">
+          <header class="major">
+            <h2>Dónde</h2>
+            <p>
+              Este festival será en Internet. Podrás seguirlo todo en directo desde esta web y nuestras redes sociales (YouTube, Instagram, Facebook y Twitter). Todos los eventos podrán verse también bajo demanda, cuando tú quieras y puedas.
+            </p>
+          </header>
+        </div>
+      </section>
+
+      <section id="/schedule" class="wrapper style3 special">
+        <div class="inner">
+          <header class="major">
+            <h2>Programa</h2>
+            <p>
+              Compartimos con vosotros, durante ocho días, historias, debates, propuestas. Una sala en constante movimiento. Como la ciudad. Como tú. ¿Quieres participar?, <a href="mailto:rafa@ciclosfera.com">envianos tu propuesta</a>.
+            </p>
+          </header>
+
+          <table id="schedule">
+            <thead>
+              <tr class="header">
+                <th></th>
+                <th>11 de mayo</th>
+              </tr>
+            </thead>
+
+            <tbody>
+              <tr>
+                <td class="time">10:00<br/>10:30</td>
+                <td class="room room-venue time-30">
+                  <div class="title">Bienvenida</div>
+                  <div class="author">Rafa Vidiella</div>
+                </td>
+              </tr>
+              <tr>
+                <td class="time">11:00<br/>12:00</td>
+                <td class="room room-0 time-50">
+                  <div class="title">
+                    <a href="/event/preparando-el-evento/">Evento de prueba para ver como se usa esto</a>
+                  </div>
+                  <div class="author">Rafa, Laura y Diego</div>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+
+          <table id="schedule">
+            <thead>
+              <tr class="header">
+                <th></th>
+                <th>12 de mayo</th>
+              </tr>
+            </thead>
+
+            <tbody>
+              <tr>
+                <td class="time">10:00<br/>10:30</td>
+                <td class="room room-venue time-30">
+                  <div class="title">Bienvenida</div>
+                  <div class="author">Rafa Vidiella</div>
+                </td>
+              </tr>
+              <tr>
+                <td class="time">11:00<br/>12:00</td>
+                <td class="room room-0 time-60">
+                  <div class="title">
+                    <a href="/event/preparando-el-evento/">Evento de prueba para ver como se usa esto</a>
+                  </div>
+                  <div class="author">Rafa, Laura y Diego</div>
+                </td>
+              </tr>
+              <tr>
+                <td class="time">15:00<br/>16:00</td>
+                <td class="room room-1 time-60">
+                  <div class="title">
+                    <a href="/event/preparando-el-evento/">Evento de prueba para ver como se usa esto</a>
+                  </div>
+                  <div class="author">Rafa, Laura y Diego</div>
+                </td>
+              </tr>
+              <tr>
+                <td class="time">23:00<br/>13:30</td>
+                <td class="room room-venue time-30">
+                  <div class="title">Resumen del día</div>
+                  <div class="author">Rafa Vidiella</div>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <footer id="footer">
+        <ul class="icons">
+          <li><a href="https://www.facebook.com/ciclosfera/" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+          <li><a href="https://www.instagram.com/ciclosfera/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+          <li><a href="https://www.youtube.com/ciclosfera/" class="icon brands fa-youtube"><span class="label">Youtube</span></a></li>
+          <li><a href="https://twitter.com/ciclosfera" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+          <li><a href="mailto:rafa@ciclosfera.com" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+        </ul>
+        <ul class="copyright">
+          <li>Organizado con amor por <a href="https://ciclosfera.com">Ciclosfera</a></li>
+        </ul>
+      </footer>
+
+    </div>
+    <script src="/static/js/jquery.min.js"></script>
+    <script src="/static/js/jquery.scrollex.min.js"></script>
+    <script src="/static/js/jquery.scrolly.min.js"></script>
+    <script src="/static/js/browser.min.js"></script>
+    <script src="/static/js/breakpoints.min.js"></script>
+    <script src="/static/js/util.js"></script>
+    <script src="/static/js/main.js"></script>
+  </body>
+</html>

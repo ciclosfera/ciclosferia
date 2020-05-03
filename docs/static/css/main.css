@@ -2788,7 +2788,7 @@ button:disabled,
 /* Wrapper */
 
 .wrapper {
-    padding: 6em 0 4em 0 ;
+    padding: 3em 0 3em 0 ;
 }
 
 .wrapper > .inner {
@@ -4013,12 +4013,16 @@ body.is-mobile.landing #footer {
 
 #main > div.event-head > * {
     box-sizing: border-box;
-    padding: 4em;
+    padding: 3em 1.5em;
 }
 
 #main > div.event-head > .stream {
     width:50%;
 }
+#main > div.event-head > .info {
+    width:50%;
+}
+
 
 .video-placeholder {
     width:100%;
@@ -4053,38 +4057,12 @@ body.is-mobile.landing #footer {
     height: 100%;
 }
 
-#main > div.event-head > .info {
-    width:50%;
-}
-
-@media screen and (max-width: 1680px) {
-
-    #main > div.event-head {
-        padding: 10em 0 8em 0 ;
-    }
-
-}
-
-@media screen and (max-width: 1280px) {
-
-    #main > div.event-head {
-        padding: 8em 3em 6em 3em ;
-    }
-
-}
-
 @media screen and (max-width: 980px) {
-
-    #main > div.event-head {
-        padding: 10em 3em 8em 3em ;
+    #main > div.event-head > .stream {
+        width:100%;
     }
-
-}
-
-@media screen and (max-width: 736px) {
-
-    #main > div.event-head {
-        padding: 5em 3em 3em 3em ;
+    #main > div.event-head > .info {
+        padding: 0 2em 2em 2em;
+        width:100%;
     }
-
 }

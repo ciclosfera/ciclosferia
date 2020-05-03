@@ -1,9 +1,10 @@
-at: 02/05/2020 19:00
+title: Preparando Ciclosferia
+description: Una descripción de este evento que saldrá al compartir y como intro.
+at: 03/05/2020 19:00
+duration: 45
 peers: Rafa Vidiella, Diego, Laura
 where: https://meet.jit.si/ciclosferia-orgas
 ----
-# Preparando Ciclosferia
-
 Una amena charla para hablar sobre como vamos a montar este fregado.
 
 ## Temas a tratar

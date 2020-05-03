@@ -36,12 +36,12 @@
 
         <article id="main">
           <section class="wrapper style5">
-            <header>
-              <h1><%= $meta->{title} %></h1>
-              <p><%= $meta->{description} %></p>
-            </header>
             <div class="inner">
               <section>
+                <header>
+                  <h1><%= $meta->{title} %></h1>
+                  <p><%= $meta->{description} %></p>
+                </header>
                 <%== $body %>
               </section>
             </div>

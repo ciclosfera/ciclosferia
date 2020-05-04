@@ -1,5 +1,5 @@
-title: Cargobikes: ¿las matacoches?
-description: El vehículo del futuro ya existe: se llama cargobike.  
+title: Specialized: máquinas para el día a día en la ciudad
+description: El vehículo del futuro ya existe: se llama bicicleta. Y las Specialized son una referencia para el ciclismo urbano. Su director de marketing, Yuriy Tomas, responde todas tus dudas.   
 at: 12/05/2020 15:00
 duration: 30
 ----

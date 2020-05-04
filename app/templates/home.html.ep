@@ -99,13 +99,6 @@
               </tr>
             </thead>
             <tbody>
-              <tr>
-                <td class="time">10:00<br/>10:30</td>
-                <td class="room room-venue time-30">
-                  <div class="title">Bienvenida</div>
-                  <div class="author">Rafa Vidiella</div>
-                </td>
-              </tr>
             % my $count = 0;
             % for my $event ( $day->{events}->@* ) {
               <tr>
@@ -119,7 +112,11 @@
                   <br/><%= $time %>
                 % }
                 </td>
+              % if ( $event->{meta}{featured} ) {
+                <td class="room room-venue time-<%= $event->{meta}{duration} || 60 %>">
+              % } else {
                 <td class="room room-<%= $count++ % 2 %> time-<%= $event->{meta}{duration} || 60 %>">
+              % }
                   <div class="title">
                     <a href="/event/<%= $event->{slug} %>/"><%= $event->{meta}{title} %></a>
                   </div>

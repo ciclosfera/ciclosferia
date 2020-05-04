@@ -52,6 +52,9 @@
             <h2><%= $meta->{title} %></h2>
             % if ( my $start = $meta->{start_at} ) {
             <p>
+            % if ( my $peers = $meta->{peers} ) {
+              <i class="far fa-user"></i> <%= $peers %>
+            % }
               % my $time = $start->hms;
               % $time =~ s/:00$//;
               % $time .= ' a '. $meta->{end_at}->hms if $meta->{end_at};

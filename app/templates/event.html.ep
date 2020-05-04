@@ -101,5 +101,12 @@
     <script src="/static/js/breakpoints.min.js"></script>
     <script src="/static/js/util.js"></script>
     <script src="/static/js/main.js"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-165537393-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-165537393-1');
+    </script>
   </body>
 </html>

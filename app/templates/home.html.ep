@@ -120,7 +120,7 @@
                   <div class="title">
                     <a href="/event/<%= $event->{slug} %>/"><%= $event->{meta}{title} %></a>
                   </div>
-                  <div class="author"><%= $event->{meta}{peers} || 'Invitados sorpresa' %></div>
+                  <div class="author"><%= $event->{meta}{peers} || '' %></div>
                 </td>
               </tr>
           % }

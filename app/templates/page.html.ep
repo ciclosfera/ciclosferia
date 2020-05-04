@@ -35,11 +35,11 @@
       </header>
 
       <article id="main">
+        <header>
+          <h2><%= $meta->{title} || $slug %></h2>
+          <p><%= $meta->{description} || '' %></p>
+        </header>
         <section class="wrapper style5">
-          <header>
-            <h2><%= $meta->{title} || $slug %></h2>
-            <p><%= $meta->{description} || '' %></p>
-          </header>
           <div class="inner">
             <section>
               <%= $body %>

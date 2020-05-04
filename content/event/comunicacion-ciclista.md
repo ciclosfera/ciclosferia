@@ -2,7 +2,7 @@ title: Comunicación ciclista
 description: Reunimos a periodistas expertos en movilidad para que nos den su opinión sobre la evolución que está teniendo el ciclismo urbano, qué retos plantea el futuro y cómo comunicar las bondades de la bici. Con Pedro Bravo, Clara Blanchar y Pablo León.  
 at: 13/05/2020 16:00
 duration: 75
-peers: [Pedro Bravo] [https://twitter.com/pedrobravo?lang=en], [Clara Blanchar] [https://twitter.com/clarablanchar] y [Pablo León] [https://twitter.com/pablo_lion?lang=en]
+peers: [Pedro Bravo](https://twitter.com/pedrobravo?lang=en), [Clara Blanchar](https://twitter.com/clarablanchar) y [Pablo León](https://twitter.com/pablo_lion?lang=en)
 ----
 ### Sobre qué hablaremos en este evento
 

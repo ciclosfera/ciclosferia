@@ -1,5 +1,5 @@
 title: ¿Cómo conseguir ciclistas?
-description: Es el momento de lograr que la bicicleta sea el medio de transporte más usado. ¿Cómo podemos sumar a más gente?
+description: Es el momento de lograr que la bicicleta sea el medio de transporte más usado. ¿Cómo podemos sumar a más gente? Una charla con Belén Calahorro, Xavi Prat e Isabel Ramis. 
 at: 11/05/2020 18:00
 duration: 75
 ----
@@ -9,4 +9,4 @@ Queremos que la bicicleta se afiance como medio de transporte en el nuevo escena
 
 ¿Cómo conseguir más ciclistas? Buena infraestructura, facilidades en los puestos de trabajo, mayor educación vial… Hay muchas opciones. Muchas respuestas. Muchas claves para que seamos muchos más pedaleando en las calles.
 
-Si quieres saberlas todas, y proponer las tuyas, no te pierdas este evento.
+Si quieres saberlas todas, y proponer las tuyas, no te pierdas este evento. Participarán Belén Calahorro, Coordinadora de la Agencia Municipal de la Bicicleta de Valencia, Xavi Prat (Biciclot, Barcelona) e Isabel Ramis (Muévete en Bici por Madrid). 

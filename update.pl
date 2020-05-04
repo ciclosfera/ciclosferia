@@ -3,10 +3,12 @@ use Mojo::Base -strict, -signatures;
 
 while (1) {
     my $out = `git pull 2>&1`;
-    say "---> $out <---;
-    `./app/builder.pl`;
-    `git add .`;
-    `git ci -m 'Rebuilt'`;
-    `git push`;
+    if ( $out =~ /files changed/m ) {
+        say `./app/builder.pl`;
+        `git add .`;
+        `git ci -m 'Rebuilt'`;
+        `git push`;
+    }
+    say "Waiting...";
     sleep 120;
 }

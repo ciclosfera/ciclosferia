@@ -52,18 +52,23 @@
             <h2><%= $meta->{title} %></h2>
             % if ( my $start = $meta->{start_at} ) {
             <p>
-            % if ( my $peers = $meta->{peers} ) {
-              <i class="far fa-user"></i> <%= $peers %>
-            % }
               % my $time = $start->hms;
               % $time =~ s/:00$//;
               % $time .= ' a '. $meta->{end_at}->hms if $meta->{end_at};
               % $time =~ s/:00$//;
               <i class="far fa-calendar"></i> <%= ucfirst $start->day_name %> <%= $start->day %> de <%= ucfirst $start->month_name %><br/>
               <i class="far fa-clock"></i> <%= $time %>
+            % if ( my $peers = $meta->{peers} ) {
+              <br/><br/><i class="far fa-user"></i> <%= $peers %>
+            % }
             </p>
             % } elsif ( my $at = $meta->{at} ) {
-            <p><i class="far fa-calendar"></i> <%= $at %></p>
+            <p>
+              <i class="far fa-calendar"></i> <%= $at %>
+            % if ( my $peers = $meta->{peers} ) {
+              <br/><br/><i class="far fa-user"></i> <%= $peers %>
+            % }
+            </p>
             % }
             <p><%= $meta->{description} %></p>
           </div>

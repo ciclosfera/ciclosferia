@@ -59,14 +59,14 @@
               <i class="far fa-calendar"></i> <%= ucfirst $start->day_name %> <%= $start->day %> de <%= ucfirst $start->month_name %><br/>
               <i class="far fa-clock"></i> <%= $time %>
             % if ( my $peers = $meta->{peers} ) {
-              <br/><br/><i class="far fa-user-circle"></i> <%= $peers %>
+              <br/><br/><i class="far fa-user"></i> <%= $peers %>
             % }
             </p>
             % } elsif ( my $at = $meta->{at} ) {
             <p>
               <i class="far fa-calendar"></i> <%= $at %>
             % if ( my $peers = $meta->{peers} ) {
-              <br/><br/><i class="far fa-user-circle"></i> <%= $peers %>
+              <br/><br/><i class="far fa-user"></i> <%= $peers %>
             % }
             </p>
             % }

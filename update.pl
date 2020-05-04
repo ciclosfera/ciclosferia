@@ -9,6 +9,9 @@ while (1) {
         `git ci -m 'Rebuilt'`;
         `git push`;
     }
+    else {
+        say $out;
+    }
     say "Waiting...";
-    sleep 600;
+    sleep 300;
 }

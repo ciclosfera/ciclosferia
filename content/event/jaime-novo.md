@@ -1,4 +1,4 @@
-title: Jaime Novo (TOCADO POR RAFA OTRA VEZ): un alcalde ciclista para los madrileños
+title: Jaime Novo (TOCADO POR DANI): un alcalde ciclista para los madrileños
 description: A estas alturas, deben quedar pocos ciclistas urbanos de Madrid que aún no conozcan a Jaime Novo. El periodista y cicloactivista es, además, el alcalde ciclista de la capital desde el pasado enero.   
 at: 12/05/2020 13:00
 duration: 30

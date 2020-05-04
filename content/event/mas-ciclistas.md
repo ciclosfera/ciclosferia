@@ -2,6 +2,7 @@ title: Cuantos más, mejor: ¿cómo lograr que más gente se mueva en bicicleta?
 description: Es el momento de lograr que la bicicleta sea el medio de transporte más usado. ¿Cómo podemos sumar a más gente? Una charla con Belén Calahorro, Xavi Prat e Isabel Ramis. 
 at: 11/05/2020 18:00
 duration: 75
+peers: Belén Calahorro, Isabel Ramis y Xavi Prat. 
 ----
 ### Sobre qué hablaremos en este evento
 

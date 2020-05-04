@@ -1,6 +1,5 @@
 title: Ciclologística: repartos en bicicleta 
 description: Si la bicicleta es el mejor vehículo para los trayectos urbanos, sus ventajas se multiplican a la hora de hacer entregas y repartos. ¿Cuáles son esas ventajas? ¿Qué presente y futuro tiene el sector?
- 
 at: 14/05/2020 18:00
 duration: 75
 ----

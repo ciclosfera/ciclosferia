@@ -66,8 +66,9 @@
 }
 
 #schedule td.time {
-  vertical-align: center;
+  vertical-align: middle;
   padding-top: 0;
+  width: 100px;
 }
 
 #schedule td.time-10 { min-height: 3em; }

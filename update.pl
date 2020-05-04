@@ -10,5 +10,5 @@ while (1) {
         `git push`;
     }
     say "Waiting...";
-    sleep 120;
+    sleep 600;
 }

@@ -27,7 +27,7 @@
               <div id="menu">
                 <ul>
                   <li><a href="/">Portada</a></li>
-                  <li><a href="/event/">Eventos</a></li>
+                  <li><a href="/#/schedule">Eventos</a></li>
                   <li><a href="/expo/">Sponsors</a></li>
                 </ul>
               </div>
@@ -88,14 +88,16 @@
             </p>
           </header>
 
+        % for my $day ( $days->@* ) {
           <table id="schedule">
             <thead>
               <tr class="header">
                 <th></th>
-                <th>11 de mayo</th>
+                <th>
+                  <%= ucfirst $day->{date}->day_name %> <%= $day->{date}->day %> de <%= ucfirst $day->{date}->month_name %>
+                </th>
               </tr>
             </thead>
-
             <tbody>
               <tr>
                 <td class="time">10:00<br/>10:30</td>
@@ -104,61 +106,30 @@
                   <div class="author">Rafa Vidiella</div>
                 </td>
               </tr>
+            % my $count = 0;
+            % for my $event ( $day->{events}->@* ) {
               <tr>
-                <td class="time">11:00<br/>12:00</td>
-                <td class="room room-0 time-50">
+                <td class="time">
+                % my $time = $event->{meta}{start_at}->hms;
+                % $time =~ s/:00$//;
+                  <%= $time %>
+                % if ( my $end = $event->{meta}{end_at} ) {
+                % $time = $end->hms;
+                % $time =~ s/:00$//;
+                  <br/><%= $time %>
+                % }
+                </td>
+                <td class="room room-<%= $count++ % 2 %> time-<%= $event->{meta}{duration} || 60 %>">
                   <div class="title">
-                    <a href="/event/preparando-el-evento/">Evento de prueba para ver como se usa esto</a>
+                    <a href="/event/<%= $event->{slug} %>/"><%= $event->{meta}{title} %></a>
                   </div>
-                  <div class="author">Rafa, Laura y Diego</div>
+                  <div class="author"><%= $event->{peers} || 'Invitados sorpresa' %></div>
                 </td>
               </tr>
+          % }
             </tbody>
           </table>
-
-          <table id="schedule">
-            <thead>
-              <tr class="header">
-                <th></th>
-                <th>12 de mayo</th>
-              </tr>
-            </thead>
-
-            <tbody>
-              <tr>
-                <td class="time">10:00<br/>10:30</td>
-                <td class="room room-venue time-30">
-                  <div class="title">Bienvenida</div>
-                  <div class="author">Rafa Vidiella</div>
-                </td>
-              </tr>
-              <tr>
-                <td class="time">11:00<br/>12:00</td>
-                <td class="room room-0 time-60">
-                  <div class="title">
-                    <a href="/event/preparando-el-evento/">Evento de prueba para ver como se usa esto</a>
-                  </div>
-                  <div class="author">Rafa, Laura y Diego</div>
-                </td>
-              </tr>
-              <tr>
-                <td class="time">15:00<br/>16:00</td>
-                <td class="room room-1 time-60">
-                  <div class="title">
-                    <a href="/event/preparando-el-evento/">Evento de prueba para ver como se usa esto</a>
-                  </div>
-                  <div class="author">Rafa, Laura y Diego</div>
-                </td>
-              </tr>
-              <tr>
-                <td class="time">23:00<br/>13:30</td>
-                <td class="room room-venue time-30">
-                  <div class="title">Resumen del día</div>
-                  <div class="author">Rafa Vidiella</div>
-                </td>
-              </tr>
-            </tbody>
-          </table>
+        % }
         </div>
       </section>
 

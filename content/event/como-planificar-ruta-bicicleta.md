@@ -1,7 +1,8 @@
 title: Cómo planificar tu ruta en bicicleta 
-description: Buena parte de la satisfacción de un recorrido ciclista depende de la ruta elegida. El camino más corto no tiene por qué ser el mejor. El trayecto que harías en coche, o andando, puede ser diferente al más idóneo para pedalear. .
+description: Buena parte de la satisfacción de un recorrido ciclista depende de la ruta elegida. El camino más corto no tiene por qué ser el mejor. El trayecto que harías en coche, o andando, puede ser diferente al más idóneo para pedalear. 
 at: 13/05/2020 20:00
 duration: 60
+peers: Juan G. Alberdi (Juanítez)
 ----
 ### Sobre qué hablaremos en este evento
 

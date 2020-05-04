@@ -15,9 +15,10 @@ my $images_dir   = $content_dir->child('image/');
 
 my $events     = read_source('event');
 my $pages      = read_source('page');
-my $expositors = read_source('expositor');
+#my $expositors = read_source('expositor');
 
 build_events($events);
+build_pages($pages);
 build_home($events);
 
 sub build_home($events) {
@@ -40,6 +41,19 @@ sub build_events($events) {
     my $template = get_template('event');
     $events->each(sub($e, $idx){
         my $dest_dir = $root_dir->child('event', $e->{slug});
+        $dest_dir->make_path;
+
+        my $dest = $dest_dir->child('index.html');
+        say ' - ', $e->{slug};
+        $dest->spurt(encode 'UTF8', $template->process($e));
+    });
+}
+
+sub build_pages($pages) {
+    say 'Building pages:';
+    my $template = get_template('page');
+    $pages->each(sub($e, $idx){
+        my $dest_dir = $root_dir->child($e->{slug});
         $dest_dir->make_path;
 
         my $dest = $dest_dir->child('index.html');

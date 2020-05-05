@@ -2,7 +2,7 @@ title: Al trabajo en bici: guía para empresas bikefriendly
 description: Las empresas son un instrumento clave para incentivar el uso de la bicicleta entre sus trabajadores: ¿cómo pueden hacerlo? 
 at: 12/05/2020 22:00
 duration: 90
-peers: Pedro Bravo, Clara Blanchar y Pablo León
+peers: Ignacio Prieto, Gregorio Magno y Carlos Núñez
 ----
 ### Sobre qué hablaremos en este evento
 

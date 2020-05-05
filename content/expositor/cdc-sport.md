@@ -1,8 +1,8 @@
-name: CDC Sports
-description: Something about CDC Sports
+name: CDC Sport
+description: Something about CDC Sport
 url: https://www.cdc-sport.com/es/
-logo: cdc-sports.png
-background: cdc-sports-back.png
+logo: cdc-sport.png
+background: cdc-sport-back.jpg
 order: 7
 ----
 ### Añadir info de la marca

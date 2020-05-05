@@ -2,7 +2,7 @@ name: Canyon
 description: Something about canyon
 url: https://www.canyon.com/es-es/
 logo: canyon.png
-background: canyon-back.png
+background: canyon-back.jpg
 order: 2
 ----
 ### Añadir info de la marca

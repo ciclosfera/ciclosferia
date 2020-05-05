@@ -17,17 +17,17 @@ my $events     = read_source('event');
 my $pages      = read_source('page');
 my $expositors = read_source('expositor');
 
-build_events($events);
+build_events($events, $expositors);
 build_expositors($expositors);
-build_pages($pages);
-build_home($events);
+build_pages($pages, $expositors);
+build_home($events, $expositors);
 
-sub build_home($events) {
+sub build_home($events, $expositors) {
     my $dest     = $root_dir->child('index.html');
     my $template = get_template('home');
     say 'Building home';
 
-    my $data = { events => $events };
+    my $data = { events => $events, expositors => $expositors };
     $events->sort(sub{ $a->{meta}{start_at} <=> $b->{meta}{start_at} })->each(sub($ev, $idx){
         $data->{days}{$ev->{meta}{start_at}->dmy}{date} ||= $ev->{meta}{start_at}->clone;
         push $data->{days}{$ev->{meta}{start_at}->dmy}{events}->@*, $ev;
@@ -37,7 +37,7 @@ sub build_home($events) {
     $dest->spurt(encode 'UTF8', $template->process($data));
 }
 
-sub build_events($events) {
+sub build_events($events, $expositors) {
     say 'Building events:';
     my $template = get_template('event');
     $events->each(sub($e, $idx){
@@ -46,11 +46,11 @@ sub build_events($events) {
 
         my $dest = $dest_dir->child('index.html');
         say ' - ', $e->{slug};
-        $dest->spurt(encode 'UTF8', $template->process($e));
+        $dest->spurt(encode 'UTF8', $template->process({ %$e, expositors => $expositors }));
     });
 }
 
-sub build_pages($pages) {
+sub build_pages($pages, $expositors) {
     say 'Building pages:';
     my $template = get_template('page');
     $pages->each(sub($e, $idx){
@@ -59,7 +59,7 @@ sub build_pages($pages) {
 
         my $dest = $dest_dir->child('index.html');
         say ' - ', $e->{slug};
-        $dest->spurt(encode 'UTF8', $template->process($e));
+        $dest->spurt(encode 'UTF8', $template->process({ %$e, expositors => $expositors }));
     });
 }
 

@@ -3894,6 +3894,10 @@ body.is-mobile #main > header {
     font-size: 1.25em;
 }
 
+#footer  a {
+    border: 0;
+}
+
 #footer .icons a {
     color: rgba(255, 255, 255, 0.5);
 }
@@ -4090,6 +4094,14 @@ body.is-mobile.landing #footer {
     width:100%;
 }
 
+header.brand a {
+    border:0;
+}
+
+header.brand img {
+    max-width: 60%;
+}
+
 @media screen and (max-width: 1680px) {
     .sponsors > ul > li {
         width: 20%;
@@ -4109,6 +4121,10 @@ body.is-mobile.landing #footer {
         width: 33%;
         padding: 0 4%;
     }
+
+    header.brand img {
+        max-width: 70%;
+    }
 }
 
 @media screen and (max-width: 736px) {
@@ -4116,4 +4132,9 @@ body.is-mobile.landing #footer {
         width: 50%;
         padding: 0 5%;
     }
+
+    header.brand img {
+        max-width: 80%;
+    }
 }
+

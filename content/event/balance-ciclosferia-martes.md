@@ -2,7 +2,7 @@ title: Balance del segundo día y anticipo del miércoles.
 description: La jornada estuvo llena de información y formación y, también, de productos y novedades. Repasamos lo más destacado. 
 at: 12/05/2020 23:45
 duration: 15
-peers: Laura Rico y Rafa Vidiella. 
+peers: Laura Rincón y Rafa Vidiella. 
 featured:1
 ----
 ### Sobre qué hablaremos en este evento

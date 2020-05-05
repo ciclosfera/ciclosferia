@@ -7,4 +7,4 @@ featured:1
 ----
 ### Sobre qué hablaremos en este evento
 
-Cuarta jornada y con ella llegamos a la mitad del festival. Rafa Vidiella y Dani Cabezas, director y redactor jefe de Ciclosfera, repasan contigo el horario de hoy ¡Agarraos que vienen curvas! 
+Cuarta jornada y con ella superamos la mitad del festival. Rafa Vidiella y Dani Cabezas, director y redactor jefe de Ciclosfera, repasan contigo el horario de hoy ¡Agarraos que vienen curvas! 

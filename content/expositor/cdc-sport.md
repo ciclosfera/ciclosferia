@@ -1,7 +1,7 @@
 name: CDC Sport
 description: Something about CDC Sport
 url: https://www.cdc-sport.com/es/
-logo: cdc-sport.png
+logo: cdc-sport.jpg
 background: cdc-sport-back.jpg
 order: 7
 ----

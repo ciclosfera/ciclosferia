@@ -8,4 +8,4 @@ peers: Antonio Gómez Muriana
 
 ¿Son las bicicletas y los patinetes el futuro en movilidad sostenible? ¿Puedes estar a favor del uso de la bici y también del patinete? ¿Puede el patinete ser considerado como un medio de transporte? ¿Es viable que las bicis y los patinetes compartan normativa?
 
-En este debate contaremos con Antonio Gómez Muriana, Presidente de AUVMP (Asociación de Usuarios de Movilidad Personal) y Portavoz de FEVEMP (Federación Española de Vehículos de Movilidad Personal). Una charla para analizar la situación actual de los patinetes y de los retos que presenta el futuro. Al mismo tiempo, abordaremos el debate de si realmente las bicis y los patinetes pueden convivir en un mismo escenario.
+En este debate contaremos con Antonio Gómez Muriana, Presidente de AUVMP (Asociación de Usuarios de Movilidad Personal) y Portavoz de FEVEMP (Federación Española de Vehículos de Movilidad Personal). Una charla para analizar la situación actual de los patinetes y de los retos que presenta el futuro. Al mismo tiempo, abordaremos el debate de si realmente las bicis y los patinetes pueden convivir en un mismo escenario. 

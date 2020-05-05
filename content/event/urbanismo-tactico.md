@@ -1,5 +1,5 @@
 title: El urbanismo que está por venir 
-description: La crisis del covid-19 exige nuevas medidas y soluciones. ¿Cuáles son las mejores, las más realidad, las más ejemplares?  Con Jon Aguirre
+description: La crisis del covid-19 exige nuevas medidas y soluciones. ¿Cuáles son las mejores, las más realidad, las más ejemplares?  Con Jon Aguirre Such
 at: 16/05/2020 18:00
 duration: 75
 ----

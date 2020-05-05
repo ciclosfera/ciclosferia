@@ -2,6 +2,7 @@ title: Ciclistas principiantes: consejos básicos para salir a pedalear
 description: Con la nueva situación tras el Covid-19 muchos se están planteando empezar a usar la bicicleta como medio de transporte. Una gran decisión que queremos facilitar resolviendo dudas y desmintiendo mitos.
 at: 11/05/2020 20:00
 duration: 60
+peers: Juan G. Alberdi, 
 ----
 ### Sobre qué hablaremos en este evento
 

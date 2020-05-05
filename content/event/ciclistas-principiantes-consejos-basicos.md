@@ -1,13 +1,11 @@
-title: Ciclistas principiantes: consejos básicos para salir a pedalear
-description: Con la nueva situación tras el Covid-19 muchos se están planteando empezar a usar la bicicleta como medio de transporte. Una gran decisión que queremos facilitar resolviendo dudas y desmintiendo mitos.
-at: 11/05/2020 20:00
+title: Ciclismo para todos: en bici al colegio
+description: Cada vez existen más iniciativas ciclistas por parte de los centros educativos, ¿quieres conocerlas?
+at: 11/05/2020 19:00
 duration: 60
-peers: Juan G. Alberdi, 
+peers: David Saiz (Ride my bike Madrid) y Chabi Cañada (La Ciclería) 
 ----
 ### Sobre qué hablaremos en este evento
 
-No, no es peligroso. No tienes por qué sudar tanto. Cualquier cuesta es superable. Y tampoco tienen por qué robarte la bici. Por desgracia, mucha gente no se lanza a moverse en bicicleta por haber escuchado, decenas de veces, argumentos que muestran como algo muy complicado el ser “commuter”.
+Muchos son los que piensan que para que haya más ciclistas tenemos que involucrar a los más pequeños. Para ello, cada vez son más los centros educativos que organizan iniciativas como el bicibus, talleres de ciclismo, seguridad vial…
 
-Es lógico que surjan dudas, pero queremos solucionarlas: por eso planteamos un debate en el que distintos ciclistas urbanos, que se mueven a diario en bici, explicarán todo lo que necesitas saber para pedalear por tus calles.
-
-Rutas, material y conocimientos básicos, qué bicicleta elegir… La oportunidad que esperabas para, con el consejo de expertos, unirte de una vez por todas al ciclismo urbano. Súmate. Sé uno más.
+En este debate conoceremos todas ellas, veremos cómo se están llevando a cabo y analizaremos cómo puede un centro educativo involucrarse en una iniciativa de este calibre y convertirla en un éxito entre sus alumnos. Contaremos con [David Saiz] (https://twitter.com/ridemybikemadrd) (Ride my Bike Madrid) y Chabi Cañada (La Ciclería)

@@ -1,6 +1,6 @@
 title: Ciudades: nueva normalidad, nueva movilidad
 description: Tras la crisis sanitaria los ayuntamientos deben actuar, impulsando nuevas medidas, en gran parte, relacionadas con la movilidad.
-at: 12/05/2020 18:00
+at: 12/05/2020 16:00
 duration: 90
 ----
 ### Sobre qué hablaremos en este evento

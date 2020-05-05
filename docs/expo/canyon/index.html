@@ -12,7 +12,7 @@
     <meta property="og:title" content="Canyon - Ciclosferia">
     <meta property="og:url" content="https://ciclosferia.com/expo/canyon/">
     <meta property="og:description" content="Something about canyon">
-    <meta property="og:image" content="https://ciclosferia.com/static/img/canyon-back.png">
+    <meta property="og:image" content="https://ciclosferia.com/static/img/canyon.png">
   </head>
   <body class="is-preload">
     <div id="page-wrapper">
@@ -36,7 +36,7 @@
 
       <article id="main">
         <header class="brand">
-          <p><img src="/static/img/canyon-back.png" alt="Canyon"></p>
+          <p><img src="/static/img/canyon.png" alt="Canyon"></p>
           <p><a href="https://www.canyon.com/es-es/">https://www.canyon.com/es-es/</a></p>
         </header>
         <section class="wrapper style5">
@@ -82,5 +82,10 @@
       gtag('js', new Date());
       gtag('config', 'UA-165537393-1');
     </script>
+    <style>
+    #main > header.brand {
+      background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/static/img/canyon-back.png");
+    }
+    </style>
   </body>
 </html>

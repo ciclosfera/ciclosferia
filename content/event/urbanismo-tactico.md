@@ -1,5 +1,5 @@
-title: Urbanismo táctico: lo que vendrá 
-description: La crisis del covid-19 exige nuevas medidas y soluciones. ¿Cuáles son las mejores, las más realidad, las más ejemplares?  
+title: El urbanismo que está por venir 
+description: La crisis del covid-19 exige nuevas medidas y soluciones. ¿Cuáles son las mejores, las más realidad, las más ejemplares?  Con Jon Aguirre
 at: 16/05/2020 18:00
 duration: 75
 ----

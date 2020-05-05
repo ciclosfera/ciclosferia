@@ -2,7 +2,7 @@ title: Ciclismo para todos: en bici al colegio
 description: Cada vez existen más iniciativas ciclistas por parte de los centros educativos, ¿quieres conocerlas?
 at: 11/05/2020 19:00
 duration: 60
-peers: David Saiz (Ride my bike Madrid) y Chabi Cañada (La Ciclería) 
+peers: David Saiz (Ride my bike Madrid) y Chabi Cañada (La Ciclería). 
 ----
 ### Sobre qué hablaremos en este evento
 

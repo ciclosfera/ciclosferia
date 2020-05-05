@@ -1,6 +1,8 @@
 name: Riese & Müller
 description: Something about Riese & Müller
+url: https://www.r-m.de/es-es/
 logo: riese-muller.png
+background: riese-muller-back.jpg
 order: 4
 ----
 ### Añadir info de la marca

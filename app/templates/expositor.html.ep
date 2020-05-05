@@ -35,8 +35,9 @@
       </header>
 
       <article id="main">
-        <header>
+        <header class="brand">
           <p><img src="/static/img/<%= $meta->{logo} %>" alt="<%= $meta->{name} %>"></p>
+          <p><a href="<%= $meta->{url} %>"><%== $meta->{url} %></a></p>
         </header>
         <section class="wrapper style5">
           <div class="inner">
@@ -74,5 +75,12 @@
       gtag('js', new Date());
       gtag('config', 'UA-165537393-1');
     </script>
+    % if ( my $img = $meta->{background} ) {
+    <style>
+    #main > header.brand {
+      background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/static/img/<%= $img %>");
+    }
+    </style>
+    % }
   </body>
 </html>

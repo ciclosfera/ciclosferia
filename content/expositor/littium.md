@@ -1,6 +1,9 @@
 name: Littium
 description: Something about Littium
+url: https://www.littiumbykaos.com/
 logo: littium.png
+background: littium-back.jpg
+order: 6
 ----
 ### Añadir info de la marca
 

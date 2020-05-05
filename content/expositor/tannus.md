@@ -1,6 +1,9 @@
 name: Tannus
 description: Something about Tannus
+url: https://tannustires.com/
 logo: tannus.png
+background: tannus-back.jpg
+order: 6
 ----
 ### Añadir info de la marca
 

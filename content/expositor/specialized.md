@@ -1,6 +1,8 @@
 name: Specialized
 description: Something about specialized
+url: https://www.specialized.com/es/es
 logo: specialized.png
+background: specialized-back.jpg
 order: 1
 ----
 ### Añadir info de la marca

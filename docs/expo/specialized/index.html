@@ -35,8 +35,9 @@
       </header>
 
       <article id="main">
-        <header>
+        <header class="brand">
           <p><img src="/static/img/specialized.png" alt="Specialized"></p>
+          <p><a href="https://www.specialized.com/es/es">https://www.specialized.com/es/es</a></p>
         </header>
         <section class="wrapper style5">
           <div class="inner">
@@ -81,5 +82,10 @@
       gtag('js', new Date());
       gtag('config', 'UA-165537393-1');
     </script>
+    <style>
+    #main > header.brand {
+      background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/static/img/specialized-back.jpg");
+    }
+    </style>
   </body>
 </html>

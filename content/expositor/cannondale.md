@@ -1,6 +1,8 @@
 name: Cannondale
 description: Something about Cannondale
+url: https://www.cannondale.com/es-es
 logo: cannondale.png
+background: cannondale-back.jpg
 order: 3
 ----
 ### Añadir info de la marca

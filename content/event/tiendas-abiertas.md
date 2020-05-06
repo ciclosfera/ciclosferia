@@ -1,8 +1,8 @@
 title: Tiendas abiertas: la reconquista
 description: Tras dos meses de confinamiento, llega un gran día: las tiendas de bicicletas vuelven a abrir sus puertas. Todo un reto para unos negocios duramente castigados por la crisis del Covid-19.
 at: 11/05/2020 22:00
-duration: 90
-peers: Pere Cahué, Eneko Astigarraga y Julio Sánchez. 
+duration: 80
+peers: Pere Cahué, Eneko Astigarraga. 
 ----
 ### Sobre qué hablaremos en este evento
 

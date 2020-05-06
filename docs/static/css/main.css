@@ -4152,9 +4152,13 @@ div.right {
         max-width: 80%;
     }
 
+    div.wip {
+        padding: 40px 0;
+    }
+
     div.wip .left {
         padding: 10px 25px 0 0;
-        font-size: 4em;
+        font-size: 3.5em;
     }
 }
 

@@ -1,9 +1,9 @@
-name: CDC Sport
-description: Something about CDC Sport
-url: https://www.cdc-sport.com/es/
-logo: cdc-sport.png
-background: cdc-sport-back.jpg
-order: 7
+name: XLC
+description: Something about XLC
+url: https://www.xlc-parts.com/es/
+logo: xlc.png
+background: xlc-back.jpg
+order: 10
 ----
 ### NO TE VAS A QUERER IR DE AQUÍ
 

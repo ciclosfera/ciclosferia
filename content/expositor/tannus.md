@@ -5,9 +5,9 @@ logo: tannus.png
 background: tannus-back.jpg
 order: 6
 ----
-### Añadir info de la marca
+### NO TE VAS A QUERER IR DE AQUÍ
 
-1. El primero elemento
-2. El segundo elemento
-3. Y creo que ya pillas la idea
+Reunir los mejores accesorios y bicicletas urbanas del mundo exige un cuidadoso trabajo: mano a mano con nuestros expositores, estamos preparando este stand. En él encontrarás lo mejor de cada marca. Productos que revolucionan las calles. Bicicletas perfectas para cruzar la ciudad, cambiar el mundo y transformar tu vida. 
+
+Danos un par de días. La espera va a merecerte la pena. 
 

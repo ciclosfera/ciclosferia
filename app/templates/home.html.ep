@@ -175,6 +175,5 @@
       gtag('js', new Date());
       gtag('config', 'UA-165537393-1');
     </script>
-    <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us17.list-manage.com","uuid":"edfd323b399511c7e3b001a46","lid":"539efa53a0","uniqueMethods":true}) })</script>
   </body>
 </html>

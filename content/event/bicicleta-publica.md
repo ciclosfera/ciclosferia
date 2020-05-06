@@ -2,6 +2,7 @@ title: Bicicleta pública: análisis y valoración de los distintos sistemas 
 description: Los sistemas de bicicleta pública son, para muchos, la vía para iniciarse en el ciclismo urbano con un precio contenido y menos preocupaciones. Analizamos los servicios de diferentes partes del mundo. 
 at: 14/05/2020 22:00
 duration: 75
+peers: Esther Anaya (Consultora e investigadora de movilidad ciclista), David Gómez (Tucycle)
 ----
 ### Sobre qué hablaremos en este evento
 

@@ -7,4 +7,4 @@ featured:1
 ----
 ### Sobre qué hablaremos en este evento
 
-El primer día de Ciclosfería, seguro, no habrá decepcionado a nadie. Laura Rincón, del equipo organizador, y nuestro director, Rafa Vidiella, hacen balance de esta primera jornada y comentan brevemente todo lo que llegará mañana. 
+El primer día de Ciclosferia, seguro, no habrá decepcionado a nadie. Laura Rincón, del equipo organizador, y nuestro director, Rafa Vidiella, hacen balance de esta primera jornada y comentan brevemente todo lo que llegará mañana. 

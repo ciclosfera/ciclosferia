@@ -1,4 +1,4 @@
-title: Balance de la tercera y avance de mañana.
+title: Balance de la tercera jornada y avance del jueves.
 description: Increíble la jornada que hemos disfrutado hoy en Ciclosferia.
 at: 13/05/2020 23:45
 duration: 15

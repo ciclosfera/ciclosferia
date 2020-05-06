@@ -4096,6 +4096,7 @@ body.is-mobile.landing #footer {
 
 header.brand a {
     border:0;
+    font-size: 0.6em;
 }
 
 header.brand img {

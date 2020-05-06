@@ -1,6 +1,6 @@
 title: Tres, dos, uno... ¡Empieza Ciclosferia! 
 description: Empieza Ciclosferia, el primer festival online de ciclismo urbano. Tenemos por delante seis días llenos de información, amigos y pasión por el ciclismo urbano. 
-at: 11/05/2020 15:00
+at: 11/05/2020 10:00
 duration: 20
 peers: Laura Rincón, Dani Cabezas y Rafa Vidiella. 
 featured:1

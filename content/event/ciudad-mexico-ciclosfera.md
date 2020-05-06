@@ -1,5 +1,5 @@
 title: Ciudad de México: hogar Ciclosfera 
-description: Como al resto de países del mundo, también México ha sufrido la llegada del Codid-19. ¿Cómo está afectando esta crisis al ciclismo urbano en la capital mexicana?
+description: Como el resto de países del mundo, también México ha sufrido la llegada del Codid-19. ¿Cómo está afectando esta crisis al ciclismo urbano en la capital mexicana?
 at: 13/05/2020 22:00
 duration: 70
 peers: Maya en Bici (periodista), Alan Huber (People For Bikes)

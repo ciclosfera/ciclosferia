@@ -4102,6 +4102,21 @@ header.brand img {
     max-width: 60%;
 }
 
+div.wip {
+    display: flex;
+    padding: 80px 0;
+}
+
+div.wip .left {
+    padding: 15px 10% 0;
+    font-size: 6em;
+    color: #eee;
+}
+
+div.right {
+    color: #777;
+}
+
 @media screen and (max-width: 1680px) {
     .sponsors > ul > li {
         width: 20%;

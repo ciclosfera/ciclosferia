@@ -41,12 +41,27 @@
         </header>
         <section class="wrapper style5">
           <div class="inner">
-            <section>
-              <%= $body %>
+            <section class="expositor">
+              <div class="wip">
+                <div class="left">
+                  <i class="fas fa-bullhorn"></i>
+                </div>
+                <div class="right">
+                  <%= $body %>
+                </div>
+              </div>
             </section>
           </div>
         </section>
       </article>
+
+      <section id="/sponsors" class="sponsors style4">
+          <ul>
+          % for my $e ( sort { ($a->{meta}{order}||100) <=> ($b->{meta}{order}||100) } $expositors->@* ) {
+            <li><a href="/expo/<%= $e->{slug} %>"><img src="/static/img/<%= $e->{slug} %>-grey.png"></a></li>
+          % }
+          </ul>
+      </section>
 
       <footer id="footer">
         <ul class="icons">

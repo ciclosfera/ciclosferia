@@ -72,7 +72,7 @@ sub build_expositors($expositors) {
 
         my $dest = $dest_dir->child('index.html');
         say ' - ', $e->{slug};
-        $dest->spurt(encode 'UTF8', $template->process($e));
+        $dest->spurt(encode 'UTF8', $template->process({ %$e, expositors => $expositors }));
     });
 }
 

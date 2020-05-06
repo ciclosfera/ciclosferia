@@ -30,7 +30,7 @@
                     <a href="/#/sponsors">Expositores</a>
                     <ul class="sub">
                     % for my $e ( $expositors->@* ) {
-                      <li><a href="/expo/<%= $e->{slug} %>"><%= $e->{meta}{name} %></a></li>
+                      <li><a href="/expo/<%= $e->{slug} %>/"><%= $e->{meta}{name} %></a></li>
                     % }
                     </ul>
                   </li>
@@ -58,7 +58,7 @@
       <section id="/sponsors" class="sponsors style4">
           <ul>
           % for my $e ( sort { ($a->{meta}{order}||100) <=> ($b->{meta}{order}||100) } $expositors->@* ) {
-            <li><a href="/expo/<%= $e->{slug} %>"><img src="/static/img/<%= $e->{slug} %>-grey.png"></a></li>
+          <li><a href="/expo/<%= $e->{slug} %>/"><img loading="lazy" alt="<%= $e->{meta}{name} %>" src="/static/img/<%= $e->{slug} %>-grey.png"></a></li>
           % }
           </ul>
       </section>

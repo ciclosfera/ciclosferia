@@ -8,7 +8,7 @@ peers: Iuren Aldecoa (Kids on Wheels), Leyre Corretgé (WeeRide)
 
 Una charla imprescindible. Un tema que debemos abordar: el de cómo forjar a los ciclistas del futuro. 
 
-Son muchísimos los padres que querrían llevar a sus hijos en bicicleta al colegio. Que quieren que sus pequeños gocen de la indecencia, responsabilidad y bienestar que genera usar ese medio de transporte, sobre todo a edades tempranas. Y, sin embargo… 
+Son muchísimos los padres que querrían llevar a sus hijos en bicicleta al colegio. Que quieren que sus pequeños gocen de la independencia, responsabilidad y bienestar que genera usar ese medio de transporte, sobre todo a edades tempranas. Y, sin embargo… 
 
 Si tienes hijos pero no sabes qué accesorios puedes utilizar, este es el evento que estabas esperando. Si quieres conocer trucos, consejos, formas de hacer que la experiencia de rodar con tus hijos a diario por la ciudad sea absolutamente satisfactoria, no te lo pierdas. 
 

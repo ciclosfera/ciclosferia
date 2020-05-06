@@ -4151,5 +4151,10 @@ div.right {
     header.brand img {
         max-width: 80%;
     }
+
+    div.wip .left {
+        padding: 10px 25px 0 0;
+        font-size: 4em;
+    }
 }
 

@@ -103,7 +103,7 @@
               <tr class="header">
                 <th></th>
                 <th>
-                  <%= ucfirst $day->{date}->day_name %> <%= $day->{date}->day %> de <%= ucfirst $day->{date}->month_name %>
+                  <%= ucfirst $day->{date}->day_name %> <%= $day->{date}->day %> de <%= $day->{date}->month_name %>
                 </th>
               </tr>
             </thead>

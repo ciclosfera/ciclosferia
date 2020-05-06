@@ -130,8 +130,11 @@
         '@context'    => "http://schema.org",
         '@type'       => "Event",
         name          => $meta->{title},
-        url           => "https://ciclosferia.com/event/$slug",
-        location      => "https://ciclosferia.com/event/$slug",
+        url           => "https://ciclosferia.com/event/$slug/",
+        location => {
+            type => "VirtualLocation",
+            url  => "https://ciclosferia.com/event/$slug/",
+        },
         startDate     => $meta->{start_at} && $meta->{start_at}->stringify,
         endDate       => $meta->{end_at} && $meta->{end_at}->stringify,
         eventSchedule => {
@@ -144,7 +147,10 @@
           '@type'   => "Event",
           name      => 'Ciclosferia - Festival online de ciclismo urbano',
           url       => "https://ciclosferia.com/",
-          location  => "https://ciclosferia.com/",
+          location => {
+              type => "VirtualLocation",
+              url  => "https://ciclosferia.com/",
+          },
           startDate => '2020-05-11',
           endDate   => '2020-05-17',
         }

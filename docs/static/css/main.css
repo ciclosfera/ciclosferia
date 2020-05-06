@@ -4096,7 +4096,6 @@ body.is-mobile.landing #footer {
 
 header.brand a {
     border:0;
-    font-size: 0.6em;
 }
 
 header.brand img {
@@ -4151,6 +4150,10 @@ div.right {
 
     header.brand img {
         max-width: 80%;
+    }
+
+    header.brand a {
+        font-size: 0.6em;
     }
 
     div.wip {

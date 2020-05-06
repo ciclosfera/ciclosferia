@@ -4166,8 +4166,13 @@ div.right {
     padding: 8px 0 0 12px
 }
 
-#menu ul.sub li {
+#menu ul.sub > li {
     border:0;
     margin: 2px 0;
     padding: 2px 0;
 }
+
+#menu ul.sub > li > a {
+    font-size: 0.6em;
+}
+

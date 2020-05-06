@@ -1,21 +1,129 @@
-Can't locate object method "set_timezone" via package "DateTime" at template line 139.
-Context:
-  134:         location => {
-  135:             type => "VirtualLocation",
-  136:             url  => "https://ciclosferia.com/event/$slug/",
-  137:         },
-  138:         startDate   => $meta->{start_at} && $meta->{start_at}->clone->set_timezone('UTC')->stringify .'Z',
-  139:         endDate     => $meta->{end_at} && $meta->{end_at}->clone->set_timezone('UTC')->stringify .'Z',
-  140:         superEvent => {
-  141:           '@type'   => "Event",
-  142:           name      => 'Ciclosferia - Festival online de ciclismo urbano',
-  143:           url       => "https://ciclosferia.com/",
-  144:           location => {
-Traceback (most recent call first):
-  File "template", line 139, in "Mojo::Template::SandBox"
-  File "/home/diegok/perl5/perlbrew/perls/perl-5.30.1/lib/site_perl/5.30.1/Mojo/Template.pm", line 163, in "Mojo::Template"
-  File "/home/diegok/perl5/perlbrew/perls/perl-5.30.1/lib/site_perl/5.30.1/Mojo/Template.pm", line 163, in "Mojo::Template"
-  File "./app/builder.pl", line 49, in "main"
-  File "/home/diegok/perl5/perlbrew/perls/perl-5.30.1/lib/site_perl/5.30.1/Mojo/Collection.pm", line 26, in "Mojo::Collection"
-  File "./app/builder.pl", line 50, in "main"
-  File "./app/builder.pl", line 20, in "main"
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Viernes de ciclismo urbano - Ciclosferia</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="/static/css/main.css">
+    <noscript><link rel="stylesheet" href="/static/css/noscript.css" /></noscript>
+    <link rel="shortcut icon" type="image/png" href="/static/img/icon-green.png">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="og:site_name" content="Ciclosferia">
+    <meta property="og:title" content="Viernes de ciclismo urbano - Ciclosferia">
+    <meta property="og:url" content="https://ciclosferia.com/event/apertura-jornada-05/">
+    <meta property="og:description" content="En esta nueva normalidad los viernes siguen siendo el día más feliz de la semana para todos, seguro que lo notas en el humor del director de Ciclosfera, Rafa Vidiella y el redactor jefe, Dani Cabezas.">
+    <meta property="og:image" content="https://ciclosferia.com/static/img/ciclosferia-share.jpg">
+  </head>
+  <body class="is-preload">
+    <div id="page-wrapper">
+      <header id="header">
+        <h1><a href="/">Ciclos<span style="color:red;">Feria</span></a></h1>
+        <nav id="nav">
+          <ul>
+            <li class="special">
+              <a href="#menu" class="menuToggle"><span>Menu</span></a>
+              <div id="menu">
+                <ul>
+                  <li><a href="/">Portada</a></li>
+                  <li><a href="/#/schedule">Eventos</a></li>
+                  <li>
+                    <a href="/#/sponsors">Expositores</a>
+                    <ul class="sub">
+                      <li><a href="/expo/cannondale/">Cannondale</a></li>
+                      <li><a href="/expo/canyon/">Canyon</a></li>
+                      <li><a href="/expo/cdc-sport/">CDC Sport</a></li>
+                      <li><a href="/expo/giant/">Giant</a></li>
+                      <li><a href="/expo/littium/">Littium</a></li>
+                      <li><a href="/expo/luma/">Luma</a></li>
+                      <li><a href="/expo/riese-muller/">Riese & Müller</a></li>
+                      <li><a href="/expo/specialized/">Specialized</a></li>
+                      <li><a href="/expo/tannus/">Tannus</a></li>
+                      <li><a href="/expo/trek/">Trek</a></li>
+                      <li><a href="/expo/xlc/">XLC</a></li>
+                    </ul>
+                  </li>
+                </ul>
+              </div>
+            </li>
+          </ul>
+        </nav>
+      </header>
+
+      <article id="main">
+        <div class="event-head">
+          <div class="stream">
+            <div class="video-placeholder">
+              <p><i class="fab fa-youtube"></i></p>
+              <p>El streaming no ha comenzado aún...</p>
+            </div>
+          </div>
+          <div class="info">
+            <h2>Viernes de ciclismo urbano</h2>
+            <p>
+              <i class="far fa-calendar"></i> Viernes 15 de mayo<br/>
+              <i class="far fa-clock"></i> 10:30 a 10:45
+              <br/><br/><i class="far fa-user"></i> Dani Cabezas y Rafa Vidiella.
+            </p>
+            <p>En esta nueva normalidad los viernes siguen siendo el día más feliz de la semana para todos, seguro que lo notas en el humor del director de Ciclosfera, Rafa Vidiella y el redactor jefe, Dani Cabezas.</p>
+          </div>
+        </div>
+        <section class="wrapper style5">
+          <div class="inner">
+            <section>
+              <h3>Sobre qué hablaremos en este evento</h3>
+
+<p>Las emociones fuertes continúan en Ciclosferia. Repasamos el programa del día y contamos nuevas novedades. ¡Además, celebramos con vosotros que es viernes y que el festival continúa el fin de semana!</p>
+
+            </section>
+          </div>
+        </section>
+      </article>
+
+      <section id="/sponsors" class="sponsors style4">
+          <ul>
+            <li><a href="/expo/specialized/"><img loading="lazy" alt="Specialized" src="/static/img/specialized-grey.png"></a></li>
+            <li><a href="/expo/canyon/"><img loading="lazy" alt="Canyon" src="/static/img/canyon-grey.png"></a></li>
+            <li><a href="/expo/cannondale/"><img loading="lazy" alt="Cannondale" src="/static/img/cannondale-grey.png"></a></li>
+            <li><a href="/expo/xlc/"><img loading="lazy" alt="XLC" src="/static/img/xlc-grey.png"></a></li>
+            <li><a href="/expo/riese-muller/"><img loading="lazy" alt="Riese & Müller" src="/static/img/riese-muller-grey.png"></a></li>
+            <li><a href="/expo/littium/"><img loading="lazy" alt="Littium" src="/static/img/littium-grey.png"></a></li>
+            <li><a href="/expo/tannus/"><img loading="lazy" alt="Tannus" src="/static/img/tannus-grey.png"></a></li>
+            <li><a href="/expo/cdc-sport/"><img loading="lazy" alt="CDC Sport" src="/static/img/cdc-sport-grey.png"></a></li>
+            <li><a href="/expo/trek/"><img loading="lazy" alt="Trek" src="/static/img/trek-grey.png"></a></li>
+            <li><a href="/expo/giant/"><img loading="lazy" alt="Giant" src="/static/img/giant-grey.png"></a></li>
+            <li><a href="/expo/luma/"><img loading="lazy" alt="Luma" src="/static/img/luma-grey.png"></a></li>
+          </ul>
+      </section>
+
+      <footer id="footer">
+        <ul class="icons">
+          <li><a href="https://www.facebook.com/ciclosfera/" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+          <li><a href="https://www.instagram.com/ciclosfera/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+          <li><a href="https://www.youtube.com/channel/UCcgrRFCcdkMqJ8zLSLfGX1Q" class="icon brands fa-youtube"><span class="label">Youtube</span></a></li>
+          <li><a href="https://twitter.com/ciclosfera" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+          <li><a href="mailto:rafa@ciclosfera.com" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+        </ul>
+        <ul class="copyright">
+          <li>Organizado con amor por <a href="https://ciclosfera.com">Ciclosfera</a> y <a href="https://dosruedasdospedales.com/">Dos ruedas, dos pedales</a></li>
+        </ul>
+      </footer>
+    </div>
+    <script src="/static/js/jquery.min.js"></script>
+    <script src="/static/js/jquery.scrollex.min.js"></script>
+    <script src="/static/js/jquery.scrolly.min.js"></script>
+    <script src="/static/js/browser.min.js"></script>
+    <script src="/static/js/breakpoints.min.js"></script>
+    <script src="/static/js/util.js"></script>
+    <script src="/static/js/main.js"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-165537393-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-165537393-1');
+    </script>
+    <script type="application/ld+json">
+      {"@context":"http:\/\/schema.org","@type":"Event","endDate":"2020-05-15T10:45:00Z","location":{"type":"VirtualLocation","url":"https:\/\/ciclosferia.com\/event\/apertura-jornada-05\/"},"name":"Viernes de ciclismo urbano","startDate":"2020-05-15T10:30:00Z","superEvent":{"@type":"Event","endDate":"2020-05-17","location":{"type":"VirtualLocation","url":"https:\/\/ciclosferia.com\/"},"name":"Ciclosferia - Festival online de ciclismo urbano","startDate":"2020-05-11","url":"https:\/\/ciclosferia.com\/"},"url":"https:\/\/ciclosferia.com\/event\/apertura-jornada-05\/"}
+    </script>
+  </body>
+</html>

@@ -135,8 +135,8 @@
             type => "VirtualLocation",
             url  => "https://ciclosferia.com/event/$slug/",
         },
-        startDate   => $meta->{start_at} && $meta->{start_at}->clone->set_timezone('UTC')->stringify .'Z',
-        endDate     => $meta->{end_at} && $meta->{end_at}->clone->set_timezone('UTC')->stringify .'Z',
+        startDate   => $meta->{start_at} && $meta->{start_at}->clone->stringify .'Z',
+        endDate     => $meta->{end_at} && $meta->{end_at}->clone->stringify .'Z',
         superEvent => {
           '@type'   => "Event",
           name      => 'Ciclosferia - Festival online de ciclismo urbano',

@@ -196,8 +196,8 @@
               type => "VirtualLocation",
               url  => "https://ciclosferia.com/event/$_->{slug}/",
           },
-          startDate => $_->{meta}{start_at} && $_->{meta}{start_at}->clone->set_timezone('UTC')->stringify .'Z',
-          endDate   => $_->{meta}{end_at} && $_->{meta}{end_at}->clone->set_timezone('UTC')->stringify .'Z',
+          startDate => $_->{meta}{start_at} && $_->{meta}{start_at}->clone->stringify .'Z',
+          endDate   => $_->{meta}{end_at} && $_->{meta}{end_at}->clone->stringify .'Z',
         }})->to_array
       }) %>
     </script>

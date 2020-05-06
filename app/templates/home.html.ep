@@ -188,12 +188,6 @@
         },
         startDate     => '2020-05-11',
         endDate       => '2020-05-17',
-        eventSchedule => {
-          '@type'          => "Schedule",
-          startDate        => '2020-05-11',
-          endDate          => '2020-05-17',
-          scheduleTimezone => "Europe/Madrid"
-        },
         subEvent => $events->map(sub{{
           '@type'   => "Event",
           name      => $_->{meta}{title},
@@ -202,8 +196,8 @@
               type => "VirtualLocation",
               url  => "https://ciclosferia.com/event/$_->{slug}/",
           },
-          startDate => $_->{meta}{start_at} && $_->{meta}{start_at}->stringify,
-          endDate   => $_->{meta}{end_at} && $_->{meta}{end_at}->stringify,
+          startDate => $_->{meta}{start_at} && $_->{meta}{start_at}->clone->set_timezone('UTC')->stringify .'Z',
+          endDate   => $_->{meta}{end_at} && $_->{meta}{end_at}->clone->set_timezone('UTC')->stringify .'Z',
         }})->to_array
       }) %>
     </script>

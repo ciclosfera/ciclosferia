@@ -104,5 +104,14 @@
     }
     </style>
     % }
+    <script type="application/ld+json">
+      <%= to_json({
+        '@context'    => "http://schema.org",
+        '@type'       => "Brand",
+        name          => $meta->{name},
+        logo          => "https://ciclosferia.com//static/img/$meta->{logo}",
+        url           => $meta->{url}
+      }) %>
+    </script>
   </body>
 </html>

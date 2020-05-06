@@ -1,3 +1,4 @@
+% use Mojo::JSON qw/ to_json /;
 <!DOCTYPE html>
 <html>
   <head>
@@ -123,6 +124,29 @@
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
       gtag('config', 'UA-165537393-1');
+    </script>
+    <script type="application/ld+json">
+      <%= to_json({
+        '@context'    => "http://schema.org",
+        '@type'       => "Event",
+        name          => $meta->{title},
+        url           => "https://ciclosferia.com/event/$slug",
+        startDate     => $meta->{start_at} && $meta->{start_at}->stringify,
+        endDate       => $meta->{end_at} && $meta->{end_at}->stringify,
+        eventSchedule => {
+          '@type'          => "Schedule",
+          startDate        => $meta->{start_at} && $meta->{start_at}->stringify,
+          endDate          => $meta->{end_at} && $meta->{end_at}->stringify,
+          scheduleTimezone => "Europe/Madrid"
+        },
+        superEvent => {
+          '@type'   => "Event",
+          name      => 'Ciclosferia - Festival online de ciclismo urbano',
+          url       => "https://ciclosferia.com/",
+          startDate => '2020-05-11',
+          endDate   => '2020-05-17',
+        }
+      }) %>
     </script>
   </body>
 </html>

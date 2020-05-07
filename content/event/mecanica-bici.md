@@ -2,7 +2,7 @@ title: Mecánica: consejos básicos para mantener tu bici
 description: Después de tanto tiempo sin usar la bici, es probable que tu máquina necesite una puesta a punto. Y, en cuanto empieces a rodar, tendrás que prestarle unos mínimos cuidados. ¿Sabes cuáles? 
 at: 15/05/2020 20:00
 duration: 60
-peers: Silvia López (Todo Bici)
+peers: Silvia López (Todo Bici).
 ----
 ### Sobre qué hablaremos en este evento
 

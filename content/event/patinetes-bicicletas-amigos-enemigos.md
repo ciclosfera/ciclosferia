@@ -2,7 +2,7 @@ title: Patinetes y bicicletas: ¿amigos o enemigos?
 description: Los patines electrónicos están de moda y cada vez están más presentes en las ciudades. ¿Pueden convivir patinetes y bicicletas en un mismo escenario?
 at: 13/05/2020 19:00
 duration: 60
-peers: Antonio Gómez Muriana (FEVEMP, AUVMP), Carlos Núñez (AMBE)
+peers: Antonio Gómez Muriana (FEVEMP, AUVMP), Carlos Núñez (AMBE).
 ----
 ### Sobre qué hablaremos en este evento
 

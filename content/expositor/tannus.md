@@ -1,6 +1,6 @@
 name: Tannus
 description: Something about Tannus
-url: https://tannustires.com/
+url: https://tannustires.com/tannus-tires/
 logo: tannus.png
 background: tannus-back.jpg
 order: 6

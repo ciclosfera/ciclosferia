@@ -2,7 +2,7 @@ title: Bicicletas y niños: futuro perfecto
 description: La bicicleta es un arma de futuro: si aprenden, desde pequeños, que la bicicleta es un medio de transporte, los niños de hoy serán los ciclistas urbanos del mañana. 
 at: 15/05/2020 18:00
 duration: 60
-peers: Iuren Aldecoa (Kids on Wheels), Leyre Corretgé (WeeRide)
+peers: Iuren Aldecoa (Kids on Wheels), Leyre Corretgé (WeeRide).
 ----
 ### Sobre qué hablaremos en este evento
 

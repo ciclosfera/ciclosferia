@@ -2,7 +2,7 @@ title: Ciudades: nueva normalidad, nueva movilidad
 description: Tras la crisis sanitaria los ayuntamientos deben actuar, impulsando nuevas medidas, en gran parte, relacionadas con la movilidad.
 at: 12/05/2020 16:00
 duration: 90
-peers: Silvia Casorrán, Giuseppe Grezzi y Antoni Poveda.
+peers: Silvia Casorrán, Giuseppe Grezzi.
 ----
 ### Sobre qué hablaremos en este evento
 
@@ -12,4 +12,4 @@ Los campos de actuación están cambiando continuamente, las noticias avanzan a 
 
 Un encuentro imprescindible para escuchar, preguntar y contrastar hasta qué punto esa nueva normalidad será beneficiosa para el ciclismo urbano y, por extensión, para la ciudadanía. 
 
-La cita contará con invitados de excepción: Silvia Casorrán (técnica del Área Metropolitana de Barcelona), Giuseppe Grezzi (Concejal de Movilidad Sostenible y Espacio Público de Valencia) y Antoni Poveda (presidente de la Red de Ciudades por la Bicicleta).
+La cita contará con invitados de excepción: Silvia Casorrán (técnica del Área Metropolitana de Barcelona) y Giuseppe Grezzi (Concejal de Movilidad Sostenible y Espacio Público de Valencia).

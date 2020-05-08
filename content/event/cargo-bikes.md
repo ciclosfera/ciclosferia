@@ -3,6 +3,7 @@ description: Las bicicletas de carga se multiplican en las calles. Te lo contamo
 at: 12/05/2020 13:00
 duration: 75
 peers:  Ulrich Muller (Riese & Müller), Jason Harris (3ike).
+join_url:https://my.demio.com/ref/eMXyfNNBFLuIZY3s
 ----
 ### Sobre qué hablaremos en este evento
 

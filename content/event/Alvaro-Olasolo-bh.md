@@ -2,7 +2,6 @@ title: Ciclosferos: Álvaro Olasolo (BH)
 description: Entrevistamos a Álvaro Olasolo, responsable de comunicación de BH, para repasar el catálogo urbano de la prestigiosa marca española.
 at: 13/05/2020 15:00
 duration: 30
-peers: Álvaro Olasolo (BH)
 ----
 ### Sobre qué hablaremos en este evento
 

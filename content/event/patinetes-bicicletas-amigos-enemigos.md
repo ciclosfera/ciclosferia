@@ -3,6 +3,7 @@ description: Los patines electrónicos están de moda y cada vez están más pre
 at: 13/05/2020 19:00
 duration: 60
 peers: Antonio Gómez Muriana (FEVEMP, AUVMP), Cristina Castillo (UUALK, Reby), Carlos Núñez (AMBE).
+join_url:https://my.demio.com/ref/TwzB1SoYRb6fdkxo
 ----
 ### Sobre qué hablaremos en este evento
 

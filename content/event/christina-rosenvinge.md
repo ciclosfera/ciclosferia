@@ -1,7 +1,7 @@
 title: Ciclosferos: Christina Rosenvinge
 description: Cantante, madrileña de ascendencia danesa y, claro está, ciclista urbana convencida. Hablamos con Christona Rosenvinge. 
-at: 12/05/2020 22:00
-duration: 75
+at: 13/05/2020 13:00
+duration: 30
 peers: Ignacio Prieto (Tragsa), Gregorio Magno (Ciclogreen) y Carlos Núñez (AMBE).
 ----
 ### Sobre qué hablaremos en este evento

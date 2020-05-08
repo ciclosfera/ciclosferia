@@ -3,6 +3,7 @@ description: Tras dos meses de confinamiento, llega un gran día: las tiendas de
 at: 11/05/2020 22:00
 duration: 80
 peers: Pere Cahué (Probike), Eneko Astigarraga (Mundoraintxe) y Danny Milian (Cap Problema). 
+join_url:https://my.demio.com/ref/iiOEouKIjuQ6cB9C
 ----
 ### Sobre qué hablaremos en este evento
 

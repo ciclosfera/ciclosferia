@@ -2,7 +2,7 @@ title: Cargo Bikes: el transporte del futuro
 description: Las bicicletas de carga se multiplican en las calles. Te lo contamos todo sobre ellas.
 at: 12/05/2020 13:00
 duration: 75
-peers:  Ulrich Muller (Riese & Müller), a Jason Harris (3ike).
+peers:  Ulrich Muller (Riese & Müller), Jason Harris (3ike).
 ----
 ### Sobre qué hablaremos en este evento
 

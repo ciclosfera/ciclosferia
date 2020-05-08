@@ -5,4 +5,4 @@ duration: 30
 ----
 ### Sobre qué hablaremos en este evento
 
-La portavoz de la Coordinadora Conbici analiza la situación del ciclismo urbano en el escenario actual especto a las instituciones y organismos públicos
+La portavoz de la Coordinadora Conbici analiza la situación del ciclismo urbano en el escenario actual especto a las instituciones y organismos públicos.

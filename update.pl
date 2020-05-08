@@ -13,5 +13,5 @@ while (1) {
         say $out;
     }
     say "Waiting...";
-    sleep 300;
+    sleep 120;
 }

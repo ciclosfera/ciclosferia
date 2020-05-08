@@ -3,6 +3,7 @@ description: Como el resto de países del mundo, también México ha sufrido la 
 at: 13/05/2020 22:00
 duration: 75
 peers: Maya en Bici (periodista), Alan Huber (People For Bikes).
+join_url:https://my.demio.com/ref/ktBxiuayYrjT9mkO
 ----
 ### Sobre qué hablaremos en este evento
 

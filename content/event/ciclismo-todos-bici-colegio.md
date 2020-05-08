@@ -3,6 +3,7 @@ description: Cada vez existen más iniciativas ciclistas por parte de los centro
 at: 11/05/2020 19:00
 duration: 60
 peers: David Sáiz (Ride my bike Madrid), Chabi Cañada (La Ciclería) y Yeray Bombín (Mejor en Bici). 
+join_url:https://my.demio.com/ref/q7LW4HOKjHJM22vj
 ----
 ### Sobre qué hablaremos en este evento
 

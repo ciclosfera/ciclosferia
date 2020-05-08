@@ -1,6 +1,6 @@
 title: Cuantos más, mejor: ¿cómo hacer que más gente se suba a la bici?
 description: Es el momento de lograr que la bicicleta sea el medio de transporte más usado. ¿Cómo podemos sumar a más gente?
-at: 11/05/2020 18:00
+at: 11/05/2020 17:30
 duration: 75
 peers: Belén Calahorro (Agencia de la Bicicleta de Valencia), Isabel Ramis (Muévete en Bici por Madrid) y Xavi Prat (Biciclot BCN). 
 ----

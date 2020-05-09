@@ -1,5 +1,5 @@
 name: CDC Sport
-description: Something about CDC Sport
+description: CDC Sport son marcas para el ciclismo como Castelli, Uvex, Eltin, Selle Italia, Alpinestars, Exustar, Vredestein o Chaoyang. En resumen: el mejor catálogo, el mejor equipamiento... ¡La mejor experiencia ciclista!
 url: https://www.cdc-sport.com/es/
 logo: cdc-sport.png
 background: cdc-sport-back.jpg

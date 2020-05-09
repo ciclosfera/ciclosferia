@@ -6,7 +6,7 @@ use Text::Markdown;
 use Mojo::Util qw/encode/;
 use DateTime;
 use FindBin;
-#use Data::Dump qw/pp/;
+use Data::Dump qw/pp/;
 
 my $root_dir     = Mojo::File->new("$FindBin::Bin/../docs/");
 my $template_dir = Mojo::File->new("$FindBin::Bin/templates/");
@@ -64,7 +64,7 @@ sub build_pages($pages, $expositors) {
 }
 
 sub build_expositors($expositors) {
-    say 'Building pages:';
+    say 'Building expositors';
     my $template = get_template('expositor');
     $expositors->each(sub($e, $idx){
         my $dest_dir = $root_dir->child('expo', $e->{slug});
@@ -72,6 +72,7 @@ sub build_expositors($expositors) {
 
         my $dest = $dest_dir->child('index.html');
         say ' - ', $e->{slug};
+        say pp($e) if $e->{slug} eq 'specialized';
         $dest->spurt(encode 'UTF8', $template->process({ %$e, expositors => $expositors }));
     });
 }
@@ -93,19 +94,34 @@ sub read_content($file, $type) {
     my $out = { slug => $file->basename, type => $type };
     $out->{slug} =~ s/\..+$//;
 
-    my $on_head = 1;
 
     my $fh = $file->open('<:encoding(UTF-8)');
+    my $buf = {};
+    my $phase = 'meta';
     while ( my $line = <$fh> ) {
-        if ( $on_head && $line =~ /([^\s:]+)\s*:\s*(.+?)\s*$/ ) {
-            $out->{meta}{lc($1)} = $2;
+        if ( $phase eq 'meta' && $line =~ /([^\s:]+)\s*:\s*(.+?)\s*$/ ) {
+            $out->{$phase}{lc($1)} = $2;
         }
-        elsif ( $on_head && $line =~ /^\s*\-+\s*$/ ) {
-            $on_head = 0;
+        elsif ( $phase eq 'meta' && $line =~ /^\s*\-{3,4}\s*$/ ) {
+            $phase = 'src';
+        }
+        elsif ( $line =~ /^\s*\-\-([a-z]+)\-\-\s*$/i ) {
+            $phase = lc($1);
+        }
+        elsif ( $phase eq 'src' ) {
+            $out->{$phase} .= "$line\n";
+        }
+        elsif ( $phase ne 'meta' ) {
+            if ( $line =~ /([^\s:]+)\s*:\s*(.+?)\s*$/ ) {
+                $buf->{$1} = $2;
+            }
+            elsif ( $line =~ /^\s*$/ ) {
+                push($out->{$phase}->@*, $buf) if %$buf;
+                $buf = {};
+            }
         }
         else {
-            $on_head = 0;
-            $out->{src} .= "$line\n";
+            say STDERR "Skipped line on $file: $line";
         }
     }
 

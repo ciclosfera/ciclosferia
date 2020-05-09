@@ -12,7 +12,7 @@
     <meta property="og:title" content="<%= $meta->{title} %> - Ciclosferia">
     <meta property="og:url" content="https://ciclosferia.com/<%= $slug %>/">
     <meta property="og:description" content="<%= $meta->{description} %>">
-    <meta property="og:image" content="https://ciclosferia.com/static/img/ciclosferia-share.jpg">
+    <meta property="og:image" content="https://ciclosferia.com/static/img/<%= $meta->{share_img} || 'ciclosferia.jpg' %>">
   </head>
   <body class="is-preload">
     <div id="page-wrapper">

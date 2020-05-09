@@ -1,5 +1,5 @@
 name: BH
-description: Something about BH
+description: La legendaria marca española BH no podía faltar en Ciclosferia. Una gama completa y ambiciosa, con todo tipo de bicicletas eléctricas y convencionales para todos los públicos y bolsillos. 
 url: https://www.bhbikes.com/es_ES/bicicletas-electricas/bicicletas-electricas-hibridas
 logo: bh.png
 background: bh-back.jpg

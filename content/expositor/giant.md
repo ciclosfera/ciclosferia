@@ -1,5 +1,5 @@
 name: Giant
-description: Something about Giant
+description: Giant, uno de los mayores fabricantes de bicicletas del mundo, apuesta con fuerza por Ciclosferia. Aquí tienes un ejemplo de lo mejor de su catálogo de bicicletas de ciudad. 
 url: https://www.giant-bicycles.com/es
 logo: giant.png
 background: giant-back.jpg

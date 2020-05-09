@@ -1,5 +1,5 @@
 name: Specialized
-description: Something about specialized
+description: Specialized es sinónimo de ciclismo y de bicicletas de ensueño. Tras reinar en la carretera o la montaña, la marca californiana llega a Ciclosferia con su abrumador catálogo urbano. No te las pierdas.
 url: https://www.specialized.com/es/es
 logo: specialized.png
 background: specialized-back.jpg

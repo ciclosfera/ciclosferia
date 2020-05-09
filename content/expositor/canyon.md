@@ -31,6 +31,7 @@ name: Grail
 description: Gravel. All road. New road. Da igual el nombre que le pongas, lo importante es el mundo de oportunidades que se abre ante ti. La Grail encuentra el punto de equilibro justo entre velocidad y comodidad, para que puedas rodar cuando quieras, donde quieras y como quieras.
 url: https://www.canyon.com/es-es/road-bikes/gravel-bikes/grail/
 
-name: Grand	 Canyon:ON
+name: Grand Canyon:ON
 description: Una batería ligera, potente e invisible. Hasta 120 mm recorrido delantero. Combinación de ruedas de 29" o 27.5" según tu estatura.
 url: https://www.canyon.com/es-es/e-bikes/e-mountain-bikes/grandcanyon-on/
+

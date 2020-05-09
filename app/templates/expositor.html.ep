@@ -49,6 +49,23 @@
         <section class="wrapper style5">
           <div class="inner">
             <section class="expositor">
+              % if ( $products->@* ) {
+              <%= $body %>
+              <div class="products">
+                <ul>
+                % for my $p ( $products->@* ) {
+                  % $p->{slug} = lc($p->{name});
+                  % $p->{slug} =~ s/[^a-z0-9]+/-/g;
+                  <li>
+                    <img src="/static/expo/<%= $slug %>/<%= $p->{slug} %>.jpg" loading="lazy" alt="<%= $p->{name} %>" />
+                    <h4><%= $p->{name} %></h4>
+                    <p><%= $p->{description} %></p>
+                    <a class="button icon solid fa-external-link-alt" href="<%= $p->{url} %>"> Ver más </a>
+                  </li>
+                % }
+                </ul>
+              </div>
+              % } else {
               <div class="wip">
                 <div class="left">
                   <i class="fas fa-bullhorn"></i>
@@ -57,6 +74,7 @@
                   <%= $body %>
                 </div>
               </div>
+              % }
             </section>
           </div>
         </section>

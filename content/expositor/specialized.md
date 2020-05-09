@@ -5,11 +5,9 @@ logo: specialized.png
 background: specialized-back.jpg
 order: 1
 ----
-### NO TE VAS A QUERER IR DE AQUÍ
+### Specialized
 
-Reunir las mejores bicicletas urbanas del mundo exige un cuidadoso trabajo: mano a mano con nuestros expositores, estamos preparando este stand. En él encontrarás lo mejor de cada marca. Bicicletas perfectas para cruzar la ciudad. Cambiar el mundo. Transformar tu vida.
-
-Danos un par de días. La espera va a merecerte la pena.
+Puntera en la carretera. Referencia en la montaña. Y, claro, también admirada en el ámbito urbano: la gama Specialized está llena de bicicletas de ciudad perfectas para el día. Eléctricas, híbridas… Hay una Active perfecta para tu día a día: encuentra aquí la tuya. 
 
 --products--
 name: Turbo Vado

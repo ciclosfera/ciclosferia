@@ -71,6 +71,7 @@ sub build_expositors($expositors) {
 
         my $dest = $dest_dir->child('index.html');
         say ' - ', $e->{slug};
+        $e->{products} ||= [];
         $dest->spurt(encode 'UTF8', $template->process({ %$e, expositors => $expositors }));
     });
 }

@@ -19,3 +19,4 @@ Cuando la gente las ve, gira la cabeza y casi siempre oyes: “¡Qué pasada!�
 name: MK1250A
 description: Nuestro equipo ha diseñado esta eBikes con las zarpas más robustas, ideal para tus salidas por la ciudad, con las incursiones por el campo que todo Bestia necesita. BESTIA MK1250A es nuestra bicicleta más básica, con la que vas a devorar kilómetros sin parar, porque no vas a querer bajarte de ella.
 url: https://www.bestiabikes.com/project/bestia_mk1250a/
+

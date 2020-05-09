@@ -10,7 +10,7 @@ order: 9
 Giant se ha convertido con el paso del tiempo en el mayor fabricante de bicicletas del mundo. Una marca sólida . Disponen de numerosos tipos de bicicleta para que elijas la que más se adapte a tus necesidades. 
 
 --products--
-name: Entour E+ 2 2020
+name: Entour E+ 2 
 description: Lleva incorporada la tecnología de Smart Assistant, que ajusta la potencia a las necesidades del ciclista en cada momento. Cómoda y segura, para que puedas desplazarte por la ciudad sintiendo que tienes todo bajo control. Es perfecta para llegar a tu destino en menos tiempo y sin cansarte.
 url: https://www.giant-bicycles.com/es/entour-eplus-2 
 

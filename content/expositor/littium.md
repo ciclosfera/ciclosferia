@@ -5,9 +5,15 @@ logo: littium.png
 background: littium-back.jpg
 order: 6
 ----
-### NO TE VAS A QUERER IR DE AQUÍ
+### Littium
 
-Reunir las mejores bicicletas urbanas del mundo exige un cuidadoso trabajo: mano a mano con nuestros expositores, estamos preparando este stand. En él encontrarás lo mejor de cada marca. Bicicletas perfectas para cruzar la ciudad. Cambiar el mundo. Transformar tu vida. 
+Más de treinta años de experiencia en desarrollo, fabricación y comercialización de nuevas tecnologías avalan a esta marca española. ¿El resultado? E-bikes capaces de satisfacer las más altas expectativas, el mejor servicio posventa y todas las garantías. Y algo más: ahora, y hasta el 3 julio, su campaña Reactiva ofrece un descuento de 300€ en el PVP de cada producto. ¡Corre, que ruedan!  
 
-Danos un par de días. La espera va a merecerte la pena. 
+--products--
+name: Ibiza Dogma
+description: 100 kilómetros de autonomía por cinco céntimos. Potencia máxima. Versatilidad de plegado. Comodidad  y equipamiento. Y algo más: su fiabilidad y dinamismo la convierten en la e-bike de referencia para equipos y pilotos del Mundial de MotoGP.
+url: https://www.littiumbykaos.com/ibiza-dogma-bicicleta-electrica-plegable/
 
+name: Berlín DAO
+description: La elegancia hecha e-bike. La más alta tecnología vestida de sencillez. Una bicicleta de las de toda la vida… Con los últimos avances de las máquinas de pedaleo asistido. Una fiel compañera para recorrer las calles de tu ciudad, haciendo de cada metro recorrido un momento inolvidable.
+url: https://www.littiumbykaos.com/berlin-dao-discover/

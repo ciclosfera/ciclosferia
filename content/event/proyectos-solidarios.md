@@ -1,4 +1,4 @@
-title: Proyectos solidarios en bicicleta
+title: La conciencia social viaja en bicicleta
 description: La bicicleta puede usarse como medio de transporte y, también, para llevar a cabo un proyecto solidario. 
 at: 16/05/2020 16:00
 duration: 90

@@ -1,5 +1,5 @@
-title: La conciencia social viaja en bicicleta
-description: La bicicleta puede usarse como medio de transporte y, también, para llevar a cabo un proyecto solidario. 
+title: Pedales para cambiar el mundo
+description: Proyectos con conciencia social. Proyectos con sentido.
 at: 16/05/2020 16:00
 duration: 90
 peers: Carmelo López e Isabel Segura (Cinecicleta), María Elisa Ojeda (En Bici Sense Edat) y Romà Boule (Bicicletas sin Fronteras).

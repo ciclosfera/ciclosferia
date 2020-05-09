@@ -1,5 +1,5 @@
 name: Luma
-description: Something about Luma
+description: Las mejores bicicletas merecen los mejores candados. Para eso está Luma, una marca experta en candados para bicicletas y seguridad ciclista con una notable variedad de productos y precios. 
 url: https://es.luma.es
 logo: luma.png
 background: luma-back.jpg

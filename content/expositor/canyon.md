@@ -1,5 +1,5 @@
 name: Canyon
-description: Something about canyon
+description: La marca alemana Canyon es sinónimo de prestigio. De eficacia. Y de diseño. Virtudes todas ellas que no podían en las Canyon de ciudad, y que ahora se ven reforzadas por la llegada de distintas bicicletas eléctricas.
 url: https://www.canyon.com/es-es/
 logo: canyon.png
 background: canyon-back.jpg

@@ -1,5 +1,5 @@
 name: Ok Sustainable Mobility
-description: Something about Ok Sustainable Mobility
+description: OK Sustainable Mobility es un servicio de renting de Brompton: una forma de animar a las empresas a facilitar a sus trabajadores desplazarse en una Brompton. ¡Bravo!
 url: https://www.capproblema.com/services/renting-brompton/
 logo: ok.png
 background: ok-back.jpg

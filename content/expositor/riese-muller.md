@@ -1,5 +1,5 @@
 name: Riese & Müller
-description: Something about Riese & Müller
+description: Decir Riese & Müller es decir e-bikes. Bicicletas eléctricas. Pasión, tecnología, diseño: todo lo mejor para conseguir cargo bikes, urbanas y polivalentes del máximo nivel. 
 url: https://www.r-m.de/es-es/
 logo: riese-muller.png
 background: riese-muller-back.jpg

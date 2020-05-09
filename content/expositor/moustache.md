@@ -1,5 +1,5 @@
 name: Moustache
-description: Something about moustache
+description: Expertos en máquinas mágicas: las bicicletas eléctricas. La francesa Moustache ofrece e-bikes de ensueño gracias a su diseños, robustez y fiabilidad. Toda una referencia. 
 url: https://moustachebikes.com/es/
 logo: moustache.png
 background: moustache-back.jpg

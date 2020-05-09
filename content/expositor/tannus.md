@@ -1,5 +1,5 @@
 name: Tannus
-description: Something about Tannus
+description: Líderes en protección contra el pinchazo, Tannus son neumáticos macizos sin aire al 100%. Neumáticos para bicicletas de ciudad, carretera y trekking, a tu alcance en el festival Ciclosferia.
 url: https://tannustires.com/tannus-tires/
 logo: tannus.png
 background: tannus-back.jpg

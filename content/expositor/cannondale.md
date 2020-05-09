@@ -3,7 +3,7 @@ description: Cannondale es sinónimo de ciclismo. En cualquier superficie y, por
 url: https://www.cannondale.com/es-es
 logo: cannondale.png
 background: cannondale-back.jpg
-order: 3
+order: 1
 ----
 ### Cannondale
 

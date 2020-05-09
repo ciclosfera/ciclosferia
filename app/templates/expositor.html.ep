@@ -52,7 +52,7 @@
               % if ( $products->@* ) {
               <%= $body %>
               <div class="products">
-                <ul>
+                <ul class="<%= $slug %>">
                 % for my $p ( $products->@* ) {
                   % $p->{slug} = lc($p->{name});
                   % $p->{slug} =~ s/[^a-z0-9]+/-/g;

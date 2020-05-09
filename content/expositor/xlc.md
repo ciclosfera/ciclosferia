@@ -1,5 +1,5 @@
 name: XLC
-description: Something about XLC
+description: XLC tiene todo lo que necesitas para rodar cómodo y seguro en cualquier disciplina ciclista. Componentes y accesorios para todas las máquinas: por supuesto, también para bicicletas urbanas.  
 url: https://www.xlc-parts.com/es/
 logo: xlc.png
 background: xlc-back.jpg

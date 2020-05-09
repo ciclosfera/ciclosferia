@@ -3,7 +3,7 @@ description: Specialized es sinónimo de ciclismo y de bicicletas de ensueño. T
 url: https://www.specialized.com/es/es
 logo: specialized.png
 background: specialized-back.jpg
-order: 1
+order: 3
 ----
 ### Specialized
 

@@ -12,19 +12,19 @@ Líderes en protección contra el pinchazo, neumáticos macizos sin aire 100% An
 Gracias a ello, reducimos al máximo el impacto sobre el medio ambiente y contribuimos a mundo más ECO Friendly.
 
 --products--
-name: Tannus Shield & Mini Velo (Folding Bike)
+name: Shield & Mini Velo (Folding Bike)
 description: Con nuestras cubiertas de 16" y 20" tu bicicleta plegable siempre estará lista y no tendrás ningún contratiempo. Si eres un usuario de Brompton te encantarán las Tannus Mini Velo y su gama de colores para personalizarla al máximo.
 url: https://tannustires.com/product-category/plegables/
 
-name: Tannus Slick 700x23
+name: Slick 700x23
 description: ¿Eres de los de Fixie o SingleSpeed? Elige la Tannus Slick 700x23, nuestra cubierta más ligera, estrecha y reactiva.
 url: https://tannustires.com/product/slick/ 
 
-name: Tannus Shield 700x32 & 700x42
+name: Shield 700x32 & 700x42
 description:Disfruta de la ciudad como nunca con los modelos Tannus Shield 700x32 y 700x42. El balón de 32mm favorece la maniobrabilidad y el de 40mm un plus en estabilidad.
 url: https://tannustires.com/product/shield/
 
-name: Tannus Razorblade 26"x1.75
+name: Razorblade 26"x1.75
 description: Nuestro modelo para las 26", gracias a su balón aporta un gran confort y durabilidad. Perfecto para ciudad y caminos mixtos de asfalto y arena. Si tienes una urban E-Bike de paseo, esta es sin duda la mejor cubierta.
 url: https://tannustires.com/product/razorblade/ 
 

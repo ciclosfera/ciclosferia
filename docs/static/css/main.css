@@ -4128,12 +4128,16 @@ div.products ul {
 }
 
 div.products ul > li {
-    width: 49%;
+    width: 50%;
     margin: 20px 0;
-    padding: 20px 5%;
+    padding: 20px 4%;
     text-align: center;
     display:flex;
     flex-direction:column;
+}
+
+div.products ul.bestia > li {
+    width: 100%;
 }
 
 div.products ul > li img {

@@ -34,4 +34,3 @@ name: Superdelite
 description: La Superdelite: Concebida para trayectos largos. Una seguridad y una comodidad al más alto nivel y una potencia de 1.000 Wh son sus prestaciones de serie. La excusa ideal para darse un paseo algo más largo... y descubrir algo nuevo cada día.
 url: https://www.r-m.de/es-es/modelos/superdelite/
 
-

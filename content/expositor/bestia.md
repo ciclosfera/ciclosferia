@@ -1,5 +1,5 @@
 name: Bestia
-description: Something about Bestia
+description: Las Bestia Bikes son unas bicicletas eléctricas diferentes: un toque vintage mezclado con un diseño y tecnología de rabiosa actualidad. 
 url: https://www.bestiabikes.com
 logo: bestia.png
 background: bestia-back.jpg

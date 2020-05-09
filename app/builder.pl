@@ -6,7 +6,6 @@ use Text::Markdown;
 use Mojo::Util qw/encode/;
 use DateTime;
 use FindBin;
-use Data::Dump qw/pp/;
 
 my $root_dir     = Mojo::File->new("$FindBin::Bin/../docs/");
 my $template_dir = Mojo::File->new("$FindBin::Bin/templates/");
@@ -72,7 +71,6 @@ sub build_expositors($expositors) {
 
         my $dest = $dest_dir->child('index.html');
         say ' - ', $e->{slug};
-        say pp($e) if $e->{slug} eq 'specialized';
         $dest->spurt(encode 'UTF8', $template->process({ %$e, expositors => $expositors }));
     });
 }

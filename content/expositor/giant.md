@@ -10,7 +10,7 @@ order: 9
 Giant se ha convertido con el paso del tiempo en el mayor fabricante de bicicletas del mundo. Una marca sólida . Disponen de numerosos tipos de bicicleta para que elijas la que más se adapte a tus necesidades.
 
 --products--
-name: Entour E+ 2 
+name: Entour E+ 2
 description: Lleva incorporada la tecnología de Smart Assistant, que ajusta la potencia a las necesidades del ciclista en cada momento. Cómoda y segura, para que puedas desplazarte por la ciudad sintiendo que tienes todo bajo control. Es perfecta para llegar a tu destino en menos tiempo y sin cansarte.
 url: https://www.giant-bicycles.com/es/entour-eplus-2
 
@@ -30,7 +30,7 @@ name: Fastroad Advanced 2
 description: Cuenta con un manillar plano combinado con la estabilidad de una bici de carretera. Cuenta con un cuadro de carbono y una tija de sillín D-Fuse para amortiguar el impacto. Ideal para ciudad, pistas ciclables y todo tipo de carreteras.
 url: https://www.giant-bicycles.com/es/fastroad-advanced-2
 
-name: Revolt 2:
+name: Revolt 2
 description: Bicicleta todoterreno que podrás utilizar tanto en caminos sin asfaltar como por las calles de tu ciudad. Ligera, cómoda y te permite mantener el control en todo momento. Tiene un cuadro ligero y una orquilla de carbono. Cuenta también con frenos de disco.
 url: https://www.giant-bicycles.com/es/revolt-2
 

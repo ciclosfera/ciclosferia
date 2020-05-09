@@ -11,7 +11,7 @@ Hace tiempo que Riese & Müller se ha convertido en sinónimo de excelencia. La 
 
 --products--
 name: Charger3
-description: Geometría deportiva, dinámico tren de rodaje con horquilla telescópica, tija confortable y la última generación de motores Bosch. La Charger3 lo tiene todo para hacer del trayecto al trabajo toda una experiencia y también para disfrutar de largas excursiones gracias a su autonomía de 90 km o más.
+description: Geometría deportiva, dinámico tren de rodaje con horquilla telescópica, tija comfortable y la última generación de motores Bosch. La Charger3 lo tiene todo para hacer del trayecto al trabajo toda una experiencia y también para disfrutar de largas excursiones gracias a su autonomía de 90 km o más.
 url: https://www.r-m.de/es-es/modelos/charger3/
 
 name: Supercharger2

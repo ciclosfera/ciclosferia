@@ -7,7 +7,7 @@ order: 1
 ----
 ### Specialized
 
-Puntera en la carretera. Referencia en la montaña. Y, claro, también admirada en el ámbito urbano: la gama Specialized está llena de bicicletas de ciudad perfectas para el día. Eléctricas, híbridas… Hay una Active perfecta para tu día a día: encuentra aquí la tuya. 
+Puntera en la carretera. Referencia en la montaña. Y, claro, también admirada en el ámbito urbano: la gama Specialized está llena de bicicletas de ciudad perfectas para el día a día. Eléctricas, híbridas… Hay una Active perfecta para ti: encuéntrala aquí. 
 
 --products--
 name: Turbo Vado

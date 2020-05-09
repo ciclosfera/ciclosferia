@@ -1,5 +1,5 @@
 name: Littium
-description: Something about Littium
+description: Littium es una marca de bicicletas eléctricas españolas. Littium son más de 30 años de experiencia en tecnología. Littium son e-bikes urbanas para todos los gustos, con la mejor garantía y servicio posventa. 
 url: https://www.littiumbykaos.com/
 logo: littium.png
 background: littium-back.jpg

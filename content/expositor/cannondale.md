@@ -1,5 +1,5 @@
 name: Cannondale
-description: Something about Cannondale
+description: Cannondale es sinónimo de ciclismo. En cualquier superficie y, por supuesto, también en la ciudad. Bicicletas más deportivas, orientadas a paseos más relajados, todoterreno... Y, claro, e-bikes punteras. Como todo Cannondale. 
 url: https://www.cannondale.com/es-es
 logo: cannondale.png
 background: cannondale-back.jpg

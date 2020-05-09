@@ -1,5 +1,5 @@
 name: Trek
-description: Something about Trek
+description: Decir Trek es decir bicicletas. Y, ahora, decir Trek es también bicicletas urbanas y e-bikes. Trek amplía su catálogo con deslumbrantes bicis concebidas para dominar, a base de pedaladas, tu ciudad.
 url: https://www.trekbikes.com/es/es_ES/
 logo: trek.png
 background: trek-back.jpg

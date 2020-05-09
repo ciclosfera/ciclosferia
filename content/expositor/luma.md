@@ -27,7 +27,7 @@ name: Carpenter
 description: Candado articulado. Cuerpo y articulaciones en acero endurecido. Incluye soporte para su transporte. Fácil de usar. Permite atar a puesto fijo. Llave reversible que facilita la apertura y cierre. Longitud 800 mm.
 url: https://es.luma.es/catalogo/articulo/58-carpenter
 
-name: Netlocks
+name: Netlock
 description: Candados conectados a tu móvil que te permiten localizar tu vehículo, con alarma y notificaciones en caso de ataque.
 url: https://es.luma.es/gama-netlock
 

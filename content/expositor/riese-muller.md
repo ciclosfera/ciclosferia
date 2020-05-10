@@ -4,6 +4,7 @@ url: https://www.r-m.de/es-es/
 logo: riese-muller.png
 background: riese-muller-back.jpg
 order: 4
+contact:team@r-m.de
 ----
 ### Riese / Müller
 

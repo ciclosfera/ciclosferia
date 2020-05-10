@@ -4,6 +4,7 @@ at: 11/05/2020 10:00
 duration: 20
 peers: Laura Rincón, Dani Cabezas y Rafa Vidiella. 
 featured:1
+youtube: https://youtu.be/xN-bysSb2Xs
 ----
 ### Sobre qué hablaremos en este evento
 

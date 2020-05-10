@@ -4,6 +4,7 @@ title: Robos de bicicletas: cómo evitarlos
  duration: 60
  peers: Miguel del Peso (Recycling BCN), Amaia Jiménez (Luma).
  join_url: https://my.demio.com/ref/XhixfyocR30GaynA
+ youtube: I9k3zsQseXs
  ----
  ### Sobre qué hablaremos en este evento
 

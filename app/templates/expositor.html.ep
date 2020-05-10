@@ -49,8 +49,8 @@
         <section class="wrapper style5">
           <div class="inner">
             <section class="expositor">
-              % if ( $products->@* ) {
               <%= $body %>
+              % if ( $products->@* ) {
               <div class="products">
                 <ul class="<%= $slug %>">
                 % for my $p ( $products->@* ) {
@@ -64,15 +64,6 @@
                   </li>
                 % }
                 </ul>
-              </div>
-              % } else {
-              <div class="wip">
-                <div class="left">
-                  <i class="fas fa-bullhorn"></i>
-                </div>
-                <div class="right">
-                  <%= $body %>
-                </div>
               </div>
               % }
             </section>

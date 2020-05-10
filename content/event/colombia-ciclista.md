@@ -3,6 +3,7 @@ description: Miles de nuestros lectores viven en Bogotá, Medellín, Cali… No 
 at: 16/05/2020 22:00
 duration: 75
 peers: Mauro Mesa (SiClas Medellín). 
+youtube: Y91URFZoqoc
 ----
 ### Sobre qué hablaremos en este evento
 

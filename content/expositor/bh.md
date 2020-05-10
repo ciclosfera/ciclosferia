@@ -4,6 +4,7 @@ url: https://www.bhbikes.com/es_ES/bicicletas-electricas/bicicletas-electricas-h
 logo: bh.png
 background: bh-back.jpg
 order: 14
+contact:info@bhbikes.com
 ----
 ### BH
 

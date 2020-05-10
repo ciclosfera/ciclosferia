@@ -4,6 +4,7 @@ at: 14/05/2020 20:00
 duration: 75
 peers: Jaime Novo (Madrid), Areli Carreón (CDMX), Jimena Pérez (Salta, Argentina).
 join_url: https://my.demio.com/ref/akesm8B36cHBBceH
+youtube: Q_82HCdNB54
 ----
 ### Sobre qué hablaremos en este evento
 

@@ -4,6 +4,7 @@ at: 13/05/2020 16:00
 duration: 75
 peers: Pedro Bravo (El Diario), Clara Blanchar (El País) y Pablo León (El País).
 join_url:https://my.demio.com/ref/k3vfK58fo0b8YCuo
+youtube: KJjBA7FLHew
 ----
 ### Sobre qué hablaremos en este evento
 

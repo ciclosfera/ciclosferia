@@ -4,6 +4,7 @@ url: https://www.cdc-sport.com/es/
 logo: cdc-sport.png
 background: cdc-sport-back.jpg
 order: 7
+contact:marketing@cdc-sport.com
 ----
 ### CDC Sport
 

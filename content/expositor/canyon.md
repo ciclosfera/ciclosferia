@@ -4,6 +4,7 @@ url: https://www.canyon.com/es-es/
 logo: canyon.png
 background: canyon-back.jpg
 order: 2
+contact:marketing_iberia@canyon.com
 ----
 ### Canyon
 

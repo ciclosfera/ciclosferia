@@ -3,6 +3,7 @@ description: Veloces. Cómodas, Eficientes. ¿Son las bicicletas de pedaleo asis
 at: 12/05/2020 20:00
 duration: 75
 peers: Alejo Bastos (Biobike), Víctor Ibáñez (Motor Verde) y Carlos Núñez (AMBE).
+youtube: HSn13TLCM7s
 ----
 ### Sobre qué hablaremos en este evento
 

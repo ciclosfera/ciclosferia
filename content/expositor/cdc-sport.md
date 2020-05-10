@@ -39,3 +39,13 @@ name: Uvex Finale 2.0 2020
 prize: 119,95€
 description: Uvex se ha convertido en una de las marcas de cascos más populares del mercado. Modelos como el 2.0 de este 2020 llevan la seguridad y la comodidad un paso más allá: tecnología doble-inmould, sistema de ajuste IAS anatómico, sistema de correas FAS con cierre monomatic exclusivo de Uvex, 20 Ventanas de ventilación, almohadillas transpirables, visera desmontable y rejilla anti-insectos. Todo, en sólo 300 gramos.
 url: https://www.cdc-sport.com/es/cascos-montana/8122-finale20negmate52-57uvexcascos2019-4043197310756.html
+
+name: Guantes Castelli Roubaix Gel 2
+prize: 39,95€
+description: Un homenaje a una de las localidades que llevan el ciclismo grabado en el ADN. Roubaix Gel 2 ofrece el acolchado de gel más grueso y alta protección. Altamente confortable, ha sido diseñado con líneas limpias. Un guante tan elegante como ideal para el verano.
+url: https://www.cdc-sport.com/es/guantes/21194-15865-guantesroubaixgel2wrj.html#/146-xs_xl_ropa-xs
+
+name: Guantes Castelli Roubaix Gel 2
+prize: 39,95€
+description: Un homenaje a una de las localidades que llevan el ciclismo grabado en el ADN. Roubaix Gel 2 ofrece el acolchado de gel más grueso y alta protección. Altamente confortable, ha sido diseñado con líneas limpias. Un guante tan elegante como ideal para el verano, disponible en rojo y negro.
+url: https://www.cdc-sport.com/es/guantes/21194-15865-guantesroubaixgel2wrj.html#/146-xs_xl_ropa-xs

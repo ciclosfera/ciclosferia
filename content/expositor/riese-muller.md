@@ -1,5 +1,5 @@
 name: Riese & Müller
-description: Decir Riese & Müller es decir e-bikes. Bicicletas eléctricas. Pasión, tecnología, diseño: todo lo mejor para conseguir cargo bikes, urbanas y polivalentes del máximo nivel. 
+description: Decir Riese & Müller es decir e-bikes. Bicicletas eléctricas. Pasión, tecnología, diseño: todo lo mejor para conseguir cargo bikes, urbanas y polivalentes del máximo nivel.
 url: https://www.r-m.de/es-es/
 logo: riese-muller.png
 background: riese-muller-back.jpg
@@ -8,7 +8,7 @@ contact:team@r-m.de
 ----
 ### Riese / Müller
 
-Hace tiempo que Riese & Müller se ha convertido en sinónimo de excelencia. La marca alemana es un referente absoluto en materia de bicicletas, especialmente gracias a una completísima gama de cargo-bikes. Las mejores prestaciones y un diseño único hacen de las bicicletas R&M algo único. Descúbrelas.  
+Hace tiempo que Riese & Müller se ha convertido en sinónimo de excelencia. La marca alemana es un referente absoluto en materia de bicicletas, especialmente gracias a una completísima gama de cargo-bikes. Las mejores prestaciones y un diseño único hacen de las bicicletas R&M algo único. Descúbrelas.
 
 --products--
 name: Charger3
@@ -20,7 +20,7 @@ description: La Supercharger2 le llevará siempre a su destino, por muy lejos qu
 url: https://www.r-m.de/es-es/modelos/supercharger2/
 
 name: Load 60
-description: Deportiva y segura durante la marcha con o sin carga: La Load 60 aúna en una E-Cargo-Bike la sensación de marcha de una bicicleta normal con un sinfín de posibilidades de transporte. No le será difícil llegar siempre antes que los coches. 
+description: Deportiva y segura durante la marcha con o sin carga: La Load 60 aúna en una E-Cargo-Bike la sensación de marcha de una bicicleta normal con un sinfín de posibilidades de transporte. No le será difícil llegar siempre antes que los coches.
 url: https://www.r-m.de/es-es/modelos/load-60/
 
 name: Multicharger

@@ -4214,3 +4214,10 @@ div.products ul > li p {
     font-size: 0.6em;
 }
 
+div.ask {
+    padding: 20px 0;
+    margin: 30px 0;
+    background-color: #fafbfc;
+    border-radius: 4px;
+    text-align: center;
+}

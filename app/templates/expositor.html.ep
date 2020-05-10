@@ -68,6 +68,11 @@
                 </ul>
               </div>
               % }
+              % if ( my $email = $meta->{contact} ) {
+              <div class="ask">
+                <a class="button primary icon solid fa-comments" href="mailto:<%= $email %>?subject=Contacto%20desde%20Ciclosferia"> ¡Pregúntale a la marca! </a>
+              </div>
+              % }
             </section>
           </div>
         </section>

@@ -4,6 +4,7 @@ url: https://www.capproblema.com/services/renting-brompton/
 logo: ok.png
 background: ok-back.jpg
 order: 15
+contact:info@capproblema.com
 ----
 ### Renting Brompton
 

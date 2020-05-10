@@ -4,6 +4,7 @@ url: https://es.luma.es
 logo: luma.png
 background: luma-back.jpg
 order: 11
+contact:security@luma.es
 ----
 ### Luma
 

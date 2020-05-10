@@ -2,6 +2,7 @@ title: Ciclosferos: Gonzalo Pérez de Vargas
 description: Entrevistamos al portero de la selección española de balonmano y del FC Barcelona, ciclista urbano convencido. 
 at: 11/05/2020 12:00
 duration: 30
+youtube: https://youtu.be/_HGV-mfhs1w
 ----
 ### Sobre qué hablaremos en este evento
 

@@ -105,6 +105,7 @@ sub read_content($file, $type) {
             $phase = 'src';
         }
         elsif ( $line =~ /^\s*\-\-([a-z]+)\-\-\s*$/i ) {
+            push($out->{$phase}->@*, $buf) if %$buf;
             $phase = lc($1);
         }
         elsif ( $phase eq 'src' ) {
@@ -123,6 +124,7 @@ sub read_content($file, $type) {
             say STDERR "Skipped line on $file: $line";
         }
     }
+    push($out->{$phase}->@*, $buf) if %$buf;
 
     if ( exists $out->{meta}{at} && $out->{meta}{at} =~ m|(\d+)/(\d+)/(\d{4})\s+(\d+):(\d+)| ) {
         $out->{meta}{start_at} = DateTime->new(

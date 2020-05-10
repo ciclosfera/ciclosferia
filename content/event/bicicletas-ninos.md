@@ -3,6 +3,7 @@ description: La bicicleta es un arma de futuro: si aprenden, desde pequeños, qu
 at: 15/05/2020 18:00
 duration: 60
 peers: Iuren Aldecoa (Kids on Wheels), Leyre Corretgé (WeeRide).
+youtube: RJGQhFj0Jjk
 ----
 ### Sobre qué hablaremos en este evento
 

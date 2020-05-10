@@ -49,3 +49,4 @@ name: Mascarilla de uso deportivo Eltin
 prize: 12,95€
 description: Las mascarillas se van a convertir, inevitablemente, en un complemento imprescindible. Diseñada para adaptarse perfectamente al rostro del ciclista, cubriendo la boca y nariz sin dejar espacios, este modelo de Eltin está pensado para protegerte y proteger a los demás mientras practicas deporte. Disponible a partir del 20 de mayo.
 url: https://www.cdc-sport.com/es/mascarillas/23709-mascarillausodeportivoeltinnegvrdoliv-8435148181205.html
+

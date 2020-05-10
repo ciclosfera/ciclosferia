@@ -3,6 +3,7 @@ description: Todo parece haber cambiado… ¿Será para siempre? ¿Puede ser par
 at: 17/05/2020 16:00
 duration: 70
 peers: Carlos Rodríguez, Nacho Tomás y Laura Vergara.
+youtube: o2vEyqnHLFI
 ----
 ### Sobre qué hablaremos en este evento
 

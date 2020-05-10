@@ -4,6 +4,7 @@ at: 15/05/2020 23:45
 duration: 15
 peers: Laura Rincón y Rafa Vidiella. 
 featured:1
+youtube: 9H7ATP_upEM
 ----
 ### Sobre qué hablaremos en este evento
 

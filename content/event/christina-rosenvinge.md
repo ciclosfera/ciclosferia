@@ -2,6 +2,7 @@ title: Ciclosferos: Christina Rosenvinge
 description: Cantante, madrileña de ascendencia danesa y, claro está, ciclista urbana convencida. Hablamos con Christona Rosenvinge. 
 at: 13/05/2020 13:00
 duration: 30
+youtube: 3KlWqsiac9g
 ----
 ### Sobre qué hablaremos en este evento
 

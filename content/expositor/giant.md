@@ -4,6 +4,7 @@ url: https://www.giant-bicycles.com/es
 logo: giant.png
 background: giant-back.jpg
 order: 9
+contact:info@giant.es
 ----
 ### Giant
 

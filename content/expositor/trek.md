@@ -45,3 +45,26 @@ Estas son sólo unas pocas de las muchas posibilidades que el catálogo de Trek 
 
 Únete a nosotros y ¡muévete en bici!
 
+--products--
+name: Marlin
+description: La nueva gama Marlin, además de ser una excelente bicicleta de montaña con un cuadro de aluminio Alpha Silver con guida interno de cables, geometría deportiva y horquilla de suspensión, proporciona para la ciudad una postura erguida y equilibrada que te permite visualizar el tráfico.
+url: https://www.trekbikes.com/es/es_ES/marlin/?utm_source=ciclosferia.com&utm_medium=es_banner&utm_campaign=xc_bikes_focus&utm_content=CO_Marlin
+
+name: FX
+description: La bicicleta más popular de Trek en el mundo. Una bici para todo, especialmente si el asfalto es tu medio predominante. En su concepción se ha buscado la comodidad y el rendimiento a partes iguales, mientras que para su desarrollo se han pensado en todas las necesidades del usuario de la ciudad: ligereza, simplicidad, diseño, versatilidad y conectividad. ¿Conectividad? Sí, en todas las FX podrás instalar un discreto sensor Duotrap S conectable por Bluetooth.
+url: https://www.trekbikes.com/es/es_ES/fx/?utm_source=ciclosferia.com&utm_medium=es_banner&utm_campaign=hibridas_bikes&utm_content=CO_FX
+
+name: Dual Sport
+description:Más rápida que una bicicleta de montaña en el asfalto gracias a sus cubiertas estrechas y ligereza, y a la vez, es mucho más capaz y segura que las híbridas convencionales cuando circulamos por las pistas y senderos en nuestras excursiones de fin de semana. Gracias a su cuadro de Aluminio Alpha Gold, con la Dual Sport disfrutarás de una bicicleta cómoda en cualquier terreno y muy robusta.
+url: https://www.trekbikes.com/es/es_ES/bicicletas/bicicletas-h%C3%ADbridas/bicicletas-dual-sport/dual-sport/f/F431/?utm_source=ciclosferia.com&utm_medium=es_banner&utm_campaign=hibridas_bikes&utm_content=CO_Dual%20Sport
+
+name: Verve+
+description: Con la gama Verve+ tienes una aliada, tanto si estás buscando sustituir tu vieja bicicleta, como si te subes por primera vez a esta maravilla tecnológica, su motor eléctrico BOSCH Active Line te dibujará una sonrisa en cuanto lo pruebes permitiéndote una conducción suave y silenciosa que te asistirá hasta los 25kms/h.
+url: https://www.trekbikes.com/es/es_ES/verve-plus/?utm_source=ciclosferia.com&utm_medium=es_banner&utm_campaign=eurban_bikes&utm_content=CO_Verve_plus
+
+name: Distric+
+description: Si las palabras desviador, biela u horquilla no significan nada para ti y simplemente quieres una bici con asistencia eléctrica que te haga cómodo y fácil ir del punto A al punto B de tu ciudad, la Disctric+ te encantará. Diseño limpio e integrado, cambio interno de 7 velocidades y todos los accesorios necesarios para rodar a diario: guardabarros, luces, portabultos trasero, pata de cabra, una única llave para la batería y candado en U incluido. Para colmo, motor Bosch Active Line que con sus 40Nm de fuerza te permite alcanzar y mantener velocidades de hasta 25 km/h con total facilidad.
+url: https://www.trekbikes.com/es/es_ES/district-plus/?utm_source=ciclosferia.com&utm_medium=es_banner&utm_campaign=eurban_bikes&utm_content=CO_District_plus
+
+
+

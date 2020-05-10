@@ -4,6 +4,7 @@ url: https://www.specialized.com/es/es
 logo: specialized.png
 background: specialized-back.jpg
 order: 3
+contact:informacion@specialized.com
 ----
 ### Specialized
 

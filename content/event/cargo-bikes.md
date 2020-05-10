@@ -4,6 +4,7 @@ at: 12/05/2020 13:00
 duration: 75
 peers:  Ulrich Muller (Riese & Müller), Jason Harris (3ike).
 join_url:https://my.demio.com/ref/eMXyfNNBFLuIZY3s
+youtube: wRNS01Rsicc
 ----
 ### Sobre qué hablaremos en este evento
 

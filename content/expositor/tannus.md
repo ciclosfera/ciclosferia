@@ -4,6 +4,7 @@ url: https://tannustires.com/tannus-tires/
 logo: tannus.png
 background: tannus-back.jpg
 order: 6
+contact:info@tannustires.com
 ----
 ### Tannus
 

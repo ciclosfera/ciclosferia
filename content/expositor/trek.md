@@ -4,6 +4,7 @@ url: https://www.trekbikes.com/es/es_ES/
 logo: trek.png
 background: trek-back.jpg
 order: 8
+contact:trekmarketing@trekbikes.com
 ----
 ### Trek
 

@@ -45,7 +45,7 @@ prize: 39,95€
 description: Un homenaje a una de las localidades que llevan el ciclismo grabado en el ADN. Roubaix Gel 2 ofrece el acolchado de gel más grueso y alta protección. Altamente confortable, ha sido diseñado con líneas limpias. Un guante tan elegante como ideal para el verano.
 url: https://www.cdc-sport.com/es/guantes/21194-15865-guantesroubaixgel2wrj.html#/146-xs_xl_ropa-xs
 
-name: Guantes Castelli Roubaix Gel 2
-prize: 39,95€
-description: Un homenaje a una de las localidades que llevan el ciclismo grabado en el ADN. Roubaix Gel 2 ofrece el acolchado de gel más grueso y alta protección. Altamente confortable, ha sido diseñado con líneas limpias. Un guante tan elegante como ideal para el verano, disponible en rojo y negro.
-url: https://www.cdc-sport.com/es/guantes/21194-15865-guantesroubaixgel2wrj.html#/146-xs_xl_ropa-xs
+name: Mascarilla de uso deportivo Eltin
+prize: 12,95€
+description: Las mascarillas se van a convertir, inevitablemente, en un complemento imprescindible. Diseñada para adaptarse perfectamente al rostro del ciclista, cubriendo la boca y nariz sin dejar espacios, este modelo de Eltin está pensado para protegerte y proteger a los demás mientras practicas deporte. Disponible a partir del 20 de mayo.
+url: https://www.cdc-sport.com/es/mascarillas/23709-mascarillausodeportivoeltinnegvrdoliv-8435148181205.html

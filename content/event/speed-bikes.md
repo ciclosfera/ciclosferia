@@ -3,6 +3,7 @@ description: ¿Qué son las speed e-bikes? ¿Qué requisitos son necesarios para
 at: 17/05/2020 13:00
 duration: 40
 peers: Carlos Núñez (AMBE), Ulrich Muller (Riese & Müller).
+youtube: uWcSMeKV9tg
 ----
 ### Sobre qué hablaremos en este evento
 

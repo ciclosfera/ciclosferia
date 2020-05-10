@@ -8,13 +8,14 @@
     <link rel="stylesheet" href="/static/css/main.css">
     <link rel="stylesheet" href="/static/custom.css">
     <noscript><link rel="stylesheet" href="/static/css/noscript.css" /></noscript>
-    <link rel="shortcut icon" type="image/png" href="/static/img/icon-green.png">
-    <meta name="twitter:card" content="summary_large_image">
-    <meta property="og:site_name" content="Ciclosferia">
-    <meta property="og:title" content="Ciclosferia - Festival de ciclismo urbano">
-    <meta property="og:url" content="https://ciclosferia.com">
-    <meta property="og:description" content="Ciclosferia es el primer festival online de ciclismo urbano organizado por ciclosfera.com">
-    <meta property="og:image" content="https://ciclosferia.com/static/img/ciclosferia-board.jpg">
+    <link rel="shortcut icon" type="image/png" href="/static/img/icon-green.png"/>
+    <meta name="twitter:card" content="summary_large_image"/>
+    <meta property="og:site_name" content="Ciclosferia"/>
+    <meta property="og:title" content="Ciclosferia - Festival de ciclismo urbano"/>
+    <meta property="og:url" content="https://ciclosferia.com"/>
+    <meta property="og:description" content="Ciclosferia es el primer festival online de ciclismo urbano organizado por ciclosfera.com"/>
+    <meta property="og:image" content="https://ciclosferia.com/static/img/ciclosferia-board.jpg"/>
+    <meta property="og:locale" content="es_ES"/>
   </head>
   <body class="landing is-preload">
     <div id="page-wrapper">

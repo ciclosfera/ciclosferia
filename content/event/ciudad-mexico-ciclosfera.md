@@ -4,6 +4,7 @@ at: 13/05/2020 22:00
 duration: 75
 peers: Maya en Bici (periodista), Alan Huber (People For Bikes).
 join_url:https://my.demio.com/ref/ktBxiuayYrjT9mkO
+youtube: WVx07-g-mwQ
 ----
 ### Sobre qué hablaremos en este evento
 

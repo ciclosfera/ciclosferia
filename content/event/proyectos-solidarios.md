@@ -3,6 +3,7 @@ description: Proyectos con conciencia social. Proyectos con sentido.
 at: 16/05/2020 16:00
 duration: 90
 peers: Carmelo López e Isabel Segura (Cinecicleta), María Elisa Ojeda (En Bici Sense Edat) y Romà Boule (Bicicletas sin Fronteras).
+youtube: n-WujK4jT_4
 ----
 ### Sobre qué hablaremos en este evento
 

@@ -16,7 +16,7 @@
     <meta property="og:locale" content="es_ES"/>
     <meta property="og:type" content="event"/>
     <meta property="event:start_time" content="2020-05-16T20:00:00Z"/>
-    <meta property="og:updated_time" content="1589132966"/>
+    <meta property="og:updated_time" content="1589139688"/>
     <meta property="fb:app_id" content="3255657914464482"/>
   </head>
   <body class="is-preload">
@@ -63,14 +63,14 @@
           <div class="stream">
             <div class="video-placeholder">
               <p><i class="fab fa-youtube"></i></p>
-              <p>El streaming no ha comenzado aún...</p>
+              <p id="starts-in">El streaming no ha comenzado aún...</p>
             </div>
           </div>
           <div class="info">
             <h2>Colombia Ciclista: meca de la bicicleta</h2>
             <p>
-              <i class="far fa-calendar"></i> Sábado 16 de mayo<br/>
-              <i class="far fa-clock"></i> 22:00 a 23:15
+              <i class="far fa-calendar"></i> <span id="event-day-name">Sábado</span> <span id="event-day">16</span> de mayo<br/>
+              <i class="far fa-clock"></i> <span id="event-time">22:00 a 23:15</span>
               <br/><br/><i class="far fa-user"></i> Mauro Mesa (SiClas Medellín).
             </p>
             <p>Miles de nuestros lectores viven en Bogotá, Medellín, Cali… No es casualidad: Colombia siempre tuvo una enorme cultura ciclista, la bicicleta ha dado el salto y ahora es un actor fundamental en las calles de sus ciudades.</p>
@@ -139,6 +139,78 @@
     </script>
     <script type="application/ld+json">
       {"@context":"http:\/\/schema.org","@type":"Event","endDate":"2020-05-16T21:15:00Z","location":{"type":"VirtualLocation","url":"https:\/\/ciclosferia.com\/event\/colombia-ciclista\/"},"name":"Colombia Ciclista: meca de la bicicleta","startDate":"2020-05-16T20:00:00Z","superEvent":{"@type":"Event","endDate":"2020-05-17","location":{"type":"VirtualLocation","url":"https:\/\/ciclosferia.com\/"},"name":"Ciclosferia - Festival online de ciclismo urbano","startDate":"2020-05-11","url":"https:\/\/ciclosferia.com\/"},"url":"https:\/\/ciclosferia.com\/event\/colombia-ciclista\/"}
+    </script>
+    <script>
+        function formatTime(date) {
+          var hours = date.getHours();
+          var minutes = date.getMinutes();
+          hours   = hours < 10 ? '0'+hours : hours;
+          minutes = minutes < 10 ? '0'+minutes : minutes;
+          return hours + ':' + minutes;
+        }
+        function inSeconds(date) { return parseInt( ( date.getTime() - (new Date()).getTime() ) / 1000 ) }
+
+        function humanTimer(date) {
+            var secs = inSeconds(date);
+
+            if ( secs < 30 ) return;
+            if ( secs < 60 ) return "El streaming está por comenzar...";
+
+            var days = parseInt(secs/86400);
+            secs = secs % 86400;
+            var hours = parseInt(secs/3600);
+            secs = secs % 3600;
+            var mins = parseInt(secs/60);
+            secs = secs % 60;
+
+            var out = "El streaming comienza en";
+            if ( days ) {
+                out = out + ` ${days} ${ days > 1 ? 'días' : 'día' }`;
+                if ( hours && mins ) {
+                    out = out + `, ${hours} ${ hours > 1 ? 'horas' : 'hora' } y ${mins} ${ mins > 1 ? 'minutos' : 'minuto' }`;
+                }
+                else if ( hours ) {
+                    out = out + ` y ${hours} ${ hours > 1 ? 'horas' : 'hora' }`;
+                }
+                else if ( mins ) {
+                    out = out + ` y ${mins} ${ mins > 1 ? 'minutos' : 'minuto' }`;
+                }
+            }
+            else if ( hours ) {
+                out = out + ` ${hours} ${ hours > 1 ? 'horas' : 'hora' }`;
+                if ( mins ) {
+                    out = out + ` y ${mins} ${ mins > 1 ? 'minutos' : 'minuto' }`;
+                }
+            }
+            else {
+                out = out + `${mins} ${ mins > 1 ? 'minutos' : 'minuto' }`;
+                if ( secs ) {
+                    out = out + ` y ${secs} ${ secs > 1 ? 'segundos' : 'segundo' }`;
+                }
+            }
+
+            return out;
+        }
+        function updateVideoCountdown(startDate) {
+            var startIn = humanTimer(startDate);
+            if ( startIn ) {
+                $('#starts-in').html(startIn);
+                setTimeout(function(){ updateVideoCountdown(startDate) }, inSeconds(startDate) > 3600 ? 6000 : 1000 );
+            }
+            else {
+                console.log('Mostrar video');
+            }
+        }
+
+        $(function(){
+            var startDate = new Date(1589659200000);
+            var endDate   = new Date(1589663700000);
+            var days = { 0: "Domingo", 1: "Lunes", 2: "Martes", 3: "Miércoles", 4: "Jueves", 5: "Viernes", 6: "Sábado" };
+            $("#event-day-name").html( days[ startDate.getDay() ] );
+            $("#event-day").html( startDate.getDate() );
+            $("#event-time").html(`${formatTime(startDate)} a ${formatTime(endDate)}`);
+            updateVideoCountdown(startDate);
+        });
     </script>
   </body>
 </html>

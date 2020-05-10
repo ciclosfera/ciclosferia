@@ -57,7 +57,7 @@
           % } else {
             <div class="video-placeholder">
               <p><i class="fab fa-youtube"></i></p>
-              <p>El streaming no ha comenzado aún...</p>
+              <p id="starts-in">El streaming no ha comenzado aún...</p>
             </div>
           % }
           </div>
@@ -72,8 +72,8 @@
               % $time =~ s/:00$//;
               % $time .= ' a '. $meta->{end_at}->hms if $meta->{end_at};
               % $time =~ s/:00$//;
-              <i class="far fa-calendar"></i> <%= ucfirst $start->day_name %> <%= $start->day %> de <%= $start->month_name %><br/>
-              <i class="far fa-clock"></i> <%= $time %>
+              <i class="far fa-calendar"></i> <span id="event-day-name"><%= ucfirst $start->day_name %></span> <span id="event-day"><%= $start->day %></span> de <%= $start->month_name %><br/>
+              <i class="far fa-clock"></i> <span id="event-time"><%= $time %></span>
             % if ( my $peers = $meta->{peers} ) {
               <br/><br/><i class="far fa-user"></i> <%= $peers %>
             % }
@@ -158,5 +158,79 @@
         }
       }) %>
     </script>
+    % if ( $meta->{start_at} && $meta->{end_at} ) {
+    <script>
+        function formatTime(date) {
+          var hours = date.getHours();
+          var minutes = date.getMinutes();
+          hours   = hours < 10 ? '0'+hours : hours;
+          minutes = minutes < 10 ? '0'+minutes : minutes;
+          return hours + ':' + minutes;
+        }
+        function inSeconds(date) { return parseInt( ( date.getTime() - (new Date()).getTime() ) / 1000 ) }
+
+        function humanTimer(date) {
+            var secs = inSeconds(date);
+
+            if ( secs < 30 ) return;
+            if ( secs < 60 ) return "El streaming está por comenzar...";
+
+            var days = parseInt(secs/86400);
+            secs = secs % 86400;
+            var hours = parseInt(secs/3600);
+            secs = secs % 3600;
+            var mins = parseInt(secs/60);
+            secs = secs % 60;
+
+            var out = "El streaming comienza en";
+            if ( days ) {
+                out = out + ` ${days} ${ days > 1 ? 'días' : 'día' }`;
+                if ( hours && mins ) {
+                    out = out + `, ${hours} ${ hours > 1 ? 'horas' : 'hora' } y ${mins} ${ mins > 1 ? 'minutos' : 'minuto' }`;
+                }
+                else if ( hours ) {
+                    out = out + ` y ${hours} ${ hours > 1 ? 'horas' : 'hora' }`;
+                }
+                else if ( mins ) {
+                    out = out + ` y ${mins} ${ mins > 1 ? 'minutos' : 'minuto' }`;
+                }
+            }
+            else if ( hours ) {
+                out = out + ` ${hours} ${ hours > 1 ? 'horas' : 'hora' }`;
+                if ( mins ) {
+                    out = out + ` y ${mins} ${ mins > 1 ? 'minutos' : 'minuto' }`;
+                }
+            }
+            else {
+                out = out + `${mins} ${ mins > 1 ? 'minutos' : 'minuto' }`;
+                if ( secs ) {
+                    out = out + ` y ${secs} ${ secs > 1 ? 'segundos' : 'segundo' }`;
+                }
+            }
+
+            return out;
+        }
+        function updateVideoCountdown(startDate) {
+            var startIn = humanTimer(startDate);
+            if ( startIn ) {
+                $('#starts-in').html(startIn);
+                setTimeout(function(){ updateVideoCountdown(startDate) }, inSeconds(startDate) > 3600 ? 6000 : 1000 );
+            }
+            else {
+                console.log('Mostrar video');
+            }
+        }
+
+        $(function(){
+            var startDate = new Date(<%= $meta->{start_at}->clone->set_time_zone('UTC')->epoch * 1000 %>);
+            var endDate   = new Date(<%= $meta->{end_at}->clone->set_time_zone('UTC')->epoch * 1000 %>);
+            var days = { 0: "Domingo", 1: "Lunes", 2: "Martes", 3: "Miércoles", 4: "Jueves", 5: "Viernes", 6: "Sábado" };
+            $("#event-day-name").html( days[ startDate.getDay() ] );
+            $("#event-day").html( startDate.getDate() );
+            $("#event-time").html(`${formatTime(startDate)} a ${formatTime(endDate)}`);
+            updateVideoCountdown(startDate);
+        });
+    </script>
+    % }
   </body>
 </html>

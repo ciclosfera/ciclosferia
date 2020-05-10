@@ -16,7 +16,7 @@
     <meta property="og:image" content="https://ciclosferia.com/static/img/<%= $meta->{share_img} || 'ciclosferia-board.jpg' %>"/>
     <meta property="og:locale" content="es_ES"/>
     <meta property="og:type" content="event"/>
-    <meta property="og:event:start_time" content="<%= $meta->{start_at} && $meta->{start_at}->clone->set_time_zone('UTC')->stringify .'Z' %>"/>
+    <meta property="event:start_time" content="<%= $meta->{start_at} && $meta->{start_at}->clone->set_time_zone('UTC')->stringify .'Z' %>"/>
     <meta property="og:updated_time" content="<%= time %>"/>
     <meta property="fb:app_id" content="3255657914464482"/>
   </head>

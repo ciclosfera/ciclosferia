@@ -3,6 +3,7 @@ description: Después de tanto tiempo sin usar la bici, es probable que tu máqu
 at: 15/05/2020 20:00
 duration: 60
 peers: Silvia López (Todo Bici).
+youtube: m8ZSc_9euOg
 ----
 ### Sobre qué hablaremos en este evento
 

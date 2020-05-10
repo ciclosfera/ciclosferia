@@ -3,6 +3,7 @@ description: Las ideas de negocio más innovadoras de los últimos tiempos relac
 at: 15/05/2020 21:00
 duration: 60
 peers: 
+youtube: GlOKjxbmA40
 ----
 ### Sobre qué hablaremos en este evento
 La bici está de moda. Eso ya lo sabemos. La creatividad también. Cuando esas dos cosas se unen aparecen grandes iniciativas como estas: 

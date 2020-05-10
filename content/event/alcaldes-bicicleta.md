@@ -3,6 +3,7 @@ description: Con el objetivo de difundir las virtudes del ciclismo urbano y, sob
 at: 14/05/2020 20:00
 duration: 75
 peers: Jaime Novo (Madrid), Areli Carreón (CDMX), Jimena Pérez (Salta, Argentina).
+join_url: https://my.demio.com/ref/akesm8B36cHBBceH
 ----
 ### Sobre qué hablaremos en este evento
 

@@ -218,9 +218,13 @@
         $(function(){
             $("td.time").each(function(i,v){
                 var td = $(v);
-                var out = formatTime(new Date( td.data('start') * 1000 ));
+                var startDate = new Date( td.data('start') * 1000 );
+                td.data( 'startDate', startDate )
+                var out = formatTime(startDate);
                 if (td.data('end')) {
-                    out = out + '<br/>' + formatTime(new Date( td.data('end') * 1000 ));
+                    var endDate = new Date( td.data('end') * 1000 );
+                    out = out + '<br/>' + formatTime(endDate);
+                    td.data( 'endDate', endDate )
                 }
                 td.html(out);
             });

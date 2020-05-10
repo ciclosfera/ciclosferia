@@ -4,6 +4,7 @@ at: 13/05/2020 10:30
 duration: 15
 peers: Dani Cabezas y Rafa Vidiella. 
 featured:1
+youtube: A5IwsDsKQIA
 ----
 ### Sobre qué hablaremos en este evento
 

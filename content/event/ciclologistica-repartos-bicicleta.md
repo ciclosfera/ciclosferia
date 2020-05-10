@@ -4,6 +4,7 @@ at: 14/05/2020 18:00
 duration: 75
 peers: Dani Ruiz (Txita), Jorge Nieva (Urban Ciclo).
 join_url:https://my.demio.com/ref/ZTPGXqcy23Om6TDg
+youtube: JClthJzsMkY
 ----
 ### Sobre qué hablaremos en este evento
 

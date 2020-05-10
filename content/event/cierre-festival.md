@@ -3,6 +3,7 @@ description: Clausuramos Ciclosferia, el primer festival de ciclismo urbano onli
 at: 17/05/2020 18:00
 duration: 50
 featured:1
+youtube: FKrqQFvTKJQ
 ----
 ### Sobre qué hablaremos en este evento
 

@@ -4,6 +4,7 @@ url: https://www.littiumbykaos.com/
 logo: littium.png
 background: littium-back.jpg
 order: 6
+contact:info@littiumbykaos.com
 ----
 ### Littium
 

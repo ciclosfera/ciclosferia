@@ -4,6 +4,7 @@ at: 12/05/2020 16:00
 duration: 90
 peers: Silvia Casorrán, Giuseppe Grezzi.
 join_url:https://my.demio.com/ref/JYuS2ffhc1SodYUX
+youtube: 8RYpUGgGCSc
 ----
 ### Sobre qué hablaremos en este evento
 

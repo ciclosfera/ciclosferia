@@ -4,6 +4,7 @@ url: https://www.bestiabikes.com
 logo: bestia.png
 background: bestia-back.jpg
 order: 13
+contact:info@bestiabikes.com
 ----
 ### Bestia Bikes
 

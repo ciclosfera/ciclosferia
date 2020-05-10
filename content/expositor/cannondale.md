@@ -4,6 +4,7 @@ url: https://www.cannondale.com/es-es
 logo: cannondale.png
 background: cannondale-back.jpg
 order: 1
+contact:servicedeskeurope@cyclingsportsgroup.com
 ----
 ### Cannondale
 

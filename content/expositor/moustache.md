@@ -16,6 +16,8 @@ Y todo ¡gracias a usted! ¡Y gracias a esta herramienta mágica: ¡la bicicleta
 Es la bicicleta que genera oportunidades: Las bicicletas eléctricas están allanando el camino para nuevas experiencias, nuevos horizontes y nuevos usuarios. El rango de posibilidades que ofrecen prácticamente no tiene límites. Moustache tiene la gran convicción de que las bicicletas eléctricas representan una increíble oportunidad para el desarrollo del uso de las bicis. Creemos que esta es la herramienta perfecta para dejar el coche en el garaje. Ya sea para uso urbano, de paseo o con más deportividad. ¡Una B-E-A (Bicicleta Eléctrica Asistida) de calidad es una fuente de satisfacción!
  
 Ante todo, es una visión muy particular de la bicicleta con asistencia eléctrica. Una visión distinta, contemporánea, agradable e innovadora. Es la voluntad de poner en el centro de nuestras preocupaciones la sonrisa que nos promete unas bicicletas únicas, asociando diseño, comodidad y ergonomía. Moustache es también una draisiana para el aprendizaje. Se trata del único modelo sin asistencia eléctrica, pero podemos considerarlo como uno de lo más importante de la gama: ¡es la bicicleta para la iniciación, con ella se crea el deseo y genera la pasión!
+
+
  
 Moustache es por tanto, una gama estructurada en 13 familias para todos los usos: ciudad, urbano, paseo, montaña, infantil.
 ¡Para que pueda encontrar la Moustache que se adapta a usted!

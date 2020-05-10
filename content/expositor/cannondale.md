@@ -36,3 +36,4 @@ name: Bad Boy
 prize: desde 799€
 description: La urbana definitiva. Estilo elegante y agresivo. Soluciones visionarias. Gran habilidad para sortear el tráfico.
 url: https://www.cannondale.com/es-es/bikes/active/urban/bad-boy
+

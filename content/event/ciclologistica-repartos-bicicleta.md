@@ -3,6 +3,7 @@ description: Si la bicicleta es el mejor vehículo para los trayectos urbanos, s
 at: 14/05/2020 18:00
 duration: 75
 peers: Dani Ruiz (Txita), Jorge Nieva (Urban Ciclo).
+join_url:https://my.demio.com/ref/ZTPGXqcy23Om6TDg
 ----
 ### Sobre qué hablaremos en este evento
 

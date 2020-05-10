@@ -3,6 +3,7 @@ description: Los sistemas de bicicleta pública son, para muchos, la vía para i
 at: 14/05/2020 22:00
 duration: 75
 peers: Esther Anaya (Consultora e investigadora de movilidad ciclista) y David Gómez (Tucycle).
+join_url: https://my.demio.com/ref/EgpIxYj4eAm6KUEg
 ----
 ### Sobre qué hablaremos en este evento
 

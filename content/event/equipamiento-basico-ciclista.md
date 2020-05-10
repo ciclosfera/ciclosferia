@@ -2,6 +2,7 @@ title: Equipamiento básico ciclista: qué tener y llevar
 description: ¿Qué accesorios debería tener siempre en casa o en sus trayectos un ciclista urbano? Mochilas, alforjas, timbres, luces… Lo que no debe faltar. 
 at: 16/05/2020 20:00
 duration: 75
+youtube: 0yuPWdPpASQ
 ----
 ### Sobre qué hablaremos en este evento
 

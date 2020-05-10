@@ -3,7 +3,7 @@ title: Robos de bicicletas: cómo evitarlos
  at: 14/05/2020 16:00
  duration: 60
  peers: Miguel del Peso (Recycling BCN), Amaia Jiménez (Luma).
- join_url: https://ciclosferia.com/event/robos-bicicletas/
+ join_url: https://my.demio.com/ref/XhixfyocR30GaynA
  ----
  ### Sobre qué hablaremos en este evento
 

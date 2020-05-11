@@ -207,7 +207,7 @@
                 }
             }
 
-            return out;
+            return out + '...';
         }
         function updateVideoCountdown(startDate) {
             var startIn = humanTimer(startDate);

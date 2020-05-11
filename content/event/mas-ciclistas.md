@@ -5,6 +5,7 @@ duration: 75
 peers: Belén Calahorro (Agencia de la Bicicleta de Valencia), Isabel Ramis (Muévete en Bici por Madrid) y Xavi Prat (Biciclot BCN). 
 join_url:https://my.demio.com/ref/6rdwMunH5OV3BhYX
 youtube: HGV-mfhs1w
+share_img:/mas-gente-bicicleta.jpg
 ----
 ### Sobre qué hablaremos en este evento
 

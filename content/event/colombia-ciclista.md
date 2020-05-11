@@ -4,6 +4,7 @@ at: 16/05/2020 22:00
 duration: 75
 peers: Mauro Mesa (SiClas Medellín). 
 youtube: Y91URFZoqoc
+join_url: https://my.demio.com/ref/Gt9N2N7pam3KuzyU
 ----
 ### Sobre qué hablaremos en este evento
 

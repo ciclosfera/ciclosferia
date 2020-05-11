@@ -3,7 +3,7 @@ description: Entrevistamos al portero de la selección española de balonmano y 
 at: 11/05/2020 12:00
 duration: 30
 youtube: _HGV-mfhs1w
-share_img:gonzalo-perez-de-vargas-entrevista.jpg
+share_img: /static/share/gonzalo-perez-de-vargas-entrevista.jpg
 ----
 ### Sobre qué hablaremos en este evento
 

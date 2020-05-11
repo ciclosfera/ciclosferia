@@ -4,6 +4,7 @@ at: 12/05/2020 20:00
 duration: 75
 peers: Alejo Bastos (Biobike), Ana Amondo (Motor Verde) y Carlos Núñez (AMBE).
 youtube: HSn13TLCM7s
+join_url:https://my.demio.com/ref/s3GIr0fMzN9sqcOM 
 share_img: /static/share/e-bikes.jpg
 ----
 ### Sobre qué hablaremos en este evento

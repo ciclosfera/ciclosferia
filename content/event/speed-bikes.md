@@ -4,6 +4,7 @@ at: 17/05/2020 13:00
 duration: 40
 peers: Carlos Núñez (AMBE), Ulrich Muller (Riese & Müller).
 youtube: uWcSMeKV9tg
+join_url: https://my.demio.com/ref/Gt9N2N7pam3KuzyU
 ----
 ### Sobre qué hablaremos en este evento
 

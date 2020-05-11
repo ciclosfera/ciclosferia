@@ -13,7 +13,7 @@
     <meta property="og:title" content="<%= $meta->{title} %> - Ciclosferia">
     <meta property="og:url" content="https://ciclosferia.com/event/<%= $slug %>/"/>
     <meta property="og:description" content="<%= $meta->{description} %>"/>
-    <meta property="og:image" content="https://ciclosferia.com/static/img/<%= $meta->{share_img} || 'ciclosferia-board.jpg' %>"/>
+    <meta property="og:image" content="https://ciclosferia.com<%= $meta->{share_img} || '/static/img/ciclosferia-board.jpg' %>"/>
     <meta property="og:locale" content="es_ES"/>
     <meta property="og:type" content="event"/>
     <meta property="event:start_time" content="<%= $meta->{start_at} && $meta->{start_at}->clone->set_time_zone('UTC')->stringify .'Z' %>"/>

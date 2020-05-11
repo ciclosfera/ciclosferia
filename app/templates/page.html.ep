@@ -12,7 +12,7 @@
     <meta property="og:title" content="<%= $meta->{title} %> - Ciclosferia"/>
     <meta property="og:url" content="https://ciclosferia.com/<%= $slug %>/"/>
     <meta property="og:description" content="<%= $meta->{description} %>"/>
-    <meta property="og:image" content="https://ciclosferia.com/static/img/<%= $meta->{share_img} || 'ciclosferia-board.jpg' %>"/>
+    <meta property="og:image" content="https://ciclosferia.com<%= $meta->{share_img} || '/static/img/ciclosferia-board.jpg' %>"/>
     <meta property="og:locale" content="es_ES"/>
     <meta property="fb:app_id" content="3255657914464482"/>
   </head>

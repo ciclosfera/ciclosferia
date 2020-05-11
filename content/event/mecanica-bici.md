@@ -9,7 +9,7 @@ youtube: m8ZSc_9euOg
 
 Si siempre has soñado con tener conocimientos sobre mecánica y ser capaz de arreglar tu bicicleta por ti mismo, este es el taller que necesitas. 
 
-Aprenderás a cambiar una rueda que se ha pinchado, a poner a punto las marchas y a comprobar que los frenos funcionan correctamente.
+Aprenderás a cambiar un pinchazo, a poner y quitar las ruedas, comprobar que llevan la presión adecuada, a revisar la cadena y sobre el mantenimiento de frenos.
 ¿Tienes ya tu kit antipinchazos y tu cubierta de repuesto? Con eso, una llave inglesa y unas llaves Allen tendrás todo lo que necesitas para seguir en directo el taller e ir haciéndolo al mismo tiempo en tu casa. 
 
 Y no te preocupes, como los vídeos estarán disponibles después de la emisión en directo, podrás volver a verlo todas las veces que quieras y así practicar. Contaremos con: [Silvia López](https://twitter.com/TodobiciVLC) (Todo Bici)

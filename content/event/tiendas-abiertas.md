@@ -15,4 +15,4 @@ Tenemos que conocer esas medidas. Tenemos que estar informados. Y, por supuesto,
 
 Hablaremos con los responsables de distintas tiendas de varias ciudades de España para que analicen la situación, expliquen qué medidas hay que tomar y, sobre todo, inviten a los asistentes a retomar un hábito maravilloso: frecuentar los locales donde más se vive el ciclismo.
 
-Para todo ello, contaremos con tres invitados de lujo: Pere Cahué (Probike, Barcelona), Eneko Astigarraga (Mundoraintxe, Pamplina) y Danny Milian (Cap Problema, Barcelona).
+Para todo ello, contaremos con tres invitados de lujo: Pere Cahué (Probike, Barcelona), Eneko Astigarraga (Mundoraintxe, Pamplona) y Danny Milian (Cap Problema, Barcelona).

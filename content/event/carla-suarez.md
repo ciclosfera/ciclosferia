@@ -3,6 +3,7 @@ description: Una charla con la tenista canaria, una apasionada de la bicicleta.
 at: 12/05/2020 19:00
 duration: 30
 youtube: J3FJKxqZ3Kc
+share_img: /static/share/carla-suarez.jpg
 ----
 ### Sobre qué hablaremos en este evento
 

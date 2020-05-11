@@ -2,7 +2,7 @@ title: E-bikes: ¿la mejor máquina para la ciudad?
 description: Veloces. Cómodas, Eficientes. ¿Son las bicicletas de pedaleo asistido el vehículo perfecto para movernos por la ciudad?
 at: 12/05/2020 20:00
 duration: 75
-peers: Ana Amondo (Biobike), Víctor Ibáñez (Motor Verde) y Carlos Núñez (AMBE).
+peers: Alejo Bastos (Biobike), Ana Amondo (Motor Verde) y Carlos Núñez (AMBE).
 youtube: HSn13TLCM7s
 share_img: /static/share/e-bikes.jpg
 ----
@@ -14,4 +14,4 @@ Las veíamos cada vez más en el campo. Empezaban a verse en las carreteras. Per
 
 ¿Ha llegado, por fin, la explosión de las bicicletas eléctricas? ¿Será el vehículo clave para aumentar de forma exponencial el número de ciclistas urbanos? ¿Qué tipos de e-bikes hay, en qué se diferencian de una bicicleta convencional?
 
-Todas esas preguntas, y muchas más, serán planteadas… y respondidas. Contaremos con tres expertos en la materia: Ana Amondo (Biobike), Víctor Ibáñez (Motor Verde) y Carlos Núñez (AMBE).
+Todas esas preguntas, y muchas más, serán planteadas… y respondidas. Contaremos con tres expertos en la materia: Alejo Bastos (Biobike), Ana Amondo (Motor Verde) y Carlos Núñez (AMBE).

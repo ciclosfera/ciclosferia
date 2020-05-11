@@ -5,7 +5,7 @@ duration: 90
 peers: Silvia Casorrán, Giuseppe Grezzi.
 join_url:https://my.demio.com/ref/JYuS2ffhc1SodYUX
 youtube: 8RYpUGgGCSc
-share_img:ciudades-movilidad.jpg
+share_img: /static/share/ciudades-movilidad.jpg
 ----
 ### Sobre qué hablaremos en este evento
 

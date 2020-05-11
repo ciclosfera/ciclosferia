@@ -4,6 +4,7 @@ at: 17/05/2020 16:00
 duration: 70
 peers: Carlos Rodríguez, Nacho Tomás y Laura Vergara.
 youtube: o2vEyqnHLFI
+join_url:https://my.demio.com/ref/Cdv4ZVDFQ7yAP5aF
 ----
 ### Sobre qué hablaremos en este evento
 

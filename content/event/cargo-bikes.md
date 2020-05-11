@@ -5,6 +5,7 @@ duration: 75
 peers:  Ulrich Muller (Riese & Müller), Jason Harris (3ike).
 join_url:https://my.demio.com/ref/eMXyfNNBFLuIZY3s
 youtube: wRNS01Rsicc
+share_img: /static/share/cargo-bikes.jpg
 ----
 ### Sobre qué hablaremos en este evento
 

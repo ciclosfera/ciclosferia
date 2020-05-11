@@ -16,7 +16,7 @@
     <meta property="og:locale" content="es_ES"/>
     <meta property="og:type" content="event"/>
     <meta property="event:start_time" content="2020-05-13T17:00:00Z"/>
-    <meta property="og:updated_time" content="1589156113"/>
+    <meta property="og:updated_time" content="1589156625"/>
     <meta property="fb:app_id" content="3255657914464482"/>
   </head>
   <body class="is-preload">
@@ -61,8 +61,12 @@
       <article id="main">
         <div class="event-head">
           <div class="stream">
-            <div class="video-container">
+            <div class="video-container" style="display:none;">
               <iframe src="https://www.youtube.com/embed/N27woxhvQVQ?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+            <div class="video-placeholder">
+              <p><i class="fab fa-youtube"></i></p>
+              <p id="starts-in">El streaming no ha comenzado aún...</p>
             </div>
           </div>
           <div class="info">
@@ -198,7 +202,8 @@
                 setTimeout(function(){ updateVideoCountdown(startDate) }, inSeconds(startDate) > 3600 ? 6000 : 1000 );
             }
             else {
-                console.log('Mostrar video');
+                $(".video-container").show();
+                $(".video-placeholder").hide();
             }
         }
 

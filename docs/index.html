@@ -61,6 +61,9 @@
         <div class="inner">
           <h2>Ciclos<span style="color:red;">Feria</span></h2>
           <p>Festival online de ciclismo urbano</p>
+          <ul class="actions special upcoming" style="display:none;">
+            <li><a href="/" class="button primary"><span>En vivo</span> <i class="fas fa-play"></i></a></li>
+          </ul>
           <h3>11-17 Mayo de 2020</h3>
         </div>
       </section>
@@ -806,7 +809,51 @@
         }
         function inSeconds(date) { return parseInt( ( date.getTime() - (new Date()).getTime() ) / 1000 ) }
         function upcomingEvent() {
-            //setTimeout(function(){ upcomingEvent(startDate) }, inSeconds(startDate) > 3600 ? 6000 : 1000 );
+            var ev = {};
+            var now = new Date();
+            $('#schedule tr').each(function(i,e){
+                var tr = $(e);
+                var start = tr.find('td.time').first().data('startDate');
+                var end   = tr.find('td.time').first().data('endDate');
+                if ( now >= start && now <= end ) {
+                    var link = tr.find('.title > a')
+                    ev.current = {
+                        url: link.attr('href'),
+                        name: link.text()
+                    };
+                }
+                else if ( now < start && parseInt((start - now) / 1000) < 3600 ) {
+                    var link = tr.find('.title > a')
+                    ev.next = {
+                        url: link.attr('href'),
+                        name: link.text()
+                    };
+                }
+                else if ( now < start ) {
+                    ev.keep = true;
+                }
+            });
+
+            var upcoming = $('ul.upcoming')
+            if ( ev.current ) {
+                upcoming.find('a').attr('href', ev.current.url);
+                upcoming.find('a').attr('title', ev.current.name);
+                upcoming.find('a > span').html('Ver ahora');
+                upcoming.show();
+            }
+            else if ( ev.next ) {
+                upcoming.find('a').attr('href', ev.next.url);
+                upcoming.find('a').attr('title', ev.next.name);
+                upcoming.find('a > span').html('Está por comenzar');
+                upcoming.show();
+            }
+            else {
+                upcoming.hide();
+            }
+
+            if ( ev.keep ) {
+                setTimeout(function(){ upcomingEvent() }, 12000 )
+            }
         }
         $(function(){
             $("td.time").each(function(i,v){

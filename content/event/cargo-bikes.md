@@ -11,4 +11,5 @@ share_img: /static/share/cargo-bikes.jpg
 
 ¿Qué son las cargo bikes? ¿Cómo pueden cambiar nuestra forma de movernos y transportar prácticamente cualquier cosa?
 
-Todo lo que siempre quisiste saber sobre unas bicicletas absolutamente rompedoras. Máquinas que abundan en países como Dinamarca u Holanda, y que cada vez se ven más por nuestas calles con el auge de la bicimensajería.  
+Todo lo que siempre quisiste saber sobre unas bicicletas absolutamente rompedoras. Máquinas que abundan en países como Dinamarca u Holanda, y que cada vez se ven más por nuestas calles con el auge de la bicimensajería.
+

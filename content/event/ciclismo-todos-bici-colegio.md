@@ -5,6 +5,7 @@ duration: 60
 peers: David Sáiz (Ride my bike Madrid), Chabi Cañada (La Ciclería) y Yeray Bombín (Mejor en Bici). 
 join_url:https://my.demio.com/ref/q7LW4HOKjHJM22vj
 youtube: E-0zKWiHL74
+share_img: /static/share/ciclismo-infantil.jpg
 ----
 ### Sobre qué hablaremos en este evento
 

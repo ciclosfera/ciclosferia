@@ -4,6 +4,7 @@ at: 15/05/2020 18:00
 duration: 60
 peers: Iuren Aldecoa (Kids on Wheels), Leyre Corretgé (WeeRide).
 youtube: RJGQhFj0Jjk
+join_url: https://my.demio.com/ref/xnSQhiPEZjx0nHxC
 ----
 ### Sobre qué hablaremos en este evento
 

@@ -4,7 +4,7 @@ at: 16/05/2020 16:00
 duration: 90
 peers: Carmelo López e Isabel Segura (Cinecicleta), María Elisa Ojeda (En Bici Sense Edat) y Romà Boule (Bicicletas sin Fronteras).
 youtube: n-WujK4jT_4
-jon_url: https://my.demio.com/ref/Ox5POm641yz1BabJ
+join_url: https://my.demio.com/ref/Ox5POm641yz1BabJ
 ----
 ### Sobre qué hablaremos en este evento
 

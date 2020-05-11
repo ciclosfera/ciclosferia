@@ -5,6 +5,7 @@ duration: 75
 peers: Ignacio Prieto (Tragsa), Gregorio Magno (Ciclogreen) y Carlos Núñez (AMBE).
 join_url:https://my.demio.com/ref/BcRGuJ00YoOb4LIF
 youtube: uGzZ3E3SSpM
+share_img: /static/share/trabajo-en-bici.jpg
 ----
 ### Sobre qué hablaremos en este evento
 

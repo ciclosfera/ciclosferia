@@ -12,7 +12,7 @@ contact:renting@capproblema.com
 Este servicio pretende animar a las empresas a disminuir su huella de carbono, facilitando a sus trabajadores una manera de desplazarse 100% ecológica.
 Las empresas que ofrecen coche a sus trabajadores pueden cambiar el coche por la bicicleta Brompton en todos aquellos casos que sea posible, evidentemente con las mismas ventajas fiscales.
 También es una herramienta definitiva para autónomos que quieren destinar presupuestos concretos a su movilidad sin que haya sorpresas y con una deducción del 100% del gasto.
-![ok bromcap problema](https://www.capproblema.com/wp-content/uploads/2020/04/Portada-1024x434.png)]
+![ok bromcap problema](https://www.capproblema.com/wp-content/uploads/2020/04/Portada-1024x434.png)
 
 #### Qué hacemos:
 Proveemos de bicicletas Brompton a las empresas y profesionales liberales que necesiten un sistema de movilidad ágil, de calidad y sostenible.

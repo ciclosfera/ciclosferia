@@ -4,6 +4,7 @@ at: 16/05/2020 18:00
 duration: 75
 peers: Jon Aguirre Such (arquitecto, Paisaje Transversal), Zaida Muxí (arquitecta), Miguel Álvarez (Nación Rotonda). 
 youtube: Iymi2-Oky68
+join_url: https://my.demio.com/ref/Gt9N2N7pam3KuzyU
 ----
 ### Sobre qué hablaremos en este evento
 

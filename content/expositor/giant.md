@@ -35,3 +35,10 @@ name: Revolt 2
 description: Bicicleta todoterreno que podrás utilizar tanto en caminos sin asfaltar como por las calles de tu ciudad. Ligera, cómoda y te permite mantener el control en todo momento. Tiene un cuadro ligero y una orquilla de carbono. Cuenta también con frenos de disco.
 url: https://www.giant-bicycles.com/es/revolt-2
 
+name: DailyTour E+ 2 LDS
+description:Este modelo está pensado para un uso diario en la ciudad y, si te atreves, incluso para hacer unos cuantos kilómetros más debido a su función de asistencia automática, que hará que solo tengas que preocuparte de la carretera. Además, cuenta con un sistema de iluminación que funciona tanto de día como de noche.
+url:https://www.giant-bicycles.com/es/dailytour-eplus-2-lds-2019
+
+name: EASE-E 2+
+description: Este modelo es perfecto para los que no cuenten con un gran presupuesto para su bicicleta. Se trata de una bicicleta eléctrica con un motor silecioso, cambio Shimano de 8 velocidades y tecnología Giant PedalPlus 2 sensores. Ideal para moverte por la ciudad.
+url: https://www.giant-bicycles.com/es/ease-eplus-2-2019

@@ -2,7 +2,7 @@ title: Producto: presentación mundial
 description: ¡Exclusiva! Una de las marcas punteras presenta a nivel global su nueva bicicleta en Ciclosferia. Os lo aseguramos: vamos a mostraros un arma definitiva para desplazarte por tu ciudad... ¡No te lo pierdas!
 at: 12/05/2020 18:00
 duration: 30
-youtube: rKHKCpGzZPE
+
 ----
 ### Sobre qué hablaremos en este evento
 

@@ -11,13 +11,13 @@ El objetivo de Kryptonite siempre ha sido el mismo desde que empezaron, animar a
 
 Tu seguridad siempre es nuestra prioridad.
 --products--
-name: Candado New York Fahgettaboudit Mini
+name: New York Fahgettaboudit Mini
 url: http://www.gurpil.com/es-ES/Image/MostrarHREnCatalogo?nombreTablaA=VirtualCatalogo&claveTablaA=4e62e166369540daac77fc2009014345&nombreTablaB=ARTICULO&claveTablaB=33900
 
 name: Evolution mini-7 CABLE 4’ FLEX
 url:http://www.gurpil.com/es-ES/Image/MostrarHREnCatalogo?nombreTablaA=VirtualCatalogo&claveTablaA=4e62e166369540daac77fc2009014345&nombreTablaB=ARTICULO&claveTablaB=33905
 
-name: Krypton Kryptolol Mini-7 Blanco
+name: Krypton Kryptolok Mini-7 Blanco
 url: http://www.gurpil.com/es-ES/Image/MostrarHREnCatalogo?nombreTablaA=VirtualCatalogo&claveTablaA=4e62e166369540daac77fc2009014345&nombreTablaB=ARTICULO&claveTablaB=33912
 
 name: Kryptolok Combo STD

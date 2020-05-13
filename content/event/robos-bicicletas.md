@@ -2,7 +2,7 @@ title: Robos de bicicletas: cómo evitarlos
  description: Es una de las excusas más habituales: no me muevo en bici… porque me la van a robar. Pero no tiene por qué ser así.  
  at: 14/05/2020 16:00
  duration: 60
- peers: Miguel del Peso (Recycling BCN), Amaia Jiménez (Luma) y Koldo  Gurpilan (Gurpil).
+ peers: Miguel del Peso (Recycling BCN), Amaia Jiménez (Luma) y Koldo Aizpurua (Gurpil).
  join_url: https://my.demio.com/ref/XhixfyocR30GaynA
  youtube: I9k3zsQseXs
  ----

@@ -2,6 +2,7 @@ title: CICLOSFEROS - MACACO
 description: Entrevistamos a Dani Carbonell, Macaco, músico barcelonés, activista medioambiental y, claro está, apasionado de la bicicleta.
 at: 16/05/2020 13:00
 duration: 30
+youtube: Vw7BSF5Auck
 ----
 ### Sobre qué hablaremos en este evento
 

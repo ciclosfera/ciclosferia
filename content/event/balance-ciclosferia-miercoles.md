@@ -1,6 +1,6 @@
 title: Balance de la tercera jornada y avance del jueves.
 description: Increíble la jornada que hemos disfrutado hoy en Ciclosferia.
-at: 13/05/2020 23:45
+at: 13/05/2020 00:30
 duration: 15
 peers: Laura Rincón y Rafa Vidiella. 
 featured:1

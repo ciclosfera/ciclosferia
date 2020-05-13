@@ -11,7 +11,7 @@ contact:security@luma.es
 Desde 1975, Luma es sinónimo de diseño y seguridad, con aspectos destacados como la gama Luma Netlock (candados conectados a tu móvil que te permiten localizar tu vehículo, con alarma y notificaciones en caso de ataque). 
 
 --products--
-name: Escudo 55 hu (Seguridad jomologada)
+name: Escudo 55 hu (Seguridad homologada)
 description: Candado en U que permite atar a puesto fijo. Cerradura reversible para mayor comodidad de apertura y cierre.   
 Nivel de seguridad 7,5/10 Homologado ART 4. Puedes optar por tener cobertura antirrobo con tu seguro. Acero endurecido.
 url: https://es.luma.es/catalogo/articulo/3-escudo-55-hu
@@ -28,8 +28,8 @@ name: Carpenter
 description: Candado articulado. Cuerpo y articulaciones en acero endurecido. Incluye soporte para su transporte. Fácil de usar. Permite atar a puesto fijo. Llave reversible que facilita la apertura y cierre. Longitud 800 mm.
 url: https://es.luma.es/catalogo/articulo/58-carpenter
 
-name: Netlock
-description: Candados conectados a tu móvil que te permiten localizar tu vehículo, con alarma y notificaciones en caso de ataque.
+name: Enduro 885 Articulado 
+description: El candado está formado po un cable de acero cubierto por rótulas de acero endurecid. Cerradura reversible para mayor facilidad de apertura y cierre. Permite atar a puesto fijo.  
 url: https://es.luma.es/gama-netlock
 
 name: 60 HU Netlock

@@ -1,4 +1,4 @@
-title: Colombia Ciclista: meca de la bicicleta
+title: Colombia Ciclista: ¿meca de la bicicleta?
 description: Miles de nuestros lectores viven en Bogotá, Medellín, Cali… No es casualidad: Colombia siempre tuvo una enorme cultura ciclista, la bicicleta ha dado el salto y ahora es un actor fundamental en las calles de sus ciudades. 
 at: 16/05/2020 22:00
 duration: 75

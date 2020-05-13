@@ -12,7 +12,7 @@ Puntera en la carretera. Referencia en la montaña. Y, claro, también admirada 
 
 --products--
 name: Turbo Vado SL
-description: Con el modelo Turbo Vado SL tendrás una autonomía de hasta 130km, podrás perderte por las calles de tu ciudad o, si lo prefieres entre las montañas. Es un 40% más ligera que cualquier bicicleta eléctrica. Podrás subir escaleras con ella, transportarla fácilmente y, sobre todo, pedalear largas distancias sin preocuparte de la batería.
+description: Con el modelo Turbo Vado SL tendrás una autonomía de hasta 130km, podrás perderte por las calles de tu ciudad o, si lo prefieres entre las montañas. Además, es un 40% más ligera que cualquier bicicleta eléctrica.  
 url: https://www.specialized.com/es/es/turbo-vado-sl
 
 name: Turbo Vado

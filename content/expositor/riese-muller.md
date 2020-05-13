@@ -35,3 +35,9 @@ name: Superdelite
 description: La Superdelite: Concebida para trayectos largos. Una seguridad y una comodidad al más alto nivel y una potencia de 1.000 Wh son sus prestaciones de serie. La excusa ideal para darse un paseo algo más largo... y descubrir algo nuevo cada día.
 url: https://www.r-m.de/es-es/modelos/superdelite/
 
+name: Nevo GT
+description: La Nevo GT es un modelo todoterreno. Pensada para la ciudad y el asfalto pero también para acompañarte al campo, no se tle resiste nada.Técnicamente es una bicicleta eléctrica con un cuadro bajo muy especial y, visualmente, es una superdotada.
+url: https://www.r-m.de/es-es/modelos/nevo-gt/
+
+name: Roadster
+description: La roadster tiene la estética de una bicicleta de carreras clásica y la funcionalidad de una veloz como el viento. La rigidez del cuadro, la potencia corta y la distribución óptima del peso la convierten en una bicicleta muy ágil y de manejo perfecto.

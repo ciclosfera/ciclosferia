@@ -11,6 +11,10 @@ contact:informacion@specialized.com
 Puntera en la carretera. Referencia en la montaña. Y, claro, también admirada en el ámbito urbano: la gama Specialized está llena de bicicletas de ciudad perfectas para el día a día. Eléctricas, híbridas… Hay una Active perfecta para ti: encuéntrala aquí. 
 
 --products--
+name: Turbo Vado SL
+description: Con el modelo Turbo Vado SL tendrás una autonomía de hasta 130km, podrás perderte por las calles de tu ciudad o, si lo prefieres entre las montañas. Es un 40% más ligera que cualquier bicicleta eléctrica. Podrás subir escaleras con ella, transportarla fácilmente y, sobre todo, pedalear largas distancias sin preocuparte de la batería.
+url: https://www.specialized.com/es/es/turbo-vado-sl
+
 name: Turbo Vado
 description: Diseñada para ofrecerte la agilidad y sensaciones de una bicicleta “normal”, pero con el “empuje” adicional de la tecnología de e-bikes Specialized. Llegarás más lejos, y más rápido, de lo que creías posible.
 url: https://www.specialized.com/es/es/turbo-vado

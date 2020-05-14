@@ -14,4 +14,4 @@ Falta de aparcamientos seguros, no saber qué candado elegir o, incluso, el no s
 
 Además, podrás resolver todas las dudas que tengas sobre el tema a través del chat. Los participantes estarán encantados de responder a todas vuestras preguntas.
 
-Para la charla contaremos con Miguel del Peso, de la tienda de bicicletas de segunda mano Recycling, de Barcelona, y Amaia Jiménez, responsable de comunicacion de la marca de candados Luma.
+Para la charla contaremos con Miguel del Peso, de la tienda de bicicletas de segunda mano Recycling, de Barcelona, Amaia Jiménez, responsable de comunicacion de la marca de candados Luma, y Koldo Aizpurua, de Gurpil. ¡La pesadilla de los cacos!

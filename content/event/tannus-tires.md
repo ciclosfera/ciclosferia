@@ -2,7 +2,7 @@ title: ADIÓS PINCHAZOS: Tannus Tires
 description: Sergi Belmonte y Arnau Isern están al frente de Akrovalis, importador de los neumáticos antipinchazos Tannus. Nos explican este producto. 
 at: 14/05/2020 17:30
 duration: 25
-youtube: T3IFeg247Lw
+youtube: ANeUJdIiLHw
 ----
 ### Sobre qué hablaremos en este evento
 

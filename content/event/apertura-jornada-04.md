@@ -8,4 +8,4 @@ youtube: cN1C1IihxqA
 ----
 ### Sobre qué hablaremos en este evento
 
-Cuarta jornada y con ella superamos la mitad del festival. Dani Cabezas y Laura Rincón, redactor jefe y responsable de producción de Ciclosfera respectivamente, repasan contigo el horario de hoy ¡Agarraos que vienen curvas! 
+Cuarta jornada y con ella superamos la mitad del festival. Rafa Vidiella y Dani Cabezas, director y redactor jefe de Ciclosfera respectivamente, repasan contigo el horario de hoy ¡Agarraos que vienen curvas! 

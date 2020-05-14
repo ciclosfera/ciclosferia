@@ -2,7 +2,7 @@ title: CICLOSFEROS - VALENTÍ SANJUAN
 description: Entrevistamos a Valentí Sanjuan, "un flipado que hace vídeos mientras practica deporte extremo por el mundo", según él mismo se define. 
 at: 14/05/2020 19:30
 duration: 25
-youtube: Vw7BSF5Auck
+youtube: 54Wrybk3Tuk
 ----
 ### Sobre qué hablaremos en este evento
 

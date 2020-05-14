@@ -194,15 +194,16 @@
 
             return out + '...';
         }
-        function updateVideoCountdown(startDate) {
+        function updateVideoCountdown(startDate, endDate) {
             var startIn = humanTimer(startDate);
             if ( startIn ) {
                 $('#starts-in').html(startIn);
-                setTimeout(function(){ updateVideoCountdown(startDate) }, inSeconds(startDate) > 3600 ? 6000 : 1000 );
+                setTimeout(function(){ updateVideoCountdown(startDate, endDate) }, inSeconds(startDate) > 3600 ? 6000 : 1000 );
             }
             else {
                 $(".video-container").show();
                 $(".video-placeholder").hide();
+                if ( inSeconds(endDate) < 0 ) $(".join-to-demio").hide();
             }
         }
 
@@ -213,7 +214,7 @@
             $("#event-day-name").html( days[ startDate.getDay() ] );
             $("#event-day").html( startDate.getDate() );
             $("#event-time").html(`${formatTime(startDate)} a ${formatTime(endDate)}`);
-            updateVideoCountdown(startDate);
+            updateVideoCountdown(startDate, endDate);
         });
     </script>
   </body>

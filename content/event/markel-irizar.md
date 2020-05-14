@@ -2,7 +2,7 @@ title: CICLOSFEROS: Markel Irizar
 description: Entrevistamos a Markel Irizar, exciclista profesional y embajador de Trek.
 at: 14/05/2020 12:30
 duration: 30
-youtube: T3IFeg247Lw
+youtube: 2rV5MmGCO3c
 ----
 ### Sobre qué hablaremos en este evento
 

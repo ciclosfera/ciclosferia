@@ -1,7 +1,7 @@
 title: Alcaldes de la bicicleta: escenarios y desafíos 
 description: Con el objetivo de difundir las virtudes del ciclismo urbano y, sobre todo, darle la máxima visibilidad, se ha creado la figura del alcalde de la bicicleta en urbes como Bogotá, Ciudad de México o Madrid.
 at: 14/05/2020 20:00
-duration: 75
+duration: 90
 peers: Jaime Novo (Madrid), Areli Carreón (CDMX), Jimena Pérez (Salta, Argentina).
 join_url: https://my.demio.com/ref/akesm8B36cHBBceH
 youtube: Q_82HCdNB54

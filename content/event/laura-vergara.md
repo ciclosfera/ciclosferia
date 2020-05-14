@@ -2,7 +2,7 @@ title: Ciclosferos: Laura Vergara (Conbici)
 description: Charlamos con la portavoz de la Coordinadora Conbici
 at: 14/05/2020 13:00
 duration: 30
-youtube: TLLw1gsCvVQ
+youtube: ZeCZIz9JNpQ
 ----
 ### Sobre qué hablaremos en este evento
 

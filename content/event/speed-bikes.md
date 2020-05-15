@@ -1,13 +1,13 @@
-title: Todo lo que siempre quisiste saber sobre las speed e-bikes
+title: Todo la información sobre las speed e-bikes
 description: ¿Qué son las speed e-bikes? ¿Qué requisitos son necesarios para conducirlas? Resolvemos todas tus dudas.
 at: 17/05/2020 13:00
-duration: 40
-peers: Ulrich Muller (Riese & Müller).
+duration: 45
+peers: Ulrich Muller (Riese & Müller) y Klaus Kuehn-Bettelyoun (Bosch e-Bike).
 youtube: uWcSMeKV9tg
 join_url: https://my.demio.com/ref/09uLdlc4J9bKHjKc
 ----
 ### Sobre qué hablaremos en este evento
 
-Las speed e-bikes están en boca de un número cada vez mayor de personas. Se trata de vehículos que superan los 25 km/h que marca la normativa para las e-bikes, y que, por tanto, han de contar con matrícula de ciclomotor. Pero también con seguro. 
+Las speed e-bikes están en boca de un número cada vez mayor de personas. Se trata de vehículos cuya asistencia al pedaleo se frena al alcanzar los 45 km/h, en lugar de los 25km/h que marca la normativa para las e-bikes. Han de contar con matrícula, seguro, casco...  
  
-Son muchas las dudas que rodean a estas bicicletas. Trataremos de responder a todas ellas todas con un experto en la materia: Ulrich Muller (Riese & Müller). 
+Son muchas las dudas que rodean a estas bicicletas. Pero, también, la convicción por parte de muchos de que son todavía más útiles que las e-bikes a la hora de sustituir al coche o la moto. Trataremos de responder a todos estos temas con dos expertos en la materia: Ulrich Muller (Riese & Müller) y Klaus Kuehn-Bettelyoun (Bosch e-bike). 

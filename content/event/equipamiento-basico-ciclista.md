@@ -4,6 +4,7 @@ at: 16/05/2020 20:00
 duration: 75
 peers: José Luis Pardo (Comet), Ignacio Peralta (CJM Sport) y Néstor Aguilella (CDC Sport).
 youtube: 0yuPWdPpASQ
+join_url: https://my.demio.com/ref/11vIG7adZF20o6Ey
 ----
 ### Sobre qué hablaremos en este evento
 

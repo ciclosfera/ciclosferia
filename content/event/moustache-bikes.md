@@ -2,6 +2,7 @@ title: MOUSTACHE BIKES: LA CALIDAD - Vincent Higuet
 description: Entrevistamos a Vincent Higuet, responsable de la marca francesa de e-bikes Moustache Bikes.
 at: 16/05/2020 15:00
 duration: 30
+youtube: h-oq6BBjSj0
 ----
 ### Sobre qué hablaremos en este evento
 

@@ -1,7 +1,7 @@
 title: El urbanismo que está por venir 
 description: La crisis del covid-19 exige nuevas medidas y soluciones. ¿Cuáles son las mejores, las más realidad, las más ejemplares? 
 at: 16/05/2020 18:00
-duration: 75
+duration: 90
 peers: Jon Aguirre Such (arquitecto, Paisaje Transversal), Zaida Muxí (arquitecta), Miguel Álvarez (Nación Rotonda) y Juan Tur (arquitecto). 
 youtube: Iymi2-Oky68
 join_url: https://my.demio.com/ref/Gt9N2N7pam3KuzyU

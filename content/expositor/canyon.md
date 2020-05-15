@@ -10,8 +10,7 @@ contact:marketing_iberia@canyon.com
 
 Todos los días nos ponemos un reto: hacer las mejores bicis del mundo. Por eso hacemos nuestros diseños y la ingeniería en Coblenza, Alemania, y solo te vendemos directamente a ti. Sin intermediarios ni distribuidores.
 
-Tu bici tiene que estar impecable cuando te llegue. Por eso diseñamos la caja nosotros mismos para mantenerla completamente a salvo. No importa la duda que tengas, nuestro centro de  atención al cliente  puede responderte a todo en
-tu idioma.
+Tu bici tiene que estar impecable cuando te llegue. Por eso diseñamos la caja nosotros mismos para mantenerla completamente a salvo. No importa la duda que tengas, nuestro centro de  atención al cliente  puede responderte a todo en tu idioma.
 
 ¿El resultado? La mejor bici al mejor precio. Para ti. PURE CYCLING.
 

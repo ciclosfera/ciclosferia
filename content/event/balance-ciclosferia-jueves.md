@@ -2,7 +2,7 @@ title: Valoración del día e introducción al viernes.
 description: ¡Vaya jornada de festival! Repasamos juntos todo lo vivido hoy.
 at: 14/05/2020 23:45
 duration: 15
-peers: Laura Rincón y Rafa Vidiella. 
+peers: Laura Rincón y Dani Cabezas. 
 featured:1
 youtube: Z7R0tGzw6B8
 ----

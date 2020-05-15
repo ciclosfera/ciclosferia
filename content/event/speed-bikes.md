@@ -2,7 +2,7 @@ title: Todo la información sobre las speed e-bikes
 description: ¿Qué son las speed e-bikes? ¿Qué requisitos son necesarios para conducirlas? Resolvemos todas tus dudas.
 at: 17/05/2020 13:00
 duration: 45
-peers: Ulrich Muller (Riese & Müller) y Klaus Kuehn-Bettelyoun (Bosch e-Bike).
+peers: Ulrich Müller (Riese & Müller) y Klaus Kuehn-Bettelyoun (Bosch e-Bike).
 youtube: uWcSMeKV9tg
 join_url: https://my.demio.com/ref/09uLdlc4J9bKHjKc
 ----

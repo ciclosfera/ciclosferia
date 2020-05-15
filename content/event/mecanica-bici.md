@@ -4,6 +4,7 @@ at: 15/05/2020 20:00
 duration: 60
 peers: Silvia López (Todo Bici).
 youtube: m8ZSc_9euOg
+join_url: https://my.demio.com/ref/i3PRcEJuP9lrf2uT
 ----
 ### Sobre qué hablaremos en este evento
 

@@ -2,7 +2,7 @@ title: Ciudad de México: hogar Ciclosfera 
 description: Como el resto de países del mundo, también México ha sufrido la llegada del Covid-19. ¿Cómo está afectando esta crisis al ciclismo urbano en la capital mexicana?
 at: 13/05/2020 23:00
 duration: 75
-peers: Maya en Bici (periodista), Alan Huber (People For Bikes).
+peers: Maya en Bici (periodista), Alan Huber (People For Bikes), Zopi (Bicitlán Radio).
 join_url:https://my.demio.com/ref/ktBxiuayYrjT9mkO
 youtube: WVx07-g-mwQ
 ----

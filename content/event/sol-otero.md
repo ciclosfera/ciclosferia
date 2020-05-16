@@ -2,7 +2,7 @@ title: CICLOSFEROS: SOL OTERO
 description: Una leyenda hija de otra leyenda. La responsable de la tienda de bicis más antigua de Madrid. Y una loca de la bici... y Ciclosfera: Sol Otero. 
 at: 16/05/2020 12:00
 duration: 30
-youtube: hCWs6XsANTI
+youtube: n-WujK4jT_4
 
 ----
 ### Sobre qué hablaremos en este evento

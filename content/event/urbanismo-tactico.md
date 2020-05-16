@@ -8,7 +8,7 @@ join_url: https://my.demio.com/ref/Gt9N2N7pam3KuzyU
 ----
 ### Sobre qué hablaremos en este evento
 
-Todo ha cambiado: la necesidad de mantener una distancia de seguridad y el posible vínculo entre la propagación del Covid-19 y la contaminación está obligando a repensar las ciudades. Unas medidas que eran urgentes desde hace tiempo, pero que la pandemia ha traído, con la máxima prioridad, al debate público. 
+Todo ha cambiado: la necesidad de mantener una distancia de seguridad y el probado vínculo entre la propagación del Covid-19 y la contaminación obliga a repensar las ciudades. Unas medidas que eran urgentes desde hace tiempo, pero que la pandemia ha traído, con la máxima prioridad, al debate público. 
 
 Muchas ciudades ya están dando los primeros pasos para construir las urbes del futuro. Queremos saber cuáles son las medidas más habituales. Las más eficaces. Y también, por supuesto, las que quizá supongan un paso atrás, en lugar de mejorar las cosas. 
 

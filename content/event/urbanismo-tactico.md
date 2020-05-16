@@ -12,4 +12,4 @@ Todo ha cambiado: la necesidad de mantener una distancia de seguridad y el proba
 
 Muchas ciudades ya están dando los primeros pasos para construir las urbes del futuro. Queremos saber cuáles son las medidas más habituales. Las más eficaces. Y también, por supuesto, las que quizá supongan un paso atrás, en lugar de mejorar las cosas. 
 
-Varios expertos nos detallarán la situación a nivel internacional. Y, por supuesto, podremos saber qué deberíamos exigir a nuestros políticos para poder vivir, y movernos, con la máxima seguridad posibles. 
+Tres expertos nos detallarán la situación a nivel internacional. Y, por supuesto, podremos saber qué deberíamos exigir a nuestros políticos para poder vivir, y movernos, con la máxima seguridad posibles. En la charla participarán Jon Aguirre Such (arquitecto, Paisaje Transversal), Zaida Muxí (arquitecta) y Miguel Álvarez (ingeniero de caminos, Nación Rotonda).

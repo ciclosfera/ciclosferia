@@ -2,6 +2,7 @@ title: CICLOSFEROS: SAMI SAURI
 description: Ciudad, carretera o montaña... No importa: casi siempre verás a Sami Sauri sobre una bicicleta y con una sonrisa en la cara. 
 at: 17/05/2020 12:00
 duration: 30
+youtube: vUR3iDU8BKQ
 
 ----
 ### Sobre qué hablaremos en este evento

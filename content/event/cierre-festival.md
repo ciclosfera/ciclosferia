@@ -4,6 +4,8 @@ at: 17/05/2020 18:00
 duration: 50
 featured:1
 youtube: FKrqQFvTKJQ
+join_url: https://my.demio.com/ref/hMjbhKQiTjhxjveM
+
 ----
 ### Sobre qué hablaremos en este evento
 

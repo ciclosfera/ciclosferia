@@ -9,4 +9,4 @@ youtube: Y91URFZoqoc
 
 Bogotá está presente en los medios de comunicación de medio mundo por sus valientes medidas para fomentar el ciclismo urbano en tiempos de coronavirus. Medellín también está repleta de ciudadanos pedaleando. Y lo mismo pasa en otros lugares de este precioso país sudamericano. 
 
-¿Por qué en Colombia? ¿Cómo es pedalear allí? ¿Qué lecciones podemos aprender, y compartir, de la cultura ciclista local? Aprovechando los muchos y buenos amigos que tenemos en el país, queremos contemplar el panorama y extraer nuestras propias conclusiones. ¡No te lo pierdas!
+¿Por qué en Colombia? ¿Cómo es pedalear allí? ¿Qué lecciones podemos aprender, y compartir, de la cultura ciclista local? Aprovechando los muchos y buenos amigos que tenemos en el país, quisimos contemplar el panorama y extraer nuestras propias conclusiones. ¡No te lo pierdas!

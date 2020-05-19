@@ -8,4 +8,4 @@ youtube: -LPW3mZifVo
 ----
 ### Sobre qué hablaremos en este evento
 
-Las emociones fuertes continúan en Ciclosferia. Repasamos el programa del día y contamos nuevas novedades. ¡Además, celebramos con vosotros que es viernes y que el festival continúa el fin de semana!
+Las emociones fuertes continuaban en Ciclosferia. Repasamos el programa del día y contamos las novedades que iban a tener lugar ese día. ¡Además, celebramos con vosotros que era viernes y que aún quedaban dos días completos más para que terminase Ciclosferia!

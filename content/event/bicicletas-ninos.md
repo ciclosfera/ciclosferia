@@ -11,6 +11,6 @@ Una charla imprescindible. Un tema que debemos abordar: el de cómo forjar a los
 
 Son muchísimos los padres que querrían llevar a sus hijos en bicicleta al colegio. Que quieren que sus pequeños gocen de la independencia, responsabilidad y bienestar que genera usar ese medio de transporte, sobre todo a edades tempranas. Y, sin embargo… 
 
-Si tienes hijos pero no sabes qué iniciativas existen en diferentes ciudades, este es el evento que estabas esperando. Si quieres conocer entidades, proyectos, consejos, formas de hacer que la experiencia de rodar con tus hijos a diario por la ciudad sea absolutamente satisfactoria, no te lo pierdas. 
+Si tienes hijos pero no sabes qué accesorios existen para tranportar a tu pequeño o pequeña, este es el evento que estabas esperando. Si quieres conocer consejos, herramientas, formas de hacer que la experiencia de rodar con tus hijos a diario por la ciudad sea absolutamente satisfactoria, no te lo pierdas. 
 
-Hablaremos de cómo educar a los niños para que reconozcan la bicicleta como un medio de transporte. De iniciativas que fomentan desde las escuelas el uso de la bicicleta. De accesorios que permiten que padres e hijos disfruten de sus trayectos. Una charla de presente y, sobre todo... futuro. 
+Hablaremos de cómo educar a los niños para que reconozcan la bicicleta como un medio de transporte. De accesorios que permiten que padres e hijos disfruten de sus trayectos. Una charla de presente y, sobre todo... futuro. 

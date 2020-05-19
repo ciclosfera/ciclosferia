@@ -6,6 +6,6 @@ peers: Dani Cabezas y Rafa Vidiella.
 featured:1
 youtube: A5IwsDsKQIA
 ----
-### Sobre qué hablaremos en este evento
+### Sobre qué hablamos en este evento
 
-Seguro que ya estáis deseando que empiecen los nuevos eventos de la jornada, Dani y Rafa te contarán todo lo que viene. ¡Atentos!
+ Dani y Rafa hacen un resumen de todo lo que deparaba la jornada. Muchas bromas fueron lanzadas por los dos cómicos (en su tiempo libre) de Ciclosfera . Si quieres reírte un rato.. ¡No te lo pierdas!

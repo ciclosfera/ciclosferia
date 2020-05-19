@@ -5,7 +5,7 @@ duration: 30
 youtube: J3FJKxqZ3Kc
 share_img: /static/share/carla-suarez.jpg
 ----
-### Sobre qué hablaremos en este evento
+### Sobre qué hablamos en este evento
 
 En Ciclosferia tienen cabida todos aquellos que aman la bicicleta. Y Carla Suárez (Las Palmas de Gran Canaria, 1988) disfruta del pedaleo casi tanto como del tenis.
 

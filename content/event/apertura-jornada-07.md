@@ -6,6 +6,6 @@ peers: Dani Cabezas y Rafa Vidiella.
 featured:1
 youtube: jOx-JeikDoM
 ----
-### Sobre qué hablaremos en este evento
+### Sobre qué hablamos en este evento
 
-Como no podía ser de otra manera el útlimo día de Ciclosferia tenía que ser muy especial. Atención al repaso del horario diario porque... ¡vienen sorpresas!
+Como no podía ser de otra manera el útlimo día de Ciclosferia tenía que ser muy especial. Atención al repaso del horario diario porque... ¡había sorpresas!

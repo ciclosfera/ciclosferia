@@ -7,10 +7,10 @@ youtube: FKrqQFvTKJQ
 join_url: https://my.demio.com/ref/hMjbhKQiTjhxjveM
 
 ----
-### Sobre qué hablaremos en este evento
+### Sobre qué hablamos en este evento
 
-Las casualidades existen… o no. El último día de Ciclosferia coincide, exactamente, con el octavo aniversario de Ciclosfera.
+Las casualidades existen… o no. El último día de Ciclosferia coincidió, exactamente, con el octavo aniversario de Ciclosfera.
 
-Por eso queremos cerrar este evento con toda la alegría y la ilusión del mundo. Agradeciendo a todos los participantes, espectadores y patrocinadores el haber sido parte de una cita inolvidable. Recordando mucho de lo transcurrido a lo largo de esta semana pero, también, de todo lo vivido a lo largo de estos intensos ocho años, los transcurridos desde que tuvimos el primer número de nuestra revista impresa.
+Por eso quisimos cerrar este evento con toda la alegría y la ilusión del mundo. Agradeciendo a todos los participantes, espectadores y patrocinadores el haber sido parte de una cita inolvidable. Recordando mucho de lo transcurrido a lo largo de esta semana pero, también, de todo lo vivido a lo largo de estos intensos ocho años, los transcurridos desde que tuvimos el primer número de nuestra revista impresa. Para ello contamos con amigos que nos han acompañado a lo largo de este tiempo, fue bonito reencontrarnos.
 
-Una jornada muy, muy especial. Una despedida a la altura. Tenemos que despedirnos. Tenemos, sobre todo, que saludarnos y quedar para volver a vernos muy pronto. ¡Gracias por pedalear con nosotros!
+Una jornada muy, muy especial. Una despedida a la altura. Nos despedimos. Dobre todo, nos saludamos y quedamos para volver a vernos muy pronto. ¡Gracias por pedalear con nosotros!

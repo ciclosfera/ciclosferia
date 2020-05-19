@@ -4,9 +4,8 @@ at: 16/05/2020 22:00
 duration: 75
 peers: Mauro Mesa (SiClas Medellín) y Mario Rodas (BiciRed Colombia). 
 youtube: Y91URFZoqoc
-join_url: https://my.demio.com/ref/AmPnsXMaSgYWZ8b9
 ----
-### Sobre qué hablaremos en este evento
+### Sobre qué hablamos en este evento
 
 Bogotá está presente en los medios de comunicación de medio mundo por sus valientes medidas para fomentar el ciclismo urbano en tiempos de coronavirus. Medellín también está repleta de ciudadanos pedaleando. Y lo mismo pasa en otros lugares de este precioso país sudamericano. 
 

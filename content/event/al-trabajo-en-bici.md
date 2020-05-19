@@ -6,7 +6,7 @@ peers: Ignacio Prieto (Tragsa), Gregorio Magno (Ciclogreen) y Carlos Núñez (AM
 youtube: uGzZ3E3SSpM
 share_img: /static/share/trabajo-en-bici.jpg
 ----
-### Sobre qué hablaremos en este evento
+### Sobre qué hablamos en este evento
 
 Está demostrado: las personas que acuden en bicicleta a sus puestos de trabajo gozan de mejor salud, llegan más estimulados y son más productivos que el resto. Si tienes una empresa… ¿no te gustaría fomentar el ciclismo de alguna forma?
 

@@ -3,17 +3,16 @@ description: Todo lo que deberías saber para iniciarte en el ciclismo urbano
 at: 13/05/2020 20:15
 duration: 75
 peers: Juan G. Alberdi (En bici por Madrid), Eli Sánchez (ciclista urbana en Londres), Miguel Santalices (Eroica Caffé, BCN).
-join_url:https://my.demio.com/ref/fSNu1e4a2Yj2Lv2A
 youtube: 21TujaBObx8
 ----
-### Sobre qué hablaremos en este evento
+### Sobre qué hablamos en este evento
 
 No, no es peligroso. No tienes por qué sudar tanto. Cualquier cuesta es superable. Y tampoco tienen por qué robarte la bici. Por desgracia, mucha gente no se lanza a moverse en bicicleta por haber escuchado, decenas de veces, argumentos que muestran como algo muy complicado el ser “commuter”.
 
-Es lógico que surjan dudas, pero queremos solucionarlas: por eso planteamos un debate en el que distintos ciclistas urbanos, que se mueven a diario en bici, explicarán todo lo que necesitas saber para pedalear por tus calles.
+Es lógico que surjan dudas, pero queremos solucionarlas: por eso planteamos un debate en el que distintos ciclistas urbanos, que se mueven a diario en bici, explicaron todo lo que necesitas saber para pedalear por tus calles.
 
-Rutas, material y conocimientos básicos, qué bicicleta elegir… La oportunidad que esperabas para, con el consejo de expertos, unirte de una vez por todas al ciclismo urbano. Súmate. Sé uno más. Contaremos con [Juan G. Alberdi](https://twitter.com/juanitez70?lang=en) (Juanítez), autor de una de las tiras más populares con consejos para moverse en bici, 'El gato Peráltez', con Eli Sánchez, que nos contará su experiencia como ciclista urbana en Londres, y con Miguel Santalices, de Eroica Caffe (Barcelona). 
+Rutas, material y conocimientos básicos, qué bicicleta elegir… La oportunidad que esperabas para, con el consejo de expertos, unirte de una vez por todas al ciclismo urbano. Súmate. Sé uno más. Contamos con [Juan G. Alberdi](https://twitter.com/juanitez70?lang=en) (Juanítez), autor de una de las tiras más populares con consejos para moverse en bici, 'El gato Peráltez', con Eli Sánchez, que nos contó su experiencia como ciclista urbana en Londres, y con Miguel Santalices, de Eroica Caffe (Barcelona). 
  
-Una oportunidad para saber todo lo que siempre quisiste saber sobre la bici y nunca preguntaste. 
+Una oportunidad para saber todo lo que siempre quisiste conocer sobre la bici y nunca preguntaste. 
 
  

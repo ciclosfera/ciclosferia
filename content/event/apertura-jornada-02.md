@@ -6,6 +6,6 @@ peers: Dani Cabezas y Rafa Vidiella.
 featured:1
 youtube: XlqqQuPiTuM
 ----
-### Sobre qué hablaremos en este evento
+### Sobre qué hablamos en este evento
 
 Segunda jornada... Y muchas emociones fuertes. Repasamos el horario del día: una jornada muy muy especial, en la que nos aguardaba alguna sorpresa impactante. 

@@ -6,7 +6,7 @@ peers: Jaime Novo (Madrid), Areli Carreón (CDMX), Jimena Pérez (Salta, Argenti
 
 youtube: Q_82HCdNB54
 ----
-### Sobre qué hablaremos en este evento
+### Sobre qué hablamos en este evento
 
 Los alcaldes de la bicicleta representan a los ciclistas urbanos en las ciudades. Le dan visibilidad a la bicicleta. Intentan coordinar fuerzas, reunir entidades, presentarle propuestas a todo tipo de instituciones y empresas. 
 

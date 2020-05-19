@@ -4,7 +4,7 @@ at: 13/05/2020 15:00
 duration: 30
 youtube: T3IFeg247Lw
 ----
-### Sobre qué hablaremos en este evento
+### Sobre qué hablamos en este evento
 
 BH y ciclismo van de la mano. Desde el nacimiento de esta legendaria marca española en 1910 a mano de los hermanos alaveses Domingo, Juan y Cosme Beistegui Albistegui, la marca se ha convertido en un referente mundial. 
 

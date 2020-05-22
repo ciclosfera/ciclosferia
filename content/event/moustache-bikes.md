@@ -4,7 +4,7 @@ at: 16/05/2020 15:00
 duration: 30
 youtube: h-oq6BBjSj0
 ----
-### Sobre qué hablaremos en este evento
+### Sobre qué hablamos en este evento
 
 Les conocimos hace unos años, cuando Moustache Bikes acababa de aterrizar en España y era una marca casi desconocida en el, todavía, novedoso sector de las e-bikes. 
 

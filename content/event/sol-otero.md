@@ -5,7 +5,7 @@ duration: 30
 youtube: OXTTIFH3RWc
 
 ----
-### Sobre qué hablaremos en este evento
+### Sobre qué hablamos en este evento
 
 El ciclismo urbano despertó en Madrid... y Ciclos Otero ya estaba allí. Uno de los lugares de peregrinaje obligados de cualquier loco de la bicicleta, donde además de encontrar modelos imprescindibles encontrarás a Sol Otero. 
 

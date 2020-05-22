@@ -4,7 +4,7 @@ at: 14/05/2020 17:30
 duration: 25
 youtube: ANeUJdIiLHw
 ----
-### Sobre qué hablaremos en este evento
+### Sobre qué hablamos en este evento
 
 Pinchar es una de las mayores precauciones de cualquier ciclista, entre ellos los urbanos. ¿Te imaginas que existiera un neumático que evitará esa molestísima situación? Pues... Existe. Se llaman Tannus Tires, vienen de Corea y están revolucionando el mercado de accesorios ciclistas. 
 

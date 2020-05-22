@@ -5,8 +5,8 @@ duration: 30
 youtube: _HGV-mfhs1w
 share_img: /static/share/gonzalo-perez-de-vargas-entrevista.jpg
 ----
-### Sobre qué hablaremos en este evento
+### Sobre qué hablamos en este evento
 
 Portero del F.C. Barcelona y de la selección española de balonmano, Gonzalo Pérez de Vargas se mueve a todas partes en bicicleta, y más en concreto en una Riese & Müller. 
 
-Ciclismo urbano, cómo lleva el confinamiento, las ciudades después del covid-19... Media hora en la que, seguro, conoceremos facetas desconocidas y muy interesantes de la vida de un deportista de élite. ¡No te la pierdas!
+Ciclismo urbano, cómo lleva el confinamiento, las ciudades después del covid-19... Media hora en la que conocimos facetas desconocidas y muy interesantes de la vida de un deportista de élite. ¡No te la pierdas!

@@ -4,10 +4,9 @@ at: 17/05/2020 16:00
 duration: 70
 peers: Carlos Rodríguez, Nacho Tomás y Laura Vergara.
 youtube: o2vEyqnHLFI
-join_url:https://my.demio.com/ref/Cdv4ZVDFQ7yAP5aF
 ----
-### Sobre qué hablaremos en este evento
+### Sobre qué hablamos en este evento
 
 Entramos en el último día del festival y queremos reflexionar sobre los cambios que ha provocado el Covid-19. Una pandemia que, quizá, pueda generar un nuevo paradigma, un cambio en la sociedad, una profunda reflexión sobre nuestros antiguos hábitos y cómo estos eran incompatibles con conceptos como la solidaridad, la justicia o la sostenibilidad. 
 
-Para esta charla tan importante contaremos con Laura Vergara (Coordinadora Conbici), Nacho Tomás (Red de Ciudades por la Bicicleta) y Carlos Rodríguez (30 Días en Bici).
+Para esta charla tan importante contamos con Laura Vergara (Coordinadora Conbici), Nacho Tomás (Red de Ciudades por la Bicicleta) y Carlos Rodríguez (30 Días en Bici).

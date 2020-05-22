@@ -5,7 +5,7 @@ duration: 60
 peers: Silvia López (Todo Bici).
 youtube: m8ZSc_9euOg
 ----
-### Sobre qué hablaremos en este evento
+### Sobre qué hablamos en este evento
 
 Si siempre has soñado con tener conocimientos sobre mecánica y ser capaz de arreglar tu bicicleta por ti mismo, este es el taller que necesitas. 
 

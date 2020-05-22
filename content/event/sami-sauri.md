@@ -5,7 +5,7 @@ duration: 30
 youtube: vUR3iDU8BKQ
 
 ----
-### Sobre qué hablaremos en este evento
+### Sobre qué hablamos en este evento
 
 Conocimos a Sami Sauri en Berlín, durante una Berliner Fahrradschau. Unos años después, esta apasionada ciclista rueda por terrenos de todo el mundo a lomos de una Specialized. 
 
